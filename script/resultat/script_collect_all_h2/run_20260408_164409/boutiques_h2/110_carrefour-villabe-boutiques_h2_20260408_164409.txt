@@ -1,0 +1,51 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-villabe/boutiques/
+Date: 20260408_164409
+Nombre de titres: 46
+
+001. Carrefour
+002. Alain Afflelou
+003. Atol
+004. Au tour du comptoir
+005. Balenzo
+006. BARLOU BURGER
+007. Bleu Libellule
+008. Body Minute
+009. Bouygues Telecom
+010. Carrefour Banque & Assurance
+011. Carrefour Fleurs
+012. Carrefour Location
+013. Carrefour Spectacles
+014. Carrefour Voyages
+015. CCV
+016. Chamarel
+017. Cleor
+018. Clin Pressing
+019. Cordonnerie Clés
+020. Délices d’Orient
+021. Eléphant Bleu
+022. Elliot James
+023. Excellence
+024. Fabio Salsa
+025. Feu Vert
+026. Franck Provost
+027. Générale d’Optique
+028. Histoire d’Or
+029. HOME DONUTS
+030. Jeff de Bruges
+031. Les Opticiens Conseils
+032. Mag Presse
+033. Marionnaud
+034. Micromania
+035. Nails Villabé
+036. O’Tacos
+037. Orange
+038. Pharmacie
+039. Photomaton
+040. Point Smoke
+041. Promod
+042. Société Générale
+043. Station Service
+044. Toscane
+045. Vinted Go
+046. Yves Rocher

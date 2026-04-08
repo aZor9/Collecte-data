@@ -1,0 +1,16 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-dole/boutiques/
+Date: 20260408_164409
+Nombre de titres: 11
+
+001. CARREFOUR
+002. ACTION
+003. BOUYGUES TELECOM
+004. maxi zoo
+005. NOCIBE
+006. SAINT ALGUE
+007. The Barber Company
+008. Histoire d’Or
+009. LE CERCLE DE LA VAP
+010. LE COLLECTIF DES LUNETIERS
+011. QIPAO

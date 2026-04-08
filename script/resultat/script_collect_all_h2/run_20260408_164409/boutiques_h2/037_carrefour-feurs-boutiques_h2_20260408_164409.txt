@@ -1,0 +1,13 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-feurs/boutiques/
+Date: 20260408_164409
+Nombre de titres: 8
+
+001. Carrefour
+002. Carrefour Banque
+003. Crescendo
+004. Opticeo
+005. Photomaton
+006. Pil’Vite
+007. Saint Algue
+008. Welcom’

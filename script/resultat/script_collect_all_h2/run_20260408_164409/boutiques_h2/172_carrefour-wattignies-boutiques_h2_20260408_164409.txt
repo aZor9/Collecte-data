@@ -1,0 +1,14 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-wattignies/boutiques/
+Date: 20260408_164409
+Nombre de titres: 9
+
+001. CARREFOUR
+002. Autour du comptoir
+003. Cafétéria
+004. Générale d’Optique
+005. Kodak
+006. Pharmacie de l’Arbrisseau
+007. Phildar
+008. Pressing 5 à Sec
+009. Services Minutes

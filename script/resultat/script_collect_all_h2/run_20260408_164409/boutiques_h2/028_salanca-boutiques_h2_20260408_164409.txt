@@ -1,0 +1,87 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/salanca/boutiques/
+Date: 20260408_164409
+Nombre de titres: 82
+
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Armand d’Orleac
+005. Beauty Success
+006. Bleu Cerise
+007. Bohēbon
+008. Bouygues Telecom
+009. Brasserie Le Sant Jordi
+010. BZB
+011. Calzedonia
+012. Carrefour Banque
+013. Carrefour Spectacles
+014. Carrefour Voyages
+015. Celio
+016. Centre dentaire Vertuo
+017. Chaussea
+018. Claire’s
+019. Courir
+020. Crêpe Touch
+021. Darjeeling
+022. Devred 1902
+023. Easy Cash
+024. EASY NAILS
+025. ETIENNE Coffee Shop
+026. Event's
+027. Feu Vert
+028. Flunch
+029. Foot Korner
+030. Foot Locker
+031. Franck Provost
+032. Free
+033. Gémo
+034. GRAIN DE MALICE
+035. Histoire d'Or
+036. Intimissimi
+037. Izac
+038. Jeff de Bruges
+039. Jules
+040. Kiko Milano
+041. Krys
+042. L’Apo Tea Care
+043. L’Azurite
+044. La Boutique du Coiffeur
+045. La Casa de las Carcasas
+046. Le Comptoir de Mathilde
+047. Les P’tites Bombes
+048. Lynx Optique « You Do »
+049. Maison 123
+050. Maisons du Monde
+051. Mango
+052. Mc Donald’s
+053. Micromania
+054. Mister Minit
+055. Morgan
+056. Nike Factory
+057. NOHO
+058. Okaïdi
+059. ONLY
+060. OQUALI'NET
+061. Orange
+062. Ouverture de ZK Flowers à Salanca !
+063. Photomaton
+064. Plaisirs Gourmands
+065. Promod
+066. Punt Roma
+067. RÉPAR'CASH
+068. Rituals
+069. Sergent Major
+070. SFR
+071. SHILTON
+072. Sport 2000
+073. Sun Hair
+074. Swarovski
+075. The Barber Company
+076. Undiz
+077. Vapotime
+078. Vib’s – Cache-Cache Bonobo
+079. WAS – We Are Select
+080. Whoopy
+081. Yogurt Factory
+082. Yves Rocher

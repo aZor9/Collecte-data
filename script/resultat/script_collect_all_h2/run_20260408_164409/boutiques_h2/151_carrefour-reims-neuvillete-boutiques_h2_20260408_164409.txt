@@ -1,0 +1,19 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-reims-neuvillete/boutiques/
+Date: 20260408_164409
+Nombre de titres: 14
+
+001. CARREFOUR
+002. 1 2 3 Pare brise
+003. COIFFURE PLUS
+004. Ecoute et voir
+005. MARIONNAUD
+006. Qipao
+007. BASIC FIT
+008. CAFETERIA
+009. DECATHLON
+010. KFC
+011. LA CHTITE FRITE
+012. LEROY MERLIN
+013. O GRAND BUFFET
+014. TIC TAC BIJOUX

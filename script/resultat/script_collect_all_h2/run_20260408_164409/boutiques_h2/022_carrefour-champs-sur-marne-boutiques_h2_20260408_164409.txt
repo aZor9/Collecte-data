@@ -1,0 +1,24 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-champs-sur-marne/boutiques/
+Date: 20260408_164409
+Nombre de titres: 19
+
+001. Carrefour
+002. Alain Afflelou
+003. Beauty Phone
+004. Cabinet Dentaire Vertuo
+005. Carrefour Finances
+006. Chicken Spot
+007. CIC
+008. Com In
+009. Kim Pressing
+010. Kodak Express
+011. Marionnaud
+012. Mister Minit
+013. Optic 2000
+014. Pharmacie
+015. Photomaton
+016. Restaurant Wok King
+017. Stéphane Plaza
+018. Tabac
+019. Vapostore

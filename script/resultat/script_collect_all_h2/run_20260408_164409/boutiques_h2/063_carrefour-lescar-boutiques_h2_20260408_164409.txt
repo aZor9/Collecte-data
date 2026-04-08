@@ -1,0 +1,58 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-lescar/boutiques/
+Date: 20260408_164409
+Nombre de titres: 53
+
+001. Carrefour
+002. Aélys
+003. Alain Afflelou
+004. Beauty Experts
+005. Bijoux Cailloux
+006. Bleu Libellule
+007. BOHÉBON
+008. Bouygues Telecom
+009. Brasserie La Fabbrica
+010. Carrefour Banque
+011. Carrefour Voyages
+012. Celio
+013. Ci Gusto
+014. Columbus Café
+015. Crêp’eat
+016. DAB Carrefour
+017. DAB Crédit Agricole
+018. Devred 1902
+019. EAT SALAD
+020. Espace SFR
+021. Etam Lingerie
+022. ETIENNE Coffee & Shop
+023. Free
+024. Générale d’Optique
+025. H&M
+026. Histoire d’Or
+027. Jack & Jones
+028. Jeff de Bruges
+029. Kézako
+030. Kiko Milano
+031. KOZA
+032. Krys
+033. Le Comptoir de Mathilde
+034. Micromania
+035. Mister Minit
+036. MS Mode
+037. New Yorker
+038. Nocibé
+039. Normal
+040. Orange
+041. Photomaton
+042. Pressing Bel et Blanc
+043. Profil
+044. So Or by Calame
+045. SOUSOU FRIPERIE
+046. Stephan
+047. Tape à l’Oeil
+048. The Barber Company
+049. Toscane
+050. Ultra Premium Direct
+051. Vertuo
+052. Vietnam
+053. Yves Rocher

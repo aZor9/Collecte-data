@@ -1,0 +1,7 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-etampes/boutiques/
+Date: 20260408_164409
+Nombre de titres: 2
+
+001. Carrefour
+002. Mister Minit

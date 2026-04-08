@@ -1,0 +1,29 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-reims-tinqueux/boutiques/
+Date: 20260408_164409
+Nombre de titres: 24
+
+001. Carrefour
+002. 5àsec
+003. Aélys
+004. BPLC Banque
+005. Carrefour Banque
+006. Carrefour Location
+007. Carrefour Spectacles
+008. Carrefour Voyages
+009. Chocolatier DeNeuville
+010. Christine Laure
+011. Clopinette
+012. Flunch
+013. Générale d’Optique
+014. Marionnaud
+015. Mc Donald’s
+016. Medzo Coiffure
+017. Mister Minit
+018. O’tacos
+019. Okaïdi
+020. Optic 2000
+021. Photomaton
+022. Point Plus
+023. SoBio
+024. Vertuo

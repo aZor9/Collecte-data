@@ -1,0 +1,13 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-mondelange/boutiques/
+Date: 20260408_164409
+Nombre de titres: 8
+
+001. CARREFOUR
+002. ALAIN AFFLELOU
+003. BREAL
+004. DIAGONAL
+005. NOCIBE
+006. QIPAO
+007. Cafétaria
+008. EUROPE SERVICES

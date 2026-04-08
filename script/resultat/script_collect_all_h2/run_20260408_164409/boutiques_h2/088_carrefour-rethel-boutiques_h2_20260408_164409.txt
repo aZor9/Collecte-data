@@ -1,0 +1,19 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-rethel/boutiques/
+Date: 20260408_164409
+Nombre de titres: 14
+
+001. Carrefour
+002. Aquasis
+003. Arc En Ciel Pressing
+004. Bijou Brigitte
+005. Chaussea
+006. Cordonnerie
+007. Couleur Cafe
+008. Krys
+009. Marseillan Telecom
+010. Passion Beaute
+011. Presse
+012. Un Autre Regard
+013. Winsport
+014. Yves Rocher

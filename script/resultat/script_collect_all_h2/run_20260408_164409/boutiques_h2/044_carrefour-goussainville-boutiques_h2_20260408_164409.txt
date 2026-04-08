@@ -1,0 +1,22 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-goussainville/boutiques/
+Date: 20260408_164409
+Nombre de titres: 17
+
+001. Carrefour
+002. Body’Minute
+003. Cordonnerie/ Clé Minute/ Pressing
+004. Dorella
+005. FABIO SALSA
+006. Fleuriste
+007. Foot Korner
+008. Krys
+009. LA ROMAINVILLE
+010. Laverie Automatique
+011. Le Sancerre
+012. Maison de la presse, tabac, loto
+013. Memo Barber
+014. Pharmacie
+015. Photomaton
+016. Save
+017. Skiny Vape

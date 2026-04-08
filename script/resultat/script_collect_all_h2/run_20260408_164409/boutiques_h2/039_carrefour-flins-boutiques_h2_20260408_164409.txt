@@ -1,0 +1,59 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-flins/boutiques/
+Date: 20260408_164409
+Nombre de titres: 54
+
+001. Carrefour
+002. Beegee'z
+003. 5àsec
+004. Adopt’
+005. Alain Afflelou
+006. ALIVE
+007. Audio pour tous
+008. B&M
+009. BEAUTY SUCCESS
+010. Bleu Libellule
+011. BODY MINUTE
+012. Bouygues Telecom
+013. Brioche Dorée
+014. C&A
+015. Carrefour Voyages
+016. Cigusto
+017. ClopiNette
+018. Compagnie du bagage
+019. Darjeeling
+020. Dim Sum
+021. DREAM DONUTS
+022. Eleganzza
+023. Fitness Park
+024. Franck Provost
+025. Free
+026. Générale d’Optique
+027. Grand Optical
+028. Histoire d’Or
+029. IJO
+030. JD Sport
+031. JOYCE
+032. Jules
+033. Krys
+034. La cordonnerie Turquoise
+035. Le comptoir de Mathilde
+036. Le salon Hair
+037. Marc Orian
+038. Marionnaud
+039. Micromania
+040. Okaïdi
+041. Opticiens Conseils
+042. Orange
+043. Pharmacie
+044. Promovacances
+045. Quick
+046. RIU Paris
+047. SAGA DES MARQUES
+048. Save
+049. Sergent Major
+050. SFR
+051. The Barber Compagny
+052. TrésOr
+053. Valège
+054. Yves Rocher

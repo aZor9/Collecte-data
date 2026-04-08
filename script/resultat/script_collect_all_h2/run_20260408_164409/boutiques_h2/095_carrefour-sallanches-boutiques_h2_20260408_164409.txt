@@ -1,0 +1,19 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-sallanches/boutiques/
+Date: 20260408_164409
+Nombre de titres: 14
+
+001. Carrefour
+002. Alain Afflelou
+003. Auto Beauté
+004. Brasserie Little Cook
+005. Carrefour Banque
+006. Cigusto
+007. Cleor
+008. Crescendo
+009. Express Services
+010. Flower Shop
+011. Kodak Express
+012. Oïa
+013. Pharmacie
+014. Shampoo

@@ -1,0 +1,43 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-aix-la-pioline/boutiques/
+Date: 20260408_164409
+Nombre de titres: 38
+
+001. Carrefour
+002. BAMBOUDORE
+003. BLEU CERISE
+004. Bouygues Télécom
+005. CARE
+006. Carrefour Banque
+007. Carrefour Fleurs
+008. Carrefour Spectacles
+009. Carrefour Voyages
+010. Charline Lingerie
+011. CHIC NAILS
+012. Columbus Café
+013. DETAIL CAR
+014. Etam Lingerie
+015. FeuVert
+016. Franck Provost
+017. Grand Optical
+018. HappeSmoke – cigarette électronique
+019. Histoire d’Or
+020. IMO Lavage Auto
+021. Inter Service Minute
+022. Jeff de Bruges
+023. Johnny Jane
+024. La Boutique du Coiffeur
+025. LE COMPTOIR DE MATHILDE
+026. Les P’tites Bombes
+027. Marionnaud
+028. Mc Donald’s
+029. Micromania
+030. MUY MUCHO
+031. NORMAL
+032. Orange
+033. Pharmacie de la Pioline
+034. POKAWA
+035. Promod
+036. RITUALS
+037. Seven’s
+038. SFR

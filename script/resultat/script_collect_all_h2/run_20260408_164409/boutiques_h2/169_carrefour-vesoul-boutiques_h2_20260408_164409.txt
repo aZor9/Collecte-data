@@ -1,0 +1,28 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-vesoul/boutiques/
+Date: 20260408_164409
+Nombre de titres: 23
+
+001. Carrefour
+002. Afflelou
+003. April parfumerie
+004. Au croustillant
+005. Cafétéria
+006. Clope Store
+007. JS COIFFURE
+008. Micromania Zing
+009. Pause gourmande
+010. QDL Bombe
+011. Service minute
+012. Soleil Bleu
+013. SUPER COIFF
+014. Zip
+015. Action
+016. Agence automobile
+017. Aldi
+018. Basic-fit
+019. La Maison du pneu Mariotte
+020. Maxi Resto Rapide Pizza
+021. McDonald’s
+022. Sport passion
+023. Tabac Le Joker

@@ -1,0 +1,38 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/mondevillage/boutiques/
+Date: 20260408_164409
+Nombre de titres: 33
+
+001. 4MURS
+002. Actimag
+003. Alinéa
+004. B&M
+005. Besson Chaussures
+006. Bleu Libellule
+007. C&A
+008. CCV
+009. Coiff&co
+010. CUISINE PLUS
+011. Cultura
+012. Flunch
+013. H&H
+014. Jour de fête
+015. Kimy
+016. Krys
+017. LA FOIR’FOUILLE
+018. La Halle – Chaussures et Vêtements
+019. Lapeyre
+020. Made in Dé
+021. Maison de la Literie
+022. Maisons du Monde
+023. Maxi Zoo
+024. Memphis Coffee
+025. Meubles Gautier
+026. Mobalpa
+027. Optic 2000
+028. Orchestra Prémaman
+029. Poltronesofà
+030. Réauté Chocolat
+031. Schmidt
+032. Subway
+033. Tape à l’œil

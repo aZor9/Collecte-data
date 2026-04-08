@@ -1,0 +1,51 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-laval/boutiques/
+Date: 20260408_164409
+Nombre de titres: 46
+
+001. Carrefour
+002. LEONIDAS
+003. Adopt’
+004. Alain Afflelou
+005. BARBER COMPANY
+006. BLUE BOX
+007. Bouygues Telecom
+008. BURGER KING
+009. BZB
+010. Carrefour Spectacles
+011. Courir
+012. ERAM
+013. Etam Lingerie
+014. FREE
+015. Histoire d’Or
+016. IONA
+017. JACK & JONES
+018. Jules
+019. Julien d’Orcel
+020. Kiko Milano
+021. LA BOUTIQUE DES ARTISANS
+022. La Boutique Du Coiffeur
+023. Le Comptoir de Mathilde
+024. Le Fournil Saint André
+025. Le Victoria
+026. Marionnaud
+027. Micromania
+028. Midwest
+029. MILOME
+030. MS Mode
+031. Normal
+032. Okaïdi
+033. Orange
+034. Pharmacie
+035. PHOTOMATON
+036. PITAYA
+037. PROMOVACANCES
+038. Rituals
+039. Saint Algue
+040. Sergent Major
+041. SFR
+042. SUNNY’S DINER
+043. Tape à l’œil
+044. Undiz
+045. Vapostore
+046. WeFix

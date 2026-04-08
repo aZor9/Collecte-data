@@ -1,0 +1,51 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-iroise/boutiques/
+Date: 20260408_164409
+Nombre de titres: 46
+
+001. Carrefour
+002. S et Compagnie
+003. Action
+004. Adopt’
+005. Basic fit
+006. Body Minute
+007. Boulangerie Augustin
+008. Bouygues Telecom
+009. Brico Dépôt
+010. Cache Cache
+011. Carrefour Banque
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. CIC
+015. ClopiNette
+016. Cordonnerie
+017. Eram
+018. Générale d’optique
+019. Histoire d’Or
+020. Intersport
+021. Izee
+022. Jeff de Bruges
+023. Krys
+024. L’Image in R
+025. La Boutique des Artisans
+026. La Boutique du Coiffeur
+027. Le Magellan
+028. Look Success
+029. Marionnaud
+030. Maxi Zoo
+031. MS Mode
+032. Normal
+033. Okaïdi
+034. Pharmacie
+035. Phone Cash
+036. Photomaton
+037. PIMA
+038. Quand l'occasion se présente
+039. RougeGorge Lingerie
+040. Saint Algue coiffeur
+041. Saveurs du Monde
+042. SFR
+043. SO OR
+044. The Barber Company
+045. WeFix
+046. Yves Rocher

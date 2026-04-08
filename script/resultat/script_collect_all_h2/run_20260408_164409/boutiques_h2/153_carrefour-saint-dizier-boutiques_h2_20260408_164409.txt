@@ -1,0 +1,11 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-saint-dizier/boutiques/
+Date: 20260408_164409
+Nombre de titres: 6
+
+001. CARREFOUR
+002. ATOL
+003. CIC
+004. CLE TALONS MINUTES
+005. EPI TETE
+006. ICOIF

@@ -1,0 +1,24 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-courrieres/boutiques/
+Date: 20260408_164409
+Nombre de titres: 19
+
+001. Carrefour
+002. Cleor
+003. Maxi Zoo
+004. Pharmacie de l’Europe
+005. Vape & Factory
+006. Access Coiffure
+007. Action
+008. Basic Fit
+009. Cafétéria
+010. Cafétéria Autour du Comptoir
+011. Centrakor
+012. Comme chez Babcia
+013. Feu Vert
+014. Intersport Outlet
+015. Iris Optic
+016. JYSK
+017. McDonald’s
+018. Stand Buy Me
+019. TAKKO Fashion

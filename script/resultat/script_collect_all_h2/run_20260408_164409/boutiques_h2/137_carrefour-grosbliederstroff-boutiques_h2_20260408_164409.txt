@@ -1,0 +1,9 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-grosbliederstroff/boutiques/
+Date: 20260408_164409
+Nombre de titres: 4
+
+001. CARREFOUR
+002. COIFFURE SERVICE
+003. LE CROUSTILLANT
+004. ROYER VOYAGES

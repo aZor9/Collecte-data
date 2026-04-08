@@ -1,0 +1,70 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/barentin/boutiques/
+Date: 20260408_164409
+Nombre de titres: 65
+
+001. Carrefour
+002. 5 à sec
+003. Abystyle
+004. Alain Afflelou
+005. BAB bar à beauté
+006. Bag-city
+007. Banette
+008. Body minute
+009. Bonobo Femme
+010. Bonobo Homme
+011. Bouygues Télécom
+012. Bréal
+013. C&A
+014. Cache-cache
+015. Carrefour Banque
+016. Carrefour Voyages
+017. Celio
+018. Claire’s accessories
+019. Claro by Afflelou
+020. Cléor
+021. Devred
+022. Etam
+023. Fitness Park
+024. Flunch
+025. Free
+026. Générale d’Optique
+027. Histoire d’or
+028. JD Sports
+029. Jean-Louis David
+030. Jeanne d’arc voyages
+031. Jeff de Bruges
+032. Jules
+033. L’atelier du Ciseau
+034. La Boutique du Coiffeur
+035. La cordonerie du centre
+036. La pharmacie du centre
+037. La terrasse
+038. LCL
+039. Le Madison
+040. Le sarrasin
+041. Lefevre opticiens
+042. Les opticiens conseils
+043. Marc Orian
+044. Micromania
+045. Morgan
+046. MS Mode
+047. NORMAL
+048. Okaïdi
+049. ONLY
+050. Orange
+051. Pains et compagnie
+052. Promod
+053. ProovStation
+054. RougeGorge
+055. Saint Algue
+056. Sephora
+057. Sergent Marjor
+058. SFR
+059. Shop Clop
+060. Snipes
+061. Tamaris
+062. Tape à l’œil
+063. UNDIZ
+064. Valège
+065. Yves Rocher

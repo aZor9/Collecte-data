@@ -1,0 +1,21 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-soissons/boutiques/
+Date: 20260408_164409
+Nombre de titres: 16
+
+001. CARREFOUR
+002. ATOL
+003. DE NEUVILLE
+004. HISTOIRE D’OR
+005. NOCIBE
+006. AUDIO POUR TOUS
+007. CAFETERIA
+008. CIGUSTO
+009. CREDIT AGRICOLE
+010. EUROPE SERVICES
+011. HYPER LAVERIE
+012. Mc Donald’s
+013. PARAPHARMACIE
+014. QIPAO
+015. SHAMPOO EXPERT
+016. WASH ME

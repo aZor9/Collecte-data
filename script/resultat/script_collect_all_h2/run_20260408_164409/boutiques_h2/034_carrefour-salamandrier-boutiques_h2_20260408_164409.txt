@@ -1,0 +1,29 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-salamandrier/boutiques/
+Date: 20260408_164409
+Nombre de titres: 24
+
+001. Carrefour
+002. Action
+003. Au plaisir de lire
+004. Bijouterie Pierre Roux
+005. Carrefour Banque
+006. Carrefour Spectacles
+007. Cigaverte
+008. Crescendo
+009. Dalery
+010. Even mode
+011. L’atelier
+012. Laverie +
+013. Manège
+014. Marionnaud
+015. Moon
+016. Optic 2000 / Entendre
+017. Pharmacie le Salamandrier
+018. Photo Lab
+019. Photomaton
+020. Proclés
+021. Qipao
+022. SFR
+023. Vertuo
+024. Zeeman

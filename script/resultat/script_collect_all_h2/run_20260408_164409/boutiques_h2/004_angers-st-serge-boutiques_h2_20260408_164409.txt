@@ -1,0 +1,26 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/angers-st-serge/boutiques/
+Date: 20260408_164409
+Nombre de titres: 21
+
+001. Carrefour
+002. Alain Afflelou
+003. BAB Bar à Beauté
+004. Brasserie Saint-Serge
+005. Carrefour Banque
+006. Carrefour Spectacles
+007. Carrefour Voyages
+008. CI GUSTO
+009. Flunch
+010. Générale d’Optique
+011. Grande Pharmacie St Serge
+012. Histoire d’Or
+013. La Mie Câline
+014. Mc Donald’s
+015. Micromania
+016. Nocibé
+017. O’TACOS
+018. Photomaton
+019. Thaï Break
+020. WEFIX
+021. Zeeman

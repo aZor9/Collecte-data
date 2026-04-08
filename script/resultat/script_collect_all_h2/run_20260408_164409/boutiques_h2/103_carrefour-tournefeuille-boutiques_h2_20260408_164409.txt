@@ -1,0 +1,20 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-tournefeuille/boutiques/
+Date: 20260408_164409
+Nombre de titres: 15
+
+001. Body Spa
+002. Bruno Flaujac
+003. C&A
+004. Cabinet dentaire Vertuo
+005. Caisse d’Épargne
+006. Carrefour Market
+007. Franck Provost
+008. Gold In
+009. Gymnasia
+010. Les Filles d’à Côté
+011. Optic 2000
+012. Pharmacie
+013. Robowash
+014. Tui
+015. Vapotime

@@ -1,0 +1,40 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-ermont/boutiques/
+Date: 20260408_164409
+Nombre de titres: 35
+
+001. Carrefour
+002. 5 à Sec
+003. Audio pour tous
+004. Avenue des Parisiennes
+005. Basic-Fit
+006. Black and white
+007. Cafétéria
+008. Centre Dentaire et d’Ophtalmologie
+009. Delice asie
+010. Esprit
+011. Feu vert
+012. Générale d’Optique
+013. Hair City
+014. Hair’mon
+015. Histoire d’or
+016. Jeff de bruges
+017. Krys
+018. l’Opticien Concept
+019. La boutique de la Vape
+020. La boutique du coiffeur
+021. Manège doll 2000
+022. Mc Donald’s
+023. Michele T
+024. Mister minit
+025. Nocibé
+026. Okaïdi
+027. Orange
+028. Pharmacie
+029. Photomaton
+030. Pil’Vite
+031. Qipao
+032. Restituo
+033. Saga des marques
+034. SFR
+035. Tocade

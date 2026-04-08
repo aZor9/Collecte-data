@@ -1,0 +1,17 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-sarreguemines/boutiques/
+Date: 20260408_164409
+Nombre de titres: 12
+
+001. CARREFOUR
+002. CI GUSTO
+003. CLES MINUTE
+004. DIAGONAL
+005. HAIR STUDIO
+006. JULIEN D’ORCEL
+007. LE CROUSTILLANT
+008. MAG PRESSE
+009. OPTIC 2000
+010. PARAPHARMACIE
+011. PRESSING
+012. QIPAO

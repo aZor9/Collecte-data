@@ -1,0 +1,20 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-livry-gargan/boutiques/
+Date: 20260408_164409
+Nombre de titres: 15
+
+001. CARREFOUR
+002. ATOL
+003. BEST EYES
+004. BOUYGUES
+005. LEONIDAS
+006. MICHELE T
+007. CAFETERIA
+008. Cordonnerie- Clés minute
+009. DENTEKA
+010. FANTASIA traiteur
+011. NASH SPORT
+012. PHARMACIE
+013. Pressing
+014. SAINT ALGUE
+015. Yes STORE

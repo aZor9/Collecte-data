@@ -1,0 +1,117 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/bab2/boutiques/
+Date: 20260408_164409
+Nombre de titres: 112
+
+001. Carrefour
+002. LEGAMI est une marque italienne née en 2003 avec l’objectif de faire vivre des émotions positives à travers des objets qui accompagnent la vie quotidienne des personnes.
+003. 64
+004. Adopt’
+005. Alain Afflelou
+006. Aroma-Zone
+007. Aubade
+008. Bazar de filles
+009. Beausoleil
+010. Bigiz Bistro
+011. Bijoux Cailloux
+012. Bistrot Anaïak
+013. Bleu Cerise
+014. Bleu Libellule
+015. Bohébon
+016. Bouygues Telecom
+017. Burger King
+018. Calzedonia
+019. Caroll
+020. Carrefour Banque
+021. Carrefour spectacles
+022. Carrefour Voyages
+023. CCUSI
+024. Celio
+025. Cigusto
+026. Claire’s
+027. Cleor
+028. Columbus Café
+029. Courir
+030. Crédit Agricole
+031. Crêp’eat
+032. Cultura
+033. Darjeeling
+034. Devred
+035. Diamantine
+036. Don Donuts
+037. Etam Lingerie
+038. Father and sons
+039. Feu Vert
+040. Flunch
+041. Franck Provost
+042. Free
+043. Grand Optical
+044. H&M
+045. Happy Fleurs
+046. Histoire d’Or
+047. Hylton
+048. IKKS
+049. Izac
+050. Jack & Jones
+051. Japan Geek
+052. Jean-Louis David
+053. Jeff de Bruges
+054. Jott
+055. Jules
+056. Julien d’Orcel
+057. Kiko Milano
+058. Kusmi Tea
+059. L’Atelier du Chocolat
+060. La Casa de las Carcasas
+061. La Chaise Longue
+062. La Fée Maraboutée
+063. La Savonnerie des Pyrénées
+064. Lacoste
+065. Le Bar à Ongles… by V
+066. Le Comptoir de Mathilde
+067. Le Temps des Cerises
+068. Lego
+069. Les Bougies de Charroux
+070. Les Candides
+071. Levi’s Store
+072. LOVISA
+073. Lunettes pour tous
+074. MAC
+075. Maison du Stylo
+076. Mango
+077. Marquette
+078. Micromania
+079. MiraMira
+080. Mister Minit
+081. Montre service
+082. Morgan
+083. Nature & Découvertes
+084. Normal
+085. Nyx Professional Makeup
+086. Okaïdi-Obaïdi
+087. Orange
+088. Pandora
+089. Paul
+090. Peggy Sage
+091. Petit Bateau
+092. Pharmacie
+093. Promod
+094. Pull & Bear
+095. Pylones
+096. Rituals
+097. RIU Paris
+098. Sephora
+099. Sergent Major
+100. SFR
+101. Søstrene Grene
+102. Starbucks
+103. Stradivarius
+104. The Barber Company
+105. TOC
+106. Ultra Premium Direct
+107. Undiz
+108. Vapotech
+109. WeFix
+110. Yogurt Factory
+111. Yves Rocher
+112. Zara

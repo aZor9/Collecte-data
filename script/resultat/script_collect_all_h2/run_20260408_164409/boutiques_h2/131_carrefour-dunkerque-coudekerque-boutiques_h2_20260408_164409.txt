@@ -1,0 +1,16 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-dunkerque-coudekerque/boutiques/
+Date: 20260408_164409
+Nombre de titres: 11
+
+001. Carrefour
+002. Ci Gusto
+003. Cleor
+004. Qipao
+005. Tchip Coiffure
+006. Atol
+007. Cafétéria
+008. Croustillant
+009. Pharmacie de Coudekerque
+010. Pressing 3 C
+011. Services Minutes

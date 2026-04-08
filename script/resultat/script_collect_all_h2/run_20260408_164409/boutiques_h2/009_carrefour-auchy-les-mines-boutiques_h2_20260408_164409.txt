@@ -1,0 +1,29 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-auchy-les-mines/boutiques/
+Date: 20260408_164409
+Nombre de titres: 24
+
+001. Carrefour
+002. 5àsec
+003. Bonobo
+004. Brasserie Le Flandre
+005. Breal
+006. Burger King
+007. Camille Fleurs
+008. Carrefour Banque
+009. Carrefour Voyages & Spectacles
+010. Cleor
+011. Delicacy
+012. Denim Store
+013. Du Pareil Au Même
+014. Générale d’Optique
+015. Leonidas
+016. Média Presse
+017. Nocibé
+018. Optique Beaurain
+019. Pharmacie
+020. Photomaton
+021. SFR
+022. Shampoo
+023. Subway
+024. The King of the Key

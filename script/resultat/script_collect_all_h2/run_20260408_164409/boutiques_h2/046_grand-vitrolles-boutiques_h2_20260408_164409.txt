@@ -1,0 +1,93 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/grand-vitrolles/boutiques/
+Date: 20260408_164409
+Nombre de titres: 88
+
+001. Carrefour
+002. Adopt’
+003. Aelys
+004. Alain Afflelou
+005. Au Bureau
+006. Bleu Cerise
+007. Body Minute
+008. Bonobo
+009. Boulanger
+010. Bouygues Telecom
+011. Brasserie K
+012. C'Lin
+013. Cache Cache
+014. Care
+015. Caroll
+016. Carrefour Banque & Assurance
+017. Carrefour Spectacles
+018. Carrefour Voyages
+019. Cases and covers
+020. Castorama
+021. Celio
+022. Chic Nails
+023. Columbus Café
+024. Courir
+025. Crédit Agricole
+026. Crêpe Touch
+027. Denim Bar
+028. Detail car
+029. Doux péché
+030. Eat Salad
+031. Etam Lingerie
+032. Even
+033. Fancy Bijoux
+034. Feu Vert
+035. Flunch
+036. Foot Locker
+037. FRAM
+038. Franck Provost
+039. Free
+040. Générale d’Optique
+041. Grand Optical
+042. HappeSmoke
+043. Histoire d’Or
+044. Interview
+045. J&J Kase
+046. Jack & Jones
+047. JD SPORTS
+048. Jean-Louis David
+049. Jeff de Bruges
+050. Jules
+051. Kiosque LA PAUSE
+052. Kunz Pressing
+053. La Boutique du Coiffeur
+054. La Croissanterie
+055. Le comptoir de Mathilde
+056. Louis Pion
+057. Manège
+058. Marc Orian
+059. Marionnaud
+060. MI-AM Restaurant
+061. Micromania
+062. Mister Minit
+063. Montre Service
+064. Morgan
+065. Normal
+066. Okaïdi
+067. Only
+068. Optic 2000
+069. Orange
+070. PANDORA
+071. Peggy Sage
+072. Pharmacie Grand Vitrolles
+073. Photomaton
+074. Pitaya
+075. Promod
+076. Promovacances
+077. RougeGorge Lingerie
+078. Sephora
+079. SFR
+080. Subway
+081. TAYLOR
+082. Toscane
+083. TrésOr
+084. Undiz
+085. Valège
+086. Vertuo – Centre dentaire
+087. Volfoni
+088. Yves Rocher

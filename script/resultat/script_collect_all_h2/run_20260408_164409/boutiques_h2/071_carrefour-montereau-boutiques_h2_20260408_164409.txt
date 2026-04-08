@@ -1,0 +1,15 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-montereau/boutiques/
+Date: 20260408_164409
+Nombre de titres: 10
+
+001. Carrefour
+002. Alain Afflelou
+003. Pouletos
+004. Carrefour Banque
+005. Cordonnerie
+006. Lilith Coiffure
+007. Pharmacie
+008. Photomaton
+009. Presse
+010. Pressing

@@ -1,0 +1,23 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-chateauneuf-les-martigues/boutiques/
+Date: 20260408_164409
+Nombre de titres: 18
+
+001. Carrefour
+002. 5 à sec
+003. April
+004. Carrefour Banque
+005. Centre dentaire Vertuo
+006. Feu Vert
+007. Hall Du Voyage
+008. HappeSmoke
+009. Kokote
+010. Macan Bar
+011. Maison De La Presse Cote Bleue
+012. Mc Donald’s
+013. Optique 2000
+014. Photomaton
+015. Qipao
+016. Reco’Phone
+017. Studio Avenue
+018. Zeeman

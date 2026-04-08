@@ -1,0 +1,27 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-echirolles/boutiques/
+Date: 20260408_164409
+Nombre de titres: 22
+
+001. Carrefour
+002. 1001 Piles
+003. Ambre
+004. Basic Fit
+005. Carrefour Banque
+006. Carrefour Spectacles
+007. Carrefour Voyages
+008. Centre Dentaire Vertuo
+009. Coupe A 10
+010. Felix Pizzeria
+011. Feu Vert
+012. Kiko Milano
+013. La Brioche Dorée
+014. Lynx Optique You Do
+015. Pascal Coste
+016. Pharmacie
+017. Photomaton
+018. Pretty Lady
+019. Royal pizza
+020. Tacos de Lyon
+021. Tres’Or
+022. Yves Rocher

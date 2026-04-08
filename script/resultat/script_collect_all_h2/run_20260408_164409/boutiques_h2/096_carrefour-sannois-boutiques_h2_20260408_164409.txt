@@ -1,0 +1,25 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-sannois/boutiques/
+Date: 20260408_164409
+Nombre de titres: 20
+
+001. Carrefour
+002. Action
+003. Alain Afflelou
+004. Body Minute
+005. Cabinet dentaire Vertuo
+006. Chocolatier De Neuville
+007. Cleor
+008. Club Bouygues Télécom
+009. Corbeille d’Or
+010. McDonald’s
+011. Micromania
+012. Nocibé
+013. Optic 2000
+014. Pharmacie
+015. Photomaton
+016. Pouletos
+017. Saga des marques
+018. Time multi-services
+019. Vap To Go
+020. Vendome

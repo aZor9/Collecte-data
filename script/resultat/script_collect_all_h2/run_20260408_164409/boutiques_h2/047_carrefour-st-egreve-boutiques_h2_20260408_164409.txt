@@ -1,0 +1,36 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-st-egreve/boutiques/
+Date: 20260408_164409
+Nombre de titres: 31
+
+001. Carrefour
+002. MARC THIERRY Coiffure
+003. Au Bureau
+004. Ayako Sushi
+005. Brut Butcher
+006. Burger King
+007. Carrefour Banque
+008. Carrefour Spectacles
+009. Carrefour Voyages
+010. Darty
+011. Etam Lingerie
+012. Générale d’Optique
+013. Histoire d’Or
+014. KLOPE ONE
+015. Kokliko
+016. L’héritage du Barbier
+017. LA BOUCHERIE
+018. La Boutique du Coiffeur
+019. Leonidas
+020. Lynx Optique YOU DO
+021. Marionnaud
+022. Micromania
+023. O’Tacos
+024. Okaïdi
+025. Orange
+026. Photomaton
+027. Pizzeria Le Fiacre
+028. Shampoo
+029. Sur le Pouce
+030. Vertuo – Centre dentaire
+031. Yves Rocher

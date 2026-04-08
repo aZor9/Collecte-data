@@ -1,0 +1,11 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-saint-die/boutiques/
+Date: 20260408_164409
+Nombre de titres: 6
+
+001. CARREFOUR
+002. ATOL
+003. SERVICES MINUTES
+004. XENABAG
+005. BIJOUTERIE CARRE OR
+006. CAFETERIA

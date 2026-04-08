@@ -1,0 +1,27 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-chalezeule/boutiques/
+Date: 20260408_164409
+Nombre de titres: 22
+
+001. Carrefour
+002. Ambiance & Styles
+003. Armand Thierry
+004. Basic Fit
+005. Buffet Chalèze
+006. Chausséa
+007. CIGUSTO
+008. Easy Cashmulti Boutiques
+009. France Optical
+010. Intersport
+011. King Jouet
+012. Kodak Express
+013. La Foir’Fouille
+014. Les Comptoirs Thé Café
+015. Lineor
+016. Mag Presse
+017. Maxi Zoo
+018. Mister Minit
+019. Réauté Chocolat
+020. Salon de Coiffure Pannaux
+021. Takko
+022. Verbaudet

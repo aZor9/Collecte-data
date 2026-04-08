@@ -1,0 +1,49 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-libourne/boutiques/
+Date: 20260408_164409
+Nombre de titres: 44
+
+001. Carrefour
+002. ACUITIS
+003. Adopt’
+004. Astrid Bijoux
+005. ATYPIK LIBOURNE
+006. Beauty Success
+007. Bel et Blanc
+008. BOUTIQUE EMMAUS
+009. Bouygues Télécom
+010. Carrefour Banque
+011. CIGUSTO
+012. Crescendo
+013. Cuisinella
+014. Devred 1902
+015. EAT SALAD
+016. Espace Contrôle
+017. Fabio Salsa
+018. Franck Provost
+019. Free
+020. GRAIN DE MALICE
+021. HALL DE PRESSE TABAC PRESSE FDJ
+022. Ivapote
+023. JFG CLINIC
+024. Jules
+025. L’Onglerie
+026. L&M
+027. La Cité des Montres
+028. La Pause
+029. La Poste
+030. Maroquinerie Lio
+031. Mc Neel Optic
+032. O’Buffet
+033. Okaïdi
+034. Orange
+035. Pascal COSTE
+036. Pharmacie de la Gabarre
+037. PHONE INSTITUT LIBOURNE
+038. Photomaton
+039. Pimkie
+040. ROUGE GORGE
+041. SALAUNE
+042. SFR
+043. Symphonie Or
+044. VERTUO

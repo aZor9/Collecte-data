@@ -1,0 +1,9 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-dijon-perrigny/boutiques/
+Date: 20260408_164409
+Nombre de titres: 4
+
+001. CARREFOUR
+002. COIFF & co
+003. Optique ZU
+004. Qipao

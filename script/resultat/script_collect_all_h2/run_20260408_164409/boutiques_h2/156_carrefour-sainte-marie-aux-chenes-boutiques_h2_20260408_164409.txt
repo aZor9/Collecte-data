@@ -1,0 +1,12 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-sainte-marie-aux-chenes/boutiques/
+Date: 20260408_164409
+Nombre de titres: 7
+
+001. CARREFOUR
+002. DIAGONAL
+003. LEONIDAS
+004. PAMPILLES
+005. VAPETONS
+006. EUROPE SERVICE
+007. LE CROUSTILLANT

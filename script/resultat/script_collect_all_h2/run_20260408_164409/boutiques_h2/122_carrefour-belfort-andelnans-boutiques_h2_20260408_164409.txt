@@ -1,0 +1,14 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-belfort-andelnans/boutiques/
+Date: 20260408_164409
+Nombre de titres: 9
+
+001. CARREFOUR
+002. Parapharmacie
+003. QIPAO
+004. Access2tel
+005. ATMOSP HAIR
+006. CI GUSTO
+007. E Bike
+008. Les Comptoirs Thé Café
+009. O Sucré salé

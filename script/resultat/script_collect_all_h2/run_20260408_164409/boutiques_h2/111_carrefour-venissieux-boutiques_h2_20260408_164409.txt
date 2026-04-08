@@ -1,0 +1,38 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-venissieux/boutiques/
+Date: 20260408_164409
+Nombre de titres: 33
+
+001. Carrefour
+002. BARBER DU MONDE
+003. ADOPT
+004. AKSES
+005. Alain Afflelou
+006. Autour du Comptoir
+007. CA VA SMASHER
+008. Carrefour Banque et Assurance
+009. Carrefour Spectacles
+010. Carrefour Voyages
+011. Cigusto
+012. Cleor
+013. Columbus Café and Co
+014. Crédit Agricole
+015. Détail Car
+016. Feu Vert
+017. Haute Tension
+018. Haute Tension Jeannerie
+019. Histoire d’Or, le Bijoutier de tous les possibles !
+020. Imo lavage
+021. Jeff de Bruges
+022. Kokliko
+023. Krys
+024. la Boutique du Coiffeur
+025. Micromania Zing
+026. Nocibé
+027. O’Tacos
+028. Optique et Audition
+029. Orange
+030. Pharmacie Du Grand Parilly
+031. Photomaton
+032. Pil’Vite
+033. Yves Rocher

@@ -1,0 +1,47 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-la-vatine/boutiques/
+Date: 20260408_164409
+Nombre de titres: 42
+
+001. Carrefour
+002. 5àsec
+003. Adopt’
+004. Alain Afflelou
+005. Atol
+006. Atol audition
+007. Au Gourmet de Chine
+008. Autour du Comptoir
+009. Bar à Beauté
+010. Bohébon
+011. Bohébon
+012. Bouygues Telecom
+013. By Izea
+014. Carrefour Banque
+015. Carrefour Fleurs
+016. Carrefour Voyages
+017. Chocolatier DeNeuville
+018. Cigusto
+019. Darjeeling
+020. Darty Cuisine literie
+021. Dazibao
+022. Franck Provost
+023. Histoire d’Or
+024. Intersport
+025. Julien D’Orcel
+026. Krys
+027. La boutique du coiffeur
+028. Le Comptoir de Mathilde
+029. Le Dauphin
+030. Les Folies Douces
+031. Micromania
+032. Mister Minit
+033. Montres and Co
+034. Nicolas
+035. Nocibé
+036. Pharmacie
+037. Promod
+038. Sergent Major
+039. SFR
+040. Snipes
+041. WeFix
+042. Yves Rocher

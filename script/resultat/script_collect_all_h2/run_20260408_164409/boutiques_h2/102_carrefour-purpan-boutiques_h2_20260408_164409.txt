@@ -1,0 +1,48 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-purpan/boutiques/
+Date: 20260408_164409
+Nombre de titres: 43
+
+001. Carrefour
+002. ROUGE GORGE
+003. Action
+004. Adopt’
+005. Armand Thiery Femme
+006. Armand Thiery Homme
+007. Basic cut
+008. Bistro Regent
+009. Body Minute
+010. Burger King
+011. Carrefour Banque et Assurance
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. Cigusto
+015. Cleor
+016. Dalery
+017. Eléphant Bleu
+018. Feu Vert
+019. Flunch
+020. Franck Provost
+021. Générale d’Optique
+022. Hoppy Monkey Club
+023. Intersport
+024. Jeff de Bruges
+025. Julien d’Orcel
+026. Krys
+027. Marionnaud
+028. Maya Bay
+029. Mc Donald’s
+030. Mister Minit
+031. MOJI
+032. Mondial Pare-Brise
+033. Okaidi Obaibi
+034. Pascal Coste Boutik
+035. Pharmacie
+036. Photomaton
+037. PITAYA
+038. Pressing Bel & Blanc
+039. Robowash
+040. SAV Location
+041. SFR
+042. Station service
+043. Ultra Premium Direct

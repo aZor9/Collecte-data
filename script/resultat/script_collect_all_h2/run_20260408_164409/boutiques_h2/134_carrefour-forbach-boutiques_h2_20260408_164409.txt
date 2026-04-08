@@ -1,0 +1,16 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-forbach/boutiques/
+Date: 20260408_164409
+Nombre de titres: 11
+
+001. CARREFOUR
+002. DIAGONAL
+003. JULIEN D’ORCEL
+004. L’ANTISTRESS
+005. LA FRANCAISE DE L’OPTIQUE
+006. QIPAO
+007. Cafeteria
+008. Ci Gusto
+009. CUBES
+010. MISS KEY
+011. PRESSING

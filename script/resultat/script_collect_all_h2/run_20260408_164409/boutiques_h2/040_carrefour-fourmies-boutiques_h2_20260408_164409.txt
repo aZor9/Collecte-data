@@ -1,0 +1,20 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-fourmies/boutiques/
+Date: 20260408_164409
+Nombre de titres: 15
+
+001. Carrefour
+002. Adopt’
+003. Bijouterie Diva
+004. Bonobo
+005. Brillances Et Tendances
+006. Carrefour Banque
+007. Cedric V Immobilier
+008. Cigusto
+009. Cordonnerie Soyeux
+010. Maroquinerie
+011. Micromania
+012. Nocibe
+013. Shampoo
+014. Societe Generale
+015. TEDi

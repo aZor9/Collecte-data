@@ -1,0 +1,31 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-beaucaire/boutiques/
+Date: 20260408_164409
+Nombre de titres: 26
+
+001. Carrefour
+002. Alain Afflelou
+003. Alive
+004. Bruno Flaujac
+005. Carrefour Banque
+006. Citroen
+007. Cleor
+008. Cordonnerie
+009. Hall De La Presse
+010. HappeSmoke
+011. Jeff de Bruges
+012. Krys
+013. La Barbe de Papa
+014. Les Dessous De Kali
+015. Mc Donald’s
+016. Micromania
+017. Midilab
+018. Okaidi
+019. Pascal Coste
+020. Passion Beauté
+021. Pharmacie
+022. Photomaton
+023. Picard
+024. Qipao
+025. RECONNECT
+026. Yves Rocher

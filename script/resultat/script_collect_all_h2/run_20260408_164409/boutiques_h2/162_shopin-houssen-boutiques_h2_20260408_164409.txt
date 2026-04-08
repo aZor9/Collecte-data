@@ -1,0 +1,72 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/shopin-houssen/boutiques/
+Date: 20260408_164409
+Nombre de titres: 67
+
+001. Carrefour
+002. 1924, un Monde de Cafés
+003. 5 à Sec
+004. À La Schtouwa
+005. Adopt’
+006. Aélys
+007. Atol
+008. Bagel Corner
+009. Bijou Brigitte
+010. Bodyminute
+011. Bouygues
+012. Brice
+013. Cafétéria
+014. Calzedonia
+015. CiGusto
+016. Claire’s
+017. Courir
+018. Crédit Mutuel (DAB)
+019. Crêp’eat
+020. Cyrus
+021. Denteka
+022. Etam Lingerie
+023. Fnac
+024. Foot Locker
+025. Francesca
+026. Free
+027. H&M
+028. Häagen-Dazs
+029. Histoire d’or
+030. Japan Geek
+031. Jeff de Bruges
+032. Jules
+033. Julien d’Orcel
+034. Krys
+035. L’ Atelier des Fleurs
+036. L’Atelier Intermède
+037. La Boutique des Artisans
+038. La Boutique du Coiffeur
+039. La Casa de Las Carcasas
+040. La Chaise Longue
+041. Le Temps des Cerises
+042. Léclé de la seconde main
+043. Levi’s
+044. Maximilien
+045. Micromania
+046. Mister Minit
+047. Morgan
+048. MS Mode
+049. Okaïdi
+050. Only
+051. Orange
+052. Pandora
+053. Parapharmacie
+054. PhoneKaze
+055. Photomaton
+056. Poulaillon
+057. Promod
+058. PROMOVACANCES
+059. Rituals
+060. Sephora
+061. SFR
+062. So Or
+063. Stratus
+064. The Barber Company
+065. Toscane
+066. WeFix
+067. Yves Rocher
