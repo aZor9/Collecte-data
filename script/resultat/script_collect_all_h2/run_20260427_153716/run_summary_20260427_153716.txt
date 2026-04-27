@@ -1,0 +1,10 @@
+Collecte nationale des boutiques Carrefour
+Date: 20260427_153716
+Nombre de centres detectes: 173
+
+001 | carrefour-iroise-boutiques | 43 titres | OK | https://www.centre-commercial.fr/carrefour-iroise/boutiques/
+002 | carrefour-alencon-boutiques | 28 titres | OK | https://www.centre-commercial.fr/carrefour-alencon/boutiques/
+003 | carrefour-amiens-boutiques | 22 titres | OK | https://www.centre-commercial.fr/carrefour-amiens/boutiques/
+004 | angers-st-serge-boutiques | 21 titres | OK | https://www.centre-commercial.fr/angers-st-serge/boutiques/
+005 | carrefour-angoulins-boutiques | 34 titres | OK | https://www.centre-commercial.fr/carrefour-angoulins/boutiques/
+006 | carrefour-annecy-boutiques | 28 titres | OK | https://www.centre-commercial.fr/carrefour-annecy/boutiques/
