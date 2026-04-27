@@ -34,6 +34,12 @@ def build_driver() -> webdriver.Chrome:
     options.add_argument("--disable-popup-blocking")
     options.add_experimental_option("excludeSwitches", ["enable-logging"])
     options.add_experimental_option("useAutomationExtension", False)
+    # Headless controlled via env var SELENIUM_HEADLESS
+    import os
+    headless = os.getenv("SELENIUM_HEADLESS", "").lower() in ("1", "true", "yes")
+    if headless:
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
     driver = webdriver.Chrome(options=options)
     driver.set_page_load_timeout(45)
     return driver

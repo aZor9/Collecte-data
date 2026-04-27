@@ -1,5 +1,6 @@
 from datetime import datetime
 from pathlib import Path
+import os
 import time
 
 from selenium import webdriver
@@ -11,6 +12,10 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 def build_driver() -> webdriver.Chrome:
     options = Options()
     options.add_argument(f"--user-agent={USER_AGENT}")
+    headless = os.getenv("SELENIUM_HEADLESS", "").lower() in ("1", "true", "yes")
+    if headless:
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
     return webdriver.Chrome(options=options)
 
 url = "https://www.centre-commercial.fr/carrefour-st-jean/boutiques/"
