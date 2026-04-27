@@ -1,0 +1,28 @@
+001. Carrefour
+002. Carrefour Banque
+003. Carrefour SAV
+004. Charly and Co
+005. Columbus Café
+006. DE NEUVILLE
+007. Express Services
+008. Flunch
+009. Générale d’Optique
+010. Intersport
+011. Julien d’Orcel
+012. Kiabi
+013. Krys
+014. La Poste
+015. Les gourmets d’asie
+016. Marionnaud
+017. Pascal Coste
+018. Pharmacie
+019. Photomaton
+020. Pil’Vite
+021. Shampoo
+022. Tabac
+023. VITTON CLOP
+024. Welcom’
+025. Yves Rocher
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/carrefour-mably/boutiques/

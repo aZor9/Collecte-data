@@ -1,0 +1,34 @@
+001. Carrefour
+002. Abyss
+003. Adopt’
+004. Brooklyn
+005. Byzantine
+006. Carrefour Banque
+007. Carrefour Spectacles
+008. Centrakor
+009. Chausséa
+010. Cigusto
+011. Cleor
+012. Crignon Optique
+013. Devred
+014. EASY CASH
+015. Free
+016. Gémo
+017. Histoire d’or
+018. Intersport
+019. Jules
+020. KING JOUET
+021. Kodak Express
+022. La Halle
+023. La Houblonnière
+024. Micromania
+025. Nocibe
+026. Orchestra
+027. Photomaton
+028. Schmidt
+029. SFR
+030. Thierry Lothmann
+031. Zeeman
+Collecte des titres boutiques
+Nombre de titres: 31
+Source: https://www.centre-commercial.fr/carrefour-berck/boutiques/

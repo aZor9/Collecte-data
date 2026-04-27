@@ -1,0 +1,18 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-hay-les-roses/boutiques/
+Date: 20260427_204756
+Nombre de titres: 13
+
+001. Carrefour
+002. Carrefour Banque
+003. Feu Vert
+004. Haute Coiffure
+005. Jardin Agriculture
+006. La Cafeteria
+007. Le Continental
+008. Léonidas
+009. Mister Minit
+010. Pharmacie
+011. Photomaton
+012. Point Optical
+013. Tabac Presse

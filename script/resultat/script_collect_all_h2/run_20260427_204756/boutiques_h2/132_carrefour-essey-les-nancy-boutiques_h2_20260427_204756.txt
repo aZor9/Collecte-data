@@ -1,0 +1,19 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-essey-les-nancy/boutiques/
+Date: 20260427_204756
+Nombre de titres: 14
+
+001. CARREFOUR
+002. BEAUTY SUCCESS
+003. TAPE A L’OEIL
+004. VENGHOUR
+005. VIB’S
+006. BARBE DE PAPA
+007. BOUTIQUE DU COIFFEUR
+008. CIGUSTO
+009. LE CAP D’ANTIBES
+010. LE COLLECTIF DES LUNETIERS
+011. LEONIDAS
+012. PRESS NET
+013. SERVICES MINUTE
+014. SO CUT

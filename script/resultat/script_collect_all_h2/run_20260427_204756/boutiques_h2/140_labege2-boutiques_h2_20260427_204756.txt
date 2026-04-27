@@ -1,0 +1,107 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/labege2/boutiques/
+Date: 20260427_204756
+Nombre de titres: 102
+
+001. Carrefour
+002. ADIDAS
+003. Agatha
+004. Agence Fram
+005. Alain Afflelou
+006. Articles de Paris
+007. Aubade
+008. Aventurine
+009. Bar à coques & Repair
+010. BEAUTY SUCCESS L’INSTITUT
+011. Bel et Blanc
+012. Benson&Cherry
+013. BERLINER DAS ORIGINAL
+014. Bleu Libellule
+015. Blue Box
+016. Bocage
+017. BOHÉBON
+018. Bouygues Telecom
+019. Brice
+020. Brioche dorée (porte 3 et 4)
+021. Cache Cache
+022. Calzedonia
+023. Carrefour Drive
+024. Carrefour Spectacles
+025. Carrefour Voyages
+026. Celio
+027. Cleor
+028. ClopiNette
+029. Columbus Café
+030. Côté Sushi
+031. Courir
+032. Crêpe Touch
+033. Damart
+034. Devred 1902
+035. Diaz Hairdresser
+036. Donjon
+037. Easy cash
+038. Etam Lingerie
+039. Flunch
+040. Fnac
+041. Franck Provost
+042. Free
+043. Générale d'Optique
+044. Grand Optical
+045. H&M
+046. Havas Voyages
+047. HEMA
+048. Histoire d'Or
+049. Hoppy Monkey Club
+050. IKKS Men
+051. IKKS Women
+052. Jack and Jones
+053. JAPAN GEEK
+054. Jeff de Bruges
+055. Jules
+056. KIKO MILANO
+057. KOMPO
+058. L'Occitane
+059. La Boutique du Coiffeur
+060. La Casa de las Carcasas
+061. La Madrilène
+062. La Maison des projets
+063. La Poste
+064. Le Comptoir de Mathilde
+065. Le Temps des Cerises
+066. Maison 123
+067. Maisons du Monde
+068. Malaïka Bijoux
+069. Mango
+070. Marquette
+071. Micromania
+072. Mira Mira
+073. Mister Minit
+074. Montre Service
+075. Montres and CO
+076. Nacho's
+077. Nature & Découvertes
+078. Nespresso
+079. Nicolas
+080. Normal
+081. O’Bubble Break
+082. O’Tacos
+083. Orange
+084. Palais des Thés
+085. Pandora
+086. Petit Bateau
+087. Pharmacie de l'Innopole
+088. Photomaton
+089. Pitaya
+090. Promod
+091. Sephora
+092. Serge Blanco
+093. Sergent Major
+094. SFR
+095. Starbucks
+096. Tape à l'œil
+097. The North Face
+098. UN VEZZO
+099. Undiz
+100. VERTICAL
+101. Yves Rocher
+102. Zara

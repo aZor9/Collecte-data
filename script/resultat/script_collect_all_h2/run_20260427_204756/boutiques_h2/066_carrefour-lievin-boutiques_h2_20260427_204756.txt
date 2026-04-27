@@ -1,0 +1,35 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-lievin/boutiques/
+Date: 20260427_204756
+Nombre de titres: 30
+
+001. Carrefour
+002. Bijouterie Briant
+003. Bouygues
+004. Bréal
+005. Cigusto
+006. Corbeille d’or
+007. Fitness Park
+008. Flunch
+009. Free
+010. HORWATH FLEURS
+011. Jeff de Bruges
+012. Krys
+013. Lissac
+014. Lucky Bag
+015. Mag Presse
+016. Micromania
+017. Mister Minit
+018. MON CHAUFFAGISTE.COM
+019. Nocibé
+020. Optic 2000
+021. Orange
+022. Pharmacie Veront
+023. Photo First
+024. Photomaton
+025. SFR
+026. Shampoo expert
+027. Tom’s Coife
+028. Tout chaud
+029. Trésor
+030. Yves Rocher

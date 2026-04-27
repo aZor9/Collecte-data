@@ -1,0 +1,10 @@
+001. CARREFOUR
+002. Action
+003. Alizés Pressing
+004. Chez Coraline
+005. Europe Services
+006. Pharmacie du Soleil
+007. Valentin Coiffure
+Collecte des titres boutiques
+Nombre de titres: 7
+Source: https://www.centre-commercial.fr/carrefour-flers-villeneuve-dascq/boutiques/

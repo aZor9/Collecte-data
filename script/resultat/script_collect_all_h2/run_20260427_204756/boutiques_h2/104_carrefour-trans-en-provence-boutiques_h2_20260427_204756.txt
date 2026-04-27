@@ -1,0 +1,36 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-trans-en-provence/boutiques/
+Date: 20260427_204756
+Nombre de titres: 31
+
+001. Carrefour
+002. 123 Pare-Brise
+003. BlackStore
+004. Bleu cerise
+005. Body Minute
+006. Bouygues Telecom
+007. Carrefour Billetterie
+008. Carrefour SAV
+009. Carrousel Enchanté
+010. Celio
+011. Fancy bijoux
+012. Franck Provost
+013. Free
+014. Happesmoke
+015. Histoire d’Or
+016. Korda
+017. Krys
+018. L’Endroit
+019. Leonidas
+020. Little Italy
+021. Maisons du Monde
+022. Micromania
+023. Morgan
+024. Nocibé
+025. Optic 2000 / Entendre
+026. Oubrayrie Bijouterie
+027. Pascal Coste
+028. Pharmacie du Plan
+029. Photomaton
+030. Sergent Major
+031. Une Histoire de Famille

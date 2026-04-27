@@ -1,0 +1,50 @@
+001. Carrefour
+002. Action
+003. Alain Afflelou
+004. Art montre
+005. Audio Pour Tous
+006. BEJOY
+007. Bel & Blanc
+008. Bouygues Telecom
+009. Brioche Dorée
+010. BunBol
+011. Chez Eddy
+012. Christine Laure
+013. CiGusto
+014. Cleor
+015. De Neuville
+016. Docteur IT
+017. Espace SFR
+018. Etam
+019. Fag 2 B
+020. Franck Provost
+021. Free
+022. Générale d’Optique
+023. Guenno Immoblier
+024. Histoire d’Or
+025. Jules
+026. Julien d’Orcel
+027. La boutique des artisans
+028. la Boutique du Coiffeur
+029. La Casa de Las Carcasas
+030. La Cordonnerie
+031. Micromania
+032. MS mode
+033. Nocibé
+034. Optic 2000
+035. People Coiffure
+036. Pharmacie
+037. Photomaton
+038. Picard
+039. Pioche & Rejoue
+040. Promovacances
+041. Qipao
+042. Quater Back
+043. Sacmania
+044. The Barber Company
+045. Trust Society
+046. Virtual Safari
+047. WeFix
+Collecte des titres boutiques
+Nombre de titres: 47
+Source: https://www.centre-commercial.fr/shopin-pace/boutiques/

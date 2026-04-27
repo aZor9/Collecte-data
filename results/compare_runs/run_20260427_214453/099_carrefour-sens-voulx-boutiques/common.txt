@@ -1,0 +1,14 @@
+001. Carrefour
+002. Carrefour Banque
+003. Carrefour Finances
+004. Carrefour Spectacle
+005. Gourmet D’Asie
+006. La Maison Des Caprices
+007. Mj Espace Coiffure
+008. Pharmacie
+009. Photomaton
+010. Point Optical
+011. Top Pressing
+Collecte des titres boutiques
+Nombre de titres: 11
+Source: https://www.centre-commercial.fr/carrefour-sens-voulx/boutiques/

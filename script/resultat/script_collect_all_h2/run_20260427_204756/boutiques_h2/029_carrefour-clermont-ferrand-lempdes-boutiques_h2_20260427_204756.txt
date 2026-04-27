@@ -1,0 +1,41 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-clermont-ferrand-lempdes/boutiques/
+Date: 20260427_204756
+Nombre de titres: 36
+
+001. Carrefour
+002. La boutique des Artisans
+003. Maison B
+004. Normal
+005. Ré’Util
+006. Beauty success
+007. Bodyminute
+008. Bouygues Telecom
+009. Café le Galopin
+010. Cafétéria
+011. Ci Gusto
+012. Columbus Café & Co
+013. Darjeeling
+014. Devred
+015. Espace SFR
+016. Franck Provost
+017. Julien d’Orcel
+018. Krys
+019. La Bandoulière
+020. Leonidas
+021. Micromania
+022. MS Mode
+023. My Phone
+024. Optic 2000
+025. Orelia
+026. Perl’in Bijouterie
+027. Pharmacie / Parapharmacie
+028. Photomaton
+029. Pil’vite
+030. Prêt à partir
+031. Saint Algue
+032. Servit
+033. So Or
+034. The barber company
+035. Welcom’
+036. Yves Rocher

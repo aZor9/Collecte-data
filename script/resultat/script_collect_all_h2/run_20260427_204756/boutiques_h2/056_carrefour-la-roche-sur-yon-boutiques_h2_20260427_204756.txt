@@ -1,0 +1,15 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-la-roche-sur-yon/boutiques/
+Date: 20260427_204756
+Nombre de titres: 10
+
+001. Carrefour
+002. Carrefour Banque
+003. Cordonnerie
+004. Faure Opticiens
+005. Institut Auria
+006. Interview Coiffure
+007. Pharmacie
+008. Photomaton
+009. Pôle Medical
+010. Vap Access

@@ -1,0 +1,12 @@
+001. Carrefour
+002. BEAUTY SUCESS
+003. CERCLE DE LA VAP
+004. KRYS
+005. QIPAO
+006. NORAUTO
+007. PARAPHARMACIE
+008. SKERZO COIFFURE
+009. Stockomax
+Collecte des titres boutiques
+Nombre de titres: 9
+Source: https://www.centre-commercial.fr/carrefour-auxerre-moneteau/boutiques/

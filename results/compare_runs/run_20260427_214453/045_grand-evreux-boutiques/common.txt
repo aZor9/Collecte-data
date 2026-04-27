@@ -1,0 +1,21 @@
+001. Carrefour
+002. 5àsec
+003. Acuitis
+004. Adopt’
+005. Alain Afflelou
+006. Ambiance et Styles
+007. Armand Thiery
+008. Arome Shop
+009. B&M
+010. BAB Bar à Beauté
+011. Body Minute
+012. Boulanger
+013. BUT
+014. BZB
+015. Carrefour Banque
+016. Carrefour Spectacles
+017. Carrefour Voyages
+018. Claire’s
+019. Cleor
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/grand-evreux/boutiques/

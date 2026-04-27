@@ -1,0 +1,45 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-laon/boutiques/
+Date: 20260427_204756
+Nombre de titres: 40
+
+001. Carrefour
+002. A TÂÂÂBLE !
+003. Chez François
+004. CIGUSTO
+005. Cleor
+006. JACK&JONES
+007. Mc Donald’s
+008. WEFIX
+009. Adopt'
+010. Alain Afflelou
+011. ALIVE
+012. Anaïs Maroquinerie
+013. Bijouterie Peltier
+014. Bouygues Télécom
+015. Carrefour location
+016. Carrefour Spectacles
+017. Claire's
+018. ClopiNette
+019. EASY CASH
+020. Franck Provost
+021. Free
+022. Grande pharmacie Laonnoise
+023. Jeff de Bruges
+024. Jules
+025. L’Hexagone – Loto Presse
+026. La Boutique du Coiffeur
+027. LE COMPTOIR DE MATHILDE
+028. Marionnaud
+029. Micromania
+030. Mister Minit
+031. MS Mode
+032. Norauto
+033. Okaïdi
+034. Orange
+035. Photomaton
+036. Promod
+037. Rouge Gorge
+038. SFR
+039. Shampoo
+040. Yves Rocher

@@ -1,0 +1,28 @@
+001. Carrefour
+002. Acos
+003. Alain Afflelou
+004. Angora
+005. Animalis
+006. Bijou boutique
+007. Cash service
+008. Diagonal
+009. En privé
+010. Floralia
+011. Flowers power
+012. Générale d’optique
+013. Krys opticien
+014. Micromania
+015. My phone assistance
+016. Natur-L coiffure
+017. Pharmacie Biwer
+018. Prêt à partir
+019. Saint James
+020. Société Générale
+021. Tabac Pyramide
+022. Talon service
+023. Tezel
+024. Ti’bistro
+025. Vap’petons
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/carrefour-metz-technopole/boutiques/

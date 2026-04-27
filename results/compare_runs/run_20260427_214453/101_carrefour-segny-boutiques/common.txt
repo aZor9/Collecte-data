@@ -1,0 +1,17 @@
+001. Carrefour
+002. Alain Afflelou
+003. B Center
+004. Berthies Sports
+005. Bijouterie Duny
+006. Carrefour Banque
+007. Casa Italia
+008. Cordonnerie
+009. Feu Vert
+010. Floranice
+011. Franck Pressing
+012. Maison de la Presse
+013. OPTIC’ALPS
+014. Pascal Coste
+Collecte des titres boutiques
+Nombre de titres: 14
+Source: https://www.centre-commercial.fr/carrefour-segny/boutiques/

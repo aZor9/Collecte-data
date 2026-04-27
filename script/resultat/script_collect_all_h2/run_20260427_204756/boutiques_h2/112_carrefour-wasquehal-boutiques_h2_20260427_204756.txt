@@ -1,0 +1,59 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-wasquehal/boutiques/
+Date: 20260427_204756
+Nombre de titres: 54
+
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Armand Thiery Femmes
+005. Atol
+006. Autour du comptoir
+007. Basic Fit
+008. Bijou Brigitte
+009. Bleu Libellule
+010. Body Minute
+011. Bonobo
+012. Bouygues Telecom
+013. Carrefour Banque
+014. Carrefour Spectacles
+015. Carrefour Voyages
+016. Cleor
+017. Darjeeling
+018. Donuts & Donuts
+019. Fabio Salsa
+020. Feu Vert
+021. Franck Provost
+022. Free
+023. Full Vap
+024. Grain de Malice
+025. Histoire d’Or
+026. Jeff de Bruges
+027. JULES
+028. Julien d’Orcel
+029. Kiko Milano
+030. Le Club Café
+031. Mango
+032. Mc Donald’s
+033. Micromania
+034. Mister Minit
+035. MS Mode
+036. Nocibé
+037. Normal
+038. Ohlà!
+039. Okaidi
+040. Optic 2000
+041. Orange
+042. Paul
+043. Pharmacie
+044. Photomaton
+045. Picard
+046. Pressing AliZés
+047. Promod
+048. Rouge Gorge
+049. SFR
+050. Station Essence
+051. Tchip
+052. Tout Chaud
+053. WeFix
+054. Yves Rocher

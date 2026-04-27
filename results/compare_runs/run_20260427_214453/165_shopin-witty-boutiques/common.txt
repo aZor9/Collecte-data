@@ -1,0 +1,56 @@
+001. Carrefour
+002. 1924 un Monde de Cafés
+003. Access2Tel
+004. Adopt’
+005. Armand Thiery Femme
+006. Armand Thiery Homme
+007. Bemaflor
+008. Bonobo
+009. Bouygues Télécom
+010. Bréal
+011. Cache-Cache
+012. Cafétéria
+013. CiGusto
+014. Claire’s
+015. Courir
+016. Crédit Mutuel
+017. Darjeeling
+018. Devred
+019. EDJI
+020. Espace SFR
+021. Etam Lingerie
+022. Foot Locker
+023. Free
+024. Jules
+025. Julien d’Orcel
+026. Kiko
+027. Krys
+028. La Boutique du Coiffeur
+029. La Casa de Las Carcasas
+030. La Perle
+031. Leonidas
+032. Linfa
+033. Maximilien Coiffure
+034. Micromania Zing
+035. Miramira
+036. Montres and co
+037. MS Mode
+038. Okaïdi+
+039. Orange
+040. Parapharmacie
+041. Paul
+042. PhoneKaze
+043. Photomaton
+044. Pimkie
+045. Point services
+046. Prêt à partir
+047. Rituals
+048. SAV Carrefour
+049. Sephora
+050. So cut
+051. Stratus
+052. Toscane
+053. Yves Rocher
+Collecte des titres boutiques
+Nombre de titres: 53
+Source: https://www.centre-commercial.fr/shopin-witty/boutiques/

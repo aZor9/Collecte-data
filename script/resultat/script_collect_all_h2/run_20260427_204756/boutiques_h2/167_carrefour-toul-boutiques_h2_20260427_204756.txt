@@ -1,0 +1,15 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-toul/boutiques/
+Date: 20260427_204756
+Nombre de titres: 10
+
+001. CARREFOUR
+002. CIGUSTO
+003. CORDONNERIE
+004. DIAGONAL
+005. FLEURS DE L’EST
+006. HISTOIRE D’OR
+007. NOCIBE
+008. PRESSING
+009. QIPAO
+010. SO CUT

@@ -1,0 +1,40 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-quimper/boutiques/
+Date: 20260427_204756
+Nombre de titres: 35
+
+001. Carrefour
+002. Action
+003. Alain Afflelou
+004. Bar Crêperie Gwenn Ha Du
+005. Beauty Success
+006. Bel et Blanc
+007. Bleu Libellule
+008. Boucherie Blouet
+009. Boulangerie Maison Jain
+010. Brasserie du Centre
+011. Carrefour Banque
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. Celio
+015. Charcuterie Queau
+016. ClopiNette
+017. Ecomiam
+018. Feu Vert
+019. Guéguin Picaud
+020. Histoire d’Or
+021. Intersport
+022. Julien d’Orcel
+023. Krys
+024. La Boutique des Artisans
+025. La Fargola
+026. Leonidas
+027. Mister Minit
+028. Okaïdi
+029. Pellicule-Photo.com
+030. Pharmacie Breizh Izel
+031. Photomaton
+032. Point M
+033. Speed Queen
+034. Traiteur Saïgon
+035. Vie et Aura

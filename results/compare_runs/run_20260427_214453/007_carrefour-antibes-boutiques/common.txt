@@ -1,0 +1,43 @@
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Autour du Comptoir
+005. Bimane
+006. Bleu Cerise
+007. Bouygues Telecom
+008. Car Wash
+009. Carrefour Banque
+010. Carrefour Drive
+011. Carrefour Fleurs
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. Celio
+015. CIGUSTO
+016. Cleor
+017. Enzo Benzi
+018. Feu Vert
+019. Flunch
+020. Française des Jeux
+021. FREE
+022. Ginger Beauty
+023. Grand Optical
+024. Histoire d’Or
+025. Jeff de Bruges
+026. La Casa de las Carcasas
+027. Le Grand Café
+028. Mc Donald’s
+029. Micromania
+030. Minit Solution
+031. MLV
+032. Montre Service
+033. Nocibé
+034. Orange
+035. Pharmacie St Damien
+036. Photomaton
+037. Snipes
+038. Stuff
+039. Tabac Le Havane
+040. Toscane
+Collecte des titres boutiques
+Nombre de titres: 40
+Source: https://www.centre-commercial.fr/carrefour-antibes/boutiques/

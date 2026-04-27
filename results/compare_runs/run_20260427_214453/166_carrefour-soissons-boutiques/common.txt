@@ -1,0 +1,12 @@
+001. CARREFOUR
+002. ATOL
+003. DE NEUVILLE
+004. HISTOIRE D’OR
+005. NOCIBE
+006. AUDIO POUR TOUS
+007. CAFETERIA
+008. CIGUSTO
+009. CREDIT AGRICOLE
+010. EUROPE SERVICES
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-soissons/boutiques/

@@ -1,0 +1,20 @@
+001. CARREFOUR
+002. BRETZEL BUGARD
+003. JULIEN D’ORCEL
+004. MISE AU GREEN
+005. NOCIBE
+006. 5 A SEC
+007. CAFETERIA
+008. CIGUSTO
+009. EUROPE SERVICES
+010. GENERALE D’OPTIQUE
+011. Krys
+012. L’héritage du barbier
+013. LA BOUTIQUE DU COIFFEUR
+014. LA PAUSE
+015. MAXIMILIEN COIFFURE
+016. Qipao
+017. So Or
+Collecte des titres boutiques
+Nombre de titres: 17
+Source: https://www.centre-commercial.fr/carrefour-haguenau/boutiques/

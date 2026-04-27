@@ -1,0 +1,8 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-verdun/boutiques/
+Date: 20260427_204756
+Nombre de titres: 3
+
+001. CARREFOUR
+002. CARRE OR
+003. LE CROUSTILLANT

@@ -1,0 +1,39 @@
+001. Carrefour
+002. Quiksilver / Roxy
+003. Adopt’
+004. Alain Afflelou
+005. Ambiance et Styles
+006. Armand Thiery Femme et Homme
+007. Bellagio
+008. Bijouterie Finet
+009. Black Store
+010. Capnet
+011. Carador
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. Christine Laure
+015. CLAIRE’S
+016. ClopiNette
+017. Columbus Café
+018. Courir
+019. Credit Agricole
+020. Darty
+021. Falbala et Margueritte
+022. Générale d’optique
+023. Grain de Malice
+024. Grand Optical
+025. H&M
+026. Indigo
+027. Intersport
+028. Jean Louis David
+029. Jeff de Bruges
+030. La Boutique du Coiffeur
+031. La Maison du Cuir
+032. Le Comptoir de Mathilde
+033. Marionnaud
+034. Mc Donald’s
+035. Mc Donald’s
+036. Micromania
+037. Mister Minit
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-les-bouchardes/boutiques/

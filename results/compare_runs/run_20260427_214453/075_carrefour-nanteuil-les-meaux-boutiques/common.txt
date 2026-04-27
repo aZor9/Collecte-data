@@ -1,0 +1,17 @@
+001. Carrefour
+002. Boulangerie
+003. C&A
+004. Chaussea
+005. Chocolats Roland Reaute
+006. Coordonnerie
+007. Gemo
+008. Kristal
+009. Pharmacie
+010. Pizzéria
+011. Presse, Tabac, Loto
+012. Pressing
+013. Saint Algue
+014. Vision Plus
+Collecte des titres boutiques
+Nombre de titres: 14
+Source: https://www.centre-commercial.fr/carrefour-nanteuil-les-meaux/boutiques/

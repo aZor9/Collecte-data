@@ -1,0 +1,16 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-chateau-thierry/boutiques/
+Date: 20260427_204756
+Nombre de titres: 11
+
+001. Carrefour Banque
+002. Carrefour Market
+003. Carrefour Spectacles
+004. Carrefour Voyages
+005. Cleor
+006. Cordonnerie
+007. Intermede
+008. Krys
+009. Maranello
+010. Maroquinerie
+011. Pharmacie

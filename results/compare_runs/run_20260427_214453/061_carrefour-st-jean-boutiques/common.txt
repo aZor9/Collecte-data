@@ -1,0 +1,29 @@
+001. Carrefour
+002. Alain Afflelou
+003. Au Comptoir d’Oc
+004. Balaboosté
+005. Bouygues Telecom
+006. Café et Cie by Bibal
+007. Carrefour Banque
+008. Carrefour Spectacles
+009. Carrefour Voyages
+010. Color Beauty
+011. Élephant Bleu
+012. GRAIN DE MALICE
+013. Histoire d’Or
+014. Jean-Louis David
+015. Jules
+016. Le Cercle de la Vap
+017. Leonidas
+018. Marionnaud
+019. Micromania
+020. Mister Minit
+021. Orange
+022. Phonéo
+023. Photomaton
+024. Pizza &Cie
+025. Promod
+026. SFR
+027. The Barber Company
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-st-jean/boutiques/

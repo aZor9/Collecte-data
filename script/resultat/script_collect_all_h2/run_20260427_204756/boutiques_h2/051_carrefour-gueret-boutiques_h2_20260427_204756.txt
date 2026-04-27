@@ -1,0 +1,13 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-gueret/boutiques/
+Date: 20260427_204756
+Nombre de titres: 8
+
+001. Carrefour
+002. Atol
+003. Carrefour Banque
+004. Ci Gusto
+005. Coiff&Co
+006. Cordonnerie
+007. Pressing Aqua Blue
+008. Tabac Presse

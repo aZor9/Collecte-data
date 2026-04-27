@@ -1,0 +1,15 @@
+001. CARREFOUR
+002. Audio pour tous
+003. Body minute
+004. Pharmacie
+005. CLUB DES BEAUTES
+006. DILA RETOUCHERIE
+007. Excellence
+008. Idesign
+009. INTERIM HOC JOB
+010. MAXI CHICKEN
+011. OPTIC UNIVERS
+012. TECHNOPHONE
+Collecte des titres boutiques
+Nombre de titres: 12
+Source: https://www.centre-commercial.fr/carrefour-garges-les-gonesse/boutiques/

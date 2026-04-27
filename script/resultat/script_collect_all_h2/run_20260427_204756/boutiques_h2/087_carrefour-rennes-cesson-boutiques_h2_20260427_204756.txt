@@ -1,0 +1,76 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-rennes-cesson/boutiques/
+Date: 20260427_204756
+Nombre de titres: 71
+
+001. Carrefour
+002. Ephem'Art
+003. Le Comptoir de Mathilde
+004. Le Temps des Cerises
+005. Mira Mira
+006. Tran
+007. 5àsec
+008. Adopt’
+009. Alain Afflelou
+010. Autour du comptoir
+011. B Chef
+012. Beauty Success
+013. Bessec
+014. Body et Nail Minute
+015. Bonobo
+016. Brasserie Au Bureau
+017. Brioche Dorée
+018. Burger King
+019. By izéa
+020. Cache Cache
+021. Caroll
+022. Carrefour Banque
+023. Carrefour Location
+024. Carrefour Photo
+025. Carrefour Spectacles
+026. Carrefour Voyages
+027. Chocolatier DeNeuville
+028. Cigusto
+029. Courir
+030. Crazy Kids
+031. Dalery
+032. Darjeeling
+033. Devred
+034. Exepxion
+035. Feu Vert
+036. Fort Boyard Aventures
+037. Franck Provost
+038. Free
+039. H&M
+040. Histoire d’Or
+041. Holly’s diner
+042. Iona bis
+043. Jules
+044. Julien d’Orcel
+045. KRYS
+046. La barbe de papa
+047. La boutique du coiffeur
+048. La Trattoria
+049. LCK
+050. Les Bougies de Charroux
+051. Les copines
+052. Maisons du Monde
+053. Mango
+054. Marc Orian
+055. Mc Donald's
+056. Micromania Zing
+057. Mister Minit
+058. Normal
+059. Okaïdi Obaibi
+060. Orange
+061. Pharmacie
+062. Photomaton
+063. Pitaya
+064. Saint Algue
+065. SFR
+066. SpeedPark
+067. Tape à l’œil
+068. Ultra Premium Direct
+069. WeFix
+070. Wizzle
+071. Yves Rocher

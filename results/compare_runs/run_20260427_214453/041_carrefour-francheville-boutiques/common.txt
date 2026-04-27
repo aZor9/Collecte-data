@@ -1,0 +1,26 @@
+001. Carrefour
+002. Mc Donald’s
+003. Alain Afflelou
+004. BCBG
+005. Bijouterie L’Atelier du Diamant
+006. Carrefour Banque
+007. Carrefour Spectacles
+008. Carrefour Voyages
+009. Crescendo
+010. DALERY
+011. Détail Car
+012. Franck Provost
+013. Herbacée artisan fleuriste
+014. J-well
+015. Jeff de Bruges
+016. Krys
+017. Marionnaud
+018. Multiservices, des artisans dans un monde contemporain
+019. Photomaton
+020. Pil’Vite
+021. Pressing Kokliko
+022. Saint Algue
+023. VOTRE CLUB L’APPART FITNESS FRANCHEVILLE
+Collecte des titres boutiques
+Nombre de titres: 23
+Source: https://www.centre-commercial.fr/carrefour-francheville/boutiques/

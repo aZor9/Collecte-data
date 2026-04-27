@@ -1,0 +1,14 @@
+001. Carrefour
+002. Bleu Minute
+003. Bouygues Telecom
+004. Carrefour Banque
+005. Carrefour Voyages
+006. Cigusto
+007. Mc Donald’s
+008. Orange
+009. Pharmacie
+010. Pressing Plus
+011. Vincent Coiffure
+Collecte des titres boutiques
+Nombre de titres: 11
+Source: https://www.centre-commercial.fr/carrefour-paimpol/boutiques/

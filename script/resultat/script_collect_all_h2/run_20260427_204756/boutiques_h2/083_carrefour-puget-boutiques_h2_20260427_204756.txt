@@ -1,0 +1,59 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-puget/boutiques/
+Date: 20260427_204756
+Nombre de titres: 54
+
+001. Carrefour
+002. Adopt’
+003. ANAKA
+004. Au Bureau
+005. Azur lavage
+006. Balaboosté
+007. Bleu Cerise
+008. Bleu Libellule
+009. Body Minute
+010. Bonobo
+011. Bouygues Telecom
+012. Brasserie Casanova
+013. Bumper
+014. Carrefour Spectacles
+015. Celio
+016. Cigusto
+017. Claire’s
+018. Cleor
+019. Courir
+020. Crêpe Touch
+021. Dalery
+022. De Neuville
+023. Dreams Donuts
+024. Etam Lingerie
+025. Free
+026. Générale d’ Optique
+027. Gold Service
+028. Hippopotamus
+029. Histoire d’Or
+030. Histoire de Famille
+031. Jean-Louis David
+032. Korda
+033. La Croissanterie
+034. LE COLLECTIF DES LUNETIERS
+035. Les P'tites Bombes
+036. Maison 1.2.3
+037. Manège Doll 2000
+038. Marc Orian
+039. Micromania
+040. Morgan
+041. New School Tacos
+042. Nocibé
+043. Orange
+044. Pharmacie
+045. Photomaton
+046. Podium
+047. Project X Paris
+048. Rose et Amos
+049. Saint Algue
+050. Sergent Major
+051. SFR
+052. The Barber Company
+053. Undiz
+054. Vertuo

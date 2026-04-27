@@ -1,0 +1,48 @@
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Armand Thiery Femme
+005. Armand Thiery Homme
+006. Atelier Intermède
+007. Atol
+008. Autour du Comptoir
+009. Beauty Phone
+010. Body Minute et Nail Minute
+011. Bouygues Telecom
+012. Cache Cache
+013. Carrefour Banque
+014. Carrefour Drive
+015. Carrefour Fleurs
+016. Carrefour SAV
+017. Carrefour Spectacles
+018. Carrefour Voyages
+019. Cigusto
+020. Cleor
+021. Darjeeling
+022. Fnac
+023. Free
+024. Générale d’Optique
+025. Histoire d’Or
+026. Jeff de Bruges
+027. L’Elysée Brasserie
+028. La Boutique du Coiffeur
+029. La Presse
+030. Le Manège Enchanté
+031. McPie
+032. meilleur audio
+033. Micromania
+034. MS Mode
+035. Normal
+036. Okaïdi-Obaïbi
+037. Pharmacie du Centre
+038. Photomaton
+039. Promod
+040. Sephora
+041. Shampoo
+042. Toscane
+043. Vape & Factory
+044. Vertuo santé
+045. Yves Rocher
+Collecte des titres boutiques
+Nombre de titres: 45
+Source: https://www.centre-commercial.fr/carrefour-douai-flers/boutiques/

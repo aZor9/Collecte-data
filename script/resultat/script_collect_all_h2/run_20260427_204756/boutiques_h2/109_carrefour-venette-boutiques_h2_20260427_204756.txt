@@ -1,0 +1,52 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-venette/boutiques/
+Date: 20260427_204756
+Nombre de titres: 47
+
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Asie Venette
+005. Autour du Comptoir
+006. Be Camaïeu
+007. Bouygues Telecom
+008. BYIZEA
+009. Carrefour Banque
+010. Carrefour Fleurs
+011. Carrefour location
+012. Carrefour Parapharmacie
+013. Carrefour SAV
+014. Carrefour Spectacles
+015. Carrefour Voyages
+016. Chantelle
+017. Chocolats Beussent Lachelle
+018. Cléor
+019. Courir
+020. DIEGO
+021. Feu Vert
+022. Flunch
+023. Franck Provost
+024. Free
+025. Générale d'Optique
+026. Histoire d’Or
+027. IMO Lavage
+028. Jardinerie
+029. Jules
+030. La Boutique du Coiffeur
+031. La Troika
+032. LOVISA
+033. Mc Donald's
+034. Micromania
+035. Mister Minit
+036. MS MODE
+037. Nocibé
+038. Okaïdi
+039. Pandora
+040. Paul
+041. Photomaton
+042. Rampazzo Guilde des Orfèvres
+043. SFR
+044. Undiz
+045. Visual
+046. WeFix
+047. Yves Rocher

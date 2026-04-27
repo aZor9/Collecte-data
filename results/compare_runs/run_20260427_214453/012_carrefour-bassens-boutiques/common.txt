@@ -1,0 +1,22 @@
+001. Carrefour
+002. Apothical
+003. Carrefour Banque
+004. Carrefour Spectacles
+005. Cigusto
+006. Fabio Salsa
+007. Histoire d’Or
+008. Krys – Marie Gonay
+009. Le Bistrot
+010. Le Zinc
+011. Micromania
+012. Mister Minit
+013. Nocibé
+014. Pascal Coste
+015. Patines et Objets
+016. Photomaton
+017. Propr’Eco Pressing
+018. Rose & Amos
+019. Rosset Opticiens
+Collecte des titres boutiques
+Nombre de titres: 19
+Source: https://www.centre-commercial.fr/carrefour-bassens/boutiques/

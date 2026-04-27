@@ -1,0 +1,34 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/k2-lorient/boutiques/
+Date: 20260427_204756
+Nombre de titres: 29
+
+001. Carrefour
+002. Alain Afflelou
+003. Aux Délices de la Galerie
+004. Beauty Success
+005. Bel & Blanc
+006. Blue Box
+007. Brico Dépôt
+008. Carrefour Banque
+009. Carrefour Spectacles
+010. ClopiNette
+011. Easy Cash
+012. Eléphant Bleu
+013. Flunch
+014. Jeff de Bruges
+015. Julien d’Orcel
+016. Kodak Express
+017. Le Crystal
+018. Maisons du monde
+019. Micromania
+020. Mister Minit
+021. Norauto
+022. Okaïdi
+023. OPTI POP
+024. Or et Passion
+025. Pharmacie
+026. Photomaton
+027. Securitest
+028. TAMASHOP
+029. Version Originale

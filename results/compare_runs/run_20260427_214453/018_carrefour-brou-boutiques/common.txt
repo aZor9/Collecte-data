@@ -1,0 +1,28 @@
+001. Carrefour
+002. La Boutique des Artisans
+003. MODE & PRIX
+004. Pharmacie
+005. Alexandre Coiffure
+006. Atol
+007. Au petit plaisir
+008. Carnaby
+009. Carrefour Banque
+010. Chope Ta Pause
+011. Cigusto
+012. Claire’s
+013. Générale d’Optique
+014. KFC
+015. Krys
+016. Les gourmets d’Asie
+017. Maxi Bazar
+018. Mister Minit
+019. Nocibé
+020. Norauto
+021. Photomaton
+022. Qipao
+023. Shampoo
+024. Tabac Presse
+025. Tand’Aime
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/carrefour-brou/boutiques/

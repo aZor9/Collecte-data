@@ -1,0 +1,31 @@
+001. Carrefour
+002. Alain Afflelou
+003. Aqua Factory
+004. Basic-Fit
+005. Bingo Sushi
+006. Carador
+007. Carrefour Banque
+008. Carrefour Fleurs
+009. Carrefour Photo
+010. Carrefour Spectacles
+011. Carrefour Voyages
+012. Chamas Tacos
+013. CIGUSTO
+014. Dalery
+015. Générale d’Optique
+016. HAIRSUIT
+017. La Boutique du Coiffeur
+018. MaPara – Carrefour Parapharmacie
+019. Mc Donald’s
+020. Mister Minit
+021. Nocibé
+022. Pascal Coste
+023. Pharmacie des Alpes
+024. Photomaton
+025. Propr’eco
+026. QIPAO
+027. Subway
+028. Tech Smartphone
+Collecte des titres boutiques
+Nombre de titres: 28
+Source: https://www.centre-commercial.fr/carrefour-annecy/boutiques/

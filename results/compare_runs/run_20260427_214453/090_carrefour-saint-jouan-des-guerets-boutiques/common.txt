@@ -1,0 +1,17 @@
+001. CARREFOUR
+002. ATOL
+003. Cafétéria
+004. COIFF&CO
+005. ACTION
+006. Cigusto
+007. Cordonnier
+008. Décathlon
+009. Gifi
+010. Jysk
+011. Orange bleu
+012. PRESSING AQUABLUE
+013. TABAC PRESSE
+014. Truffaut
+Collecte des titres boutiques
+Nombre de titres: 14
+Source: https://www.centre-commercial.fr/carrefour-saint-jouan-des-guerets/boutiques/

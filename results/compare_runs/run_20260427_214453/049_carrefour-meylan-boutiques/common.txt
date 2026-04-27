@@ -1,0 +1,17 @@
+001. Carrefour
+002. Bouygues Telecom
+003. Brasserie Le Café
+004. Carrefour Spectacles
+005. Carrefour Voyages
+006. Franck Provost
+007. Grand Optical
+008. Hello Laverie
+009. Histoire D’Or
+010. Mc Donald’s
+011. Orange
+012. Parapharmacie Carrefour
+013. Passion Beauté
+014. Yves Rocher
+Collecte des titres boutiques
+Nombre de titres: 14
+Source: https://www.centre-commercial.fr/carrefour-meylan/boutiques/

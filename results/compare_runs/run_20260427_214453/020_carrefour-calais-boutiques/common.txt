@@ -1,0 +1,17 @@
+001. Carrefour
+002. BasicFit
+003. Bijouterie
+004. Carrefour Banque
+005. Carrefour Spectacles
+006. Club Bouygues Télécom
+007. Générale D’Optique
+008. La Poste
+009. Mcdonald’S
+010. Pause Sandwich
+011. Pharmacie Dupuis
+012. Photomaton
+013. Tabac Presse
+014. Zeeman
+Collecte des titres boutiques
+Nombre de titres: 14
+Source: https://www.centre-commercial.fr/carrefour-calais/boutiques/

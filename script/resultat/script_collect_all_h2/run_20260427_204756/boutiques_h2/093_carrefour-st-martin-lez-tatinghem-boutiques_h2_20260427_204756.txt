@@ -1,0 +1,14 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-st-martin-lez-tatinghem/boutiques/
+Date: 20260427_204756
+Nombre de titres: 9
+
+001. Carrefour
+002. Brasserie L’Européen
+003. Cigusto
+004. Cordonnerie/Clés Minute
+005. Jolibois Deco Cadeaux
+006. Photomaton
+007. Presse
+008. Pressing
+009. Shampoo

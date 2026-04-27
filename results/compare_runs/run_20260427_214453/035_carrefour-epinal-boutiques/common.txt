@@ -1,0 +1,44 @@
+001. Carrefour
+002. 3 Brasseurs
+003. Action
+004. Alain Afflelou
+005. Besson
+006. Carador
+007. Carrefour Banque
+008. Carrefour voyages
+009. Chaussea
+010. Cigusto
+011. Edora
+012. Flunch
+013. Fnac
+014. Free
+015. Général d’Optique
+016. Hippopotamus
+017. Intersport
+018. Jeff de Bruges
+019. Jour de fête
+020. Julien D’Orcel
+021. Kiabi
+022. King Jouet
+023. Krys
+024. La Boutique du Coiffeur
+025. La Brasserie de Jeuxey
+026. La clé des services
+027. Les fous de terroirs
+028. Maximilien Coiffure
+029. Mc Donald’s
+030. Micromania
+031. Nocibé
+032. Norauto
+033. Orange
+034. Photomaton
+035. Picard
+036. Poltronesofà
+037. RT Phone
+038. Saint Algue
+039. SFR
+040. Tape à l’oeil
+041. Xenabag
+Collecte des titres boutiques
+Nombre de titres: 41
+Source: https://www.centre-commercial.fr/carrefour-epinal/boutiques/

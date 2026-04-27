@@ -1,0 +1,77 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-vannes/boutiques/
+Date: 20260427_204756
+Nombre de titres: 72
+
+001. Carrefour
+002. Adopt’
+003. Bagagiste et Compagnie
+004. Bar de la Compagnie
+005. Bar de la Galerie
+006. Bel et Blanc « Pressing »
+007. Bessec Chaussures
+008. Bleu Libellule
+009. Body Minute
+010. Bonobo
+011. Boulangerie Ange
+012. Boulangerie Bellanger
+013. Bouygues Telecom
+014. Brice
+015. Brioche Dorée
+016. BZB
+017. Cannabreizh
+018. Caroll
+019. Carrefour Banque
+020. Carrefour Spectacles
+021. Carrefour Voyages
+022. Carte Grise Café
+023. Christine Laure
+024. CIGUSTO
+025. Cloane
+026. DAB Crédit Agricole
+027. Damart
+028. Darjeeling
+029. Devred 1902
+030. Du Bruit dans la Cuisine
+031. Entre Temps
+032. Espace Pantalons
+033. Franck Jarno Au Féminin
+034. Franck Jarno Au Masculin
+035. Free
+036. Générale d'Optique
+037. Guéguin Picaud
+038. Heureka
+039. Holly's Diner
+040. IONA
+041. Jack & Jones
+042. JD Sports
+043. Jeff de Bruges
+044. Jules
+045. Kodak Express
+046. L’opticien Lunetier
+047. La Casa de las Carcasas
+048. Lavomatic
+049. Le Comptoir de Mathilde
+050. Macassar
+051. Maison 123
+052. Micromania
+053. MILOME
+054. Mister Minit
+055. Montres Avenue
+056. Nocibé
+057. NORMAL
+058. Okaïdi
+059. Or Marine
+060. Orange
+061. Parfois
+062. Pharmacie du Fourchêne
+063. Photomaton
+064. Picard
+065. Scott Premium
+066. Sergent Major
+067. Signé B. Lingerie
+068. Tabac Presse K’ile
+069. UNDIZ
+070. WeFix
+071. WIZZLE
+072. Yves Rocher

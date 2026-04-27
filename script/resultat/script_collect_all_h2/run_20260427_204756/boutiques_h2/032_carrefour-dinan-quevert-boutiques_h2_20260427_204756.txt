@@ -1,0 +1,18 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-dinan-quevert/boutiques/
+Date: 20260427_204756
+Nombre de titres: 13
+
+001. Carrefour
+002. ACTION
+003. Brasserie Le Chêne
+004. DAB Crédit Mutuel de Bretagne
+005. La meche Bleue
+006. Le Collectif des Lunetiers
+007. Librairie, Papeteries
+008. Magic Affaires
+009. Mc Donald’s
+010. Orchestra
+011. Pharmacie
+012. Salon d’ésthétique
+013. Vap Access

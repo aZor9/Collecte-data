@@ -1,0 +1,62 @@
+001. Carrefour
+002. Accès Informatique
+003. Adidas Originals
+004. Adopt’
+005. Armand Thiery
+006. Atmosphair
+007. Basic Fit
+008. BERSHKA
+009. Bijouterie Rose
+010. Bouygues Telecom
+011. Brioche Dorée
+012. BZB
+013. Ça c’est moi !
+014. Calzedonia
+015. Candy Factory
+016. Carrefour Banque
+017. Carrefour Location
+018. Carrefour Spectacles
+019. Carrefour Voyages
+020. Celio
+021. Chantelle
+022. Chaussures Laïti
+023. Claire’s
+024. Coffee Bar
+025. Columbus Café
+026. Cordonnerie Clés – Point Services
+027. Courir
+028. Cristime
+029. Dessange
+030. Devred 1902
+031. Dream Donuts
+032. Eat Me
+033. Eden Park
+034. Etam Lingerie
+035. Euro Moselle Loisirs
+036. Flunch
+037. FOOTKORNER
+038. Free
+039. Hema
+040. Hisler BD Bis
+041. Hisler Librairie
+042. Histoire d’Or
+043. IKKS
+044. Inter-Actif
+045. IZAC
+046. Jalla
+047. Japan Geek
+048. Jardiland
+049. Jardins d’Arômes
+050. JD Sports
+051. Jeff de Bruges
+052. Jules
+053. Julien d’Orcel
+054. Kiko Milano
+055. Kim d’Asie
+056. L’ATELIER D’AMAYA
+057. La Boutique du Coiffeur
+058. La Casa de las Carcasas : l’Alliance de la Mode et de la Protection
+059. La Chaise Longue
+060. La Crêperie
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/geric/boutiques/

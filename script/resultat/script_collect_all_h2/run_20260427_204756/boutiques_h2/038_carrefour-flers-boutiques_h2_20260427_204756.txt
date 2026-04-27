@@ -1,0 +1,15 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-flers/boutiques/
+Date: 20260427_204756
+Nombre de titres: 10
+
+001. Carrefour
+002. Aujourd’Hui Une Fleur
+003. Dab Crédit Agricole
+004. Eudes Coiffure
+005. L’Atelier Du Cordonnier
+006. La Cafet – Brasserie
+007. Mag Presse
+008. Passion Bijoux
+009. Propressing
+010. Vap-Access

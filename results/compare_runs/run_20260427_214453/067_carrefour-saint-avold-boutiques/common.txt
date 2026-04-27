@@ -1,0 +1,28 @@
+001. Carrefour
+002. Aélys
+003. Bombay Restaurant
+004. Bréal
+005. Cache-Cache
+006. Cafétéria
+007. Ci Gusto
+008. Diagonal Coiffure
+009. Duo
+010. Espace SFR
+011. Europe services
+012. Free
+013. Julien d’Orcel
+014. LA MAISON DE L’OPTIQUE
+015. La parapharmacie
+016. La Pause
+017. Magpress
+018. Maroquinerie Stratus
+019. Micromania-Zing
+020. Mise au Green
+021. Passion Beauté
+022. Prêt à partir
+023. Promovacances
+024. Qipao
+025. So Or
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/carrefour-saint-avold/boutiques/

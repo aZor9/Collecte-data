@@ -1,0 +1,48 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/saint-jacques/boutiques/
+Date: 20260427_204756
+Nombre de titres: 43
+
+001. Carrefour
+002. Adopt’
+003. Alain Afflelou
+004. Audition Colin
+005. BANQUE POPULAIRE AUVERGNE RHONE ALPES
+006. Bijouterie Langlois
+007. Body Minute
+008. Cabinet Medical MEDEO
+009. Carador
+010. Carrefour Banque
+011. Carrefour Drive
+012. Carrefour Spectacles
+013. CIGUSTO
+014. Comfort Hôtel
+015. Courir
+016. Dalery
+017. Devred 1902
+018. Fabio Salsa
+019. FREE
+020. FRENCH COFFEE SHOP
+021. General d’Optique
+022. Grain de Malice
+023. Horizon Lee Cooper
+024. KFC
+025. La Boutique du Coiffeur
+026. Le Joker
+027. Leonidas
+028. Lox Coiffure
+029. Magic Afflelou
+030. Marionnaud
+031. Mc Donald’s
+032. Micromania
+033. Mister Minit
+034. MultiMedia Discount
+035. Normal
+036. Pharmacie Saint-Jacques
+037. Photomaton
+038. Pimkie
+039. Qualiqu’Heure Pressing
+040. Station service
+041. The barber company
+042. Wash and go
+043. Welcom’

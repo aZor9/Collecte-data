@@ -1,0 +1,17 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-nantes-st-herblain/boutiques/
+Date: 20260427_204756
+Nombre de titres: 12
+
+001. Carrefour
+002. Car Wash
+003. Carrefour Banque
+004. Club Bouygues Telecom
+005. Id Coiff
+006. LA PETITE PAUSE
+007. Pharmacie
+008. Photomaton
+009. Pressing Des Chataigniers
+010. Vap Access
+011. VERTUO
+012. Vision Plus

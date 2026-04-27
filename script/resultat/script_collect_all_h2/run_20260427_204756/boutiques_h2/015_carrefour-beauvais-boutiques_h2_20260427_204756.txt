@@ -1,0 +1,20 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-beauvais/boutiques/
+Date: 20260427_204756
+Nombre de titres: 15
+
+001. Carrefour
+002. Carrefour Banque
+003. Carrefour Voyages
+004. City Vision
+005. Coiffure
+006. Cordonnerie
+007. Generalistes En Sports – Messier Sports
+008. Hype
+009. La Poste
+010. Maroquinerie
+011. My Beers Beauvais
+012. Photomaton
+013. Pressing
+014. Roady
+015. Telephone Store

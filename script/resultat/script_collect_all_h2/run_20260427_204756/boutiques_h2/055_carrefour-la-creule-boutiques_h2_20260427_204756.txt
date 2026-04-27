@@ -1,0 +1,20 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-la-creule/boutiques/
+Date: 20260427_204756
+Nombre de titres: 15
+
+001. Carrefour
+002. Bijouterie
+003. Bouygues
+004. Bulle D’Air
+005. Carole Laurent
+006. Carrefour Banque
+007. Cigusto
+008. Espace SFR
+009. L’Houtland
+010. Leonidas
+011. Micromania
+012. Nocibé
+013. Pharmacie
+014. Photomaton
+015. Sequoia Pressing

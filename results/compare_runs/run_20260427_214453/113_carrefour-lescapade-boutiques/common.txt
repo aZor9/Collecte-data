@@ -1,0 +1,40 @@
+001. Carrefour
+002. NORMAL
+003. 10 Optic
+004. Action
+005. Auto-École Popeye
+006. B&M
+007. Burger King
+008. Carrefour Banque
+009. Carrefour Spectacles
+010. Celio
+011. Chaussea
+012. CIGUSTO
+013. Cleor
+014. Coiff&co
+015. Crédit Agricole
+016. Crêpe Touch
+017. ELECTRO DEPOT
+018. Feu Vert
+019. Fitness Park
+020. Franck Provost
+021. H&M
+022. Jeff de Bruges
+023. Kisly
+024. KS Boutique
+025. La boutique des Artisans
+026. La Boutique du Coiffeur
+027. La Cordonnerie et Française de Jeux
+028. Monceau Fleurs
+029. O'Tacos
+030. Optic 2000
+031. Pharmacie
+032. Photomaton
+033. Sephora
+034. SFR
+035. Tom&Co
+036. Yves Rocher
+037. Zeeman
+Collecte des titres boutiques
+Nombre de titres: 37
+Source: https://www.centre-commercial.fr/carrefour-lescapade/boutiques/

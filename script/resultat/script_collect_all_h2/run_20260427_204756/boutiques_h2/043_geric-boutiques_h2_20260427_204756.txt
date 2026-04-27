@@ -1,0 +1,121 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/geric/boutiques/
+Date: 20260427_204756
+Nombre de titres: 116
+
+001. Carrefour
+002. Accès Informatique
+003. Adidas Originals
+004. Adopt’
+005. Armand Thiery
+006. Atmosphair
+007. Basic Fit
+008. BERSHKA
+009. Bijouterie Rose
+010. Bouygues Telecom
+011. Brioche Dorée
+012. BZB
+013. Ça c’est moi !
+014. Calzedonia
+015. Candy Factory
+016. Carrefour Banque
+017. Carrefour Location
+018. Carrefour Spectacles
+019. Carrefour Voyages
+020. Celio
+021. Chantelle
+022. Chaussures Laïti
+023. Claire’s
+024. Coffee Bar
+025. Columbus Café
+026. Cordonnerie Clés – Point Services
+027. Courir
+028. Cristime
+029. Dessange
+030. Devred 1902
+031. Dream Donuts
+032. Eat Me
+033. Eden Park
+034. Etam Lingerie
+035. Euro Moselle Loisirs
+036. Flunch
+037. FOOTKORNER
+038. Free
+039. Hema
+040. Hisler BD Bis
+041. Hisler Librairie
+042. Histoire d’Or
+043. IKKS
+044. Inter-Actif
+045. IZAC
+046. Jalla
+047. Japan Geek
+048. Jardiland
+049. Jardins d’Arômes
+050. JD Sports
+051. Jeff de Bruges
+052. Jules
+053. Julien d’Orcel
+054. Kiko Milano
+055. Kim d’Asie
+056. L’ATELIER D’AMAYA
+057. La Boutique du Coiffeur
+058. La Casa de las Carcasas : l’Alliance de la Mode et de la Protection
+059. La Chaise Longue
+060. La Crêperie
+061. La Grande Récré
+062. Lacoste
+063. Le Comptoir de Mathilde
+064. Le Fournil de Pierre
+065. Le Petit Souk
+066. Le Trappeur
+067. Les 3 Brasseurs
+068. Les Fous de Terroirs
+069. Levi's Store
+070. Linky
+071. LPB Woman
+072. Lunettestore
+073. Maison 123
+074. Maison de la presse Illy Café
+075. Maisons du Monde
+076. Marc Orian
+077. MARQUETTE
+078. Micromania
+079. Mise au Green
+080. Morgan
+081. MS Mode
+082. Nachos
+083. Nicolas
+084. Nocibé
+085. Noir de monde
+086. Nyx Professional Make up
+087. ONLY
+088. Opticiens Pieraut
+089. Orange
+090. Pandora
+091. Parashop
+092. Pascal Coste
+093. Photomaton
+094. Pimkie
+095. Point Service Mobiles
+096. Poltronesofà
+097. Punt Roma
+098. Red Beef
+099. Référence Pare-Brise
+100. Rituals
+101. Rouge Gorge
+102. Sensaura
+103. Sephora
+104. SFR
+105. Solar Clean Center
+106. Subway
+107. Swarovski
+108. Toscane
+109. Tunnel de Lavage
+110. Undiz
+111. Waffle Factory
+112. Winstub
+113. WIZZLE
+114. Women
+115. Yogurt Factory
+116. Yves Rocher

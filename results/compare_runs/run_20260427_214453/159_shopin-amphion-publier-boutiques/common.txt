@@ -1,0 +1,28 @@
+001. Hyper U
+002. Bijouterie Dejean
+003. Bréal
+004. Cache Cache
+005. CAFETERIA
+006. Christine Laure
+007. Claire’s
+008. Coffee Break
+009. Dolce Terra
+010. Fram, Agence de voyage
+011. Fripes et Brocs
+012. Histoire d’or
+013. Krys
+014. L’Atelier du Chocolat
+015. La Boutique du Coiffeur
+016. Le Cercle de la Vape
+017. Liberty Coiffure
+018. Marionnaud
+019. Optical Center
+020. Pharmacie Apothical
+021. Picard
+022. Qipao
+023. Shampoo expert
+024. Sport 2000
+025. Superdry
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/shopin-amphion-publier/boutiques/

@@ -1,0 +1,62 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/ile-napoleon/boutiques/
+Date: 20260427_204756
+Nombre de titres: 57
+
+001. Carrefour
+002. 5 à Sec
+003. Alain Afflelou
+004. Armand Thiery Femme
+005. Armand Thiery Homme
+006. Bouygues Telecom
+007. Burger King
+008. C&A
+009. Carrefour Banque
+010. Carrefour Occasion
+011. Celio
+012. Chaussea
+013. Christine Laure & Bayard
+014. Cleor
+015. Courir
+016. Crocky Bazar
+017. Devred
+018. Franck Provost
+019. Générale d’optique
+020. Histoire d’Or
+021. Intersport
+022. La Boutique du Coiffeur
+023. La Perle Bijouterie
+024. Le Club
+025. Le Mandarin
+026. Le Petit Vapoteur
+027. Les Comptoirs Thé Café
+028. Mango
+029. Marionnaud
+030. Max’N Barber
+031. Maximilien Coiffure
+032. Micromania
+033. Mise au Green
+034. Montres and Co
+035. MS Mode
+036. myphone
+037. Normal
+038. Okaïdi
+039. Parfois
+040. Pimkie
+041. Poulaillon
+042. Promod
+043. RougeGorge
+044. Sephora
+045. Services Minute
+046. SFR
+047. Smyths Toys
+048. Station de lavage
+049. Station essence Carrefour
+050. Stratus
+051. Tabac
+052. Undiz
+053. Vertbaudet
+054. Vib’s
+055. Visio Factory
+056. Yoyoso
+057. Yves Rocher

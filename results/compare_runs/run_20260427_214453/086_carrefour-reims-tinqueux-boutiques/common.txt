@@ -1,0 +1,15 @@
+001. Carrefour
+002. 5àsec
+003. Aélys
+004. BPLC Banque
+005. Carrefour Banque
+006. Carrefour Location
+007. Carrefour Spectacles
+008. Carrefour Voyages
+009. Chocolatier DeNeuville
+010. Christine Laure
+011. Clopinette
+012. Flunch
+013. Générale d’Optique
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-reims-tinqueux/boutiques/

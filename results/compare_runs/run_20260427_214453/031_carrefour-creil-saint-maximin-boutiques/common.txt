@@ -1,0 +1,40 @@
+001. Carrefour
+002. ACTU EYES
+003. Adopt’
+004. Alter Smoke
+005. Audio pour tous
+006. Bodyminute
+007. Bouygues Telecom
+008. Cafétéria
+009. Chez Yu
+010. Cigusto
+011. Devred
+012. Diego
+013. Fabio Salsa
+014. Fantasia
+015. Free
+016. Générale d’Optique
+017. Grand Optical
+018. Histoire d’or
+019. Jean Louis David
+020. Jeff de Bruges
+021. La Boutique des Artisans
+022. La Boutique du Coiffeur
+023. La brioche Picarde
+024. La corbeille d’Or
+025. La troïka
+026. Lavanet Pressing
+027. Marc Orian
+028. Micromania
+029. Minit France
+030. Nocibé
+031. Okaidi
+032. Pharmacie
+033. Photomaton
+034. Promovacances
+035. SFR
+036. Trésor
+037. Yves Rocher
+Collecte des titres boutiques
+Nombre de titres: 37
+Source: https://www.centre-commercial.fr/carrefour-creil-saint-maximin/boutiques/

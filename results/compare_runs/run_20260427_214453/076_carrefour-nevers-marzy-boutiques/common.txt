@@ -1,0 +1,59 @@
+001. Carrefour
+002. Signorizza
+003. 123 Pare-Brise
+004. Adopt’
+005. Alain Afflelou
+006. Bouygues Telecom
+007. Carrefour Banque
+008. Carrefour Drive
+009. Carrefour SAV
+010. Chaussea
+011. Cleor
+012. Columbus Café & Co
+013. DAB Société Générale
+014. Darty
+015. Decathlon
+016. Devred 1902
+017. Dornier Boutique
+018. Eléphant Bleu
+019. ÉRAM
+020. Euro Pressing
+021. Franck Provost
+022. FREE
+023. Godasses & Keys
+024. Grain de Malice
+025. J Well
+026. Jack&Jones
+027. Jean-Louis David
+028. Kiabi
+029. Kodak Express
+030. La casa de las carcasas
+031. La Maison du Cuir
+032. La Saladerie
+033. Le Croustillant
+034. Leonidas
+035. Magic Afflelou
+036. Maisons du Monde
+037. Maxi Zoo
+038. Mc Donald’s
+039. Micromania
+040. Milord’s
+041. Nocibé
+042. Orange
+043. Orchestra
+044. Photomaton
+045. Pil’vite
+046. Promod
+047. Quick
+048. RougeGorge Lingerie
+049. Sergent Major
+050. SFR
+051. SHOP Coiffure
+052. Station service
+053. Tape à l’oeil
+054. The Barber Company
+055. Vib’s
+056. Welcom’
+Collecte des titres boutiques
+Nombre de titres: 56
+Source: https://www.centre-commercial.fr/carrefour-nevers-marzy/boutiques/

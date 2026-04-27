@@ -1,0 +1,33 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-valdyerres/boutiques/
+Date: 20260427_204756
+Nombre de titres: 28
+
+001. Carrefour
+002. 3R Lavages
+003. Au Canard Laqué
+004. Audio Pour Tous
+005. Aux saveurs de Boussy
+006. Basic Fit
+007. Carador Bijouterie
+008. Cleor
+009. Croque le frais
+010. DARTY
+011. Espace SFR
+012. Franck Provost
+013. Grill House
+014. Jeff de Bruges
+015. Krys
+016. Nocibé
+017. Norauto
+018. Normal
+019. Ocularis
+020. OPTICEO
+021. Pep’s Bowling
+022. Pharmacie
+023. Pil’Vite
+024. Point Sec
+025. Rapide Service
+026. Saga des marques
+027. Tabac presse la Nayrac
+028. Yane Fleurs

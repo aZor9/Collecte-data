@@ -1,0 +1,702 @@
+Compare Runs: 20260427_214453
+Run A: C:\Users\FA506\Downloads\Code\Collecte data\script\resultat\script_collect_all_h2\run_20260408_164409
+Run B: C:\Users\FA506\Downloads\Code\Collecte data\script\resultat\script_collect_all_h2\run_20260427_204756
+
+--- Fichiers traités ---
+Communs (appairés): 173
+Seulement dans A: 0
+Seulement dans B: 0
+
+--- Détails des comparaisons ---
+001. 001_carrefour-iroise-boutiques
+    A: 001_carrefour-iroise-boutiques_h2_20260408_164409.txt
+    B: 001_carrefour-iroise-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\001_carrefour-iroise-boutiques
+002. 002_carrefour-alencon-boutiques
+    A: 002_carrefour-alencon-boutiques_h2_20260408_164409.txt
+    B: 002_carrefour-alencon-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\002_carrefour-alencon-boutiques
+003. 003_carrefour-amiens-boutiques
+    A: 003_carrefour-amiens-boutiques_h2_20260408_164409.txt
+    B: 003_carrefour-amiens-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\003_carrefour-amiens-boutiques
+004. 004_angers-st-serge-boutiques
+    A: 004_angers-st-serge-boutiques_h2_20260408_164409.txt
+    B: 004_angers-st-serge-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\004_angers-st-serge-boutiques
+005. 005_carrefour-angoulins-boutiques
+    A: 005_carrefour-angoulins-boutiques_h2_20260408_164409.txt
+    B: 005_carrefour-angoulins-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\005_carrefour-angoulins-boutiques
+006. 006_carrefour-annecy-boutiques
+    A: 006_carrefour-annecy-boutiques_h2_20260408_164409.txt
+    B: 006_carrefour-annecy-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\006_carrefour-annecy-boutiques
+007. 007_carrefour-antibes-boutiques
+    A: 007_carrefour-antibes-boutiques_h2_20260408_164409.txt
+    B: 007_carrefour-antibes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\007_carrefour-antibes-boutiques
+008. 008_carrefour-auch-boutiques
+    A: 008_carrefour-auch-boutiques_h2_20260408_164409.txt
+    B: 008_carrefour-auch-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\008_carrefour-auch-boutiques
+009. 009_carrefour-auchy-les-mines-boutiques
+    A: 009_carrefour-auchy-les-mines-boutiques_h2_20260408_164409.txt
+    B: 009_carrefour-auchy-les-mines-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\009_carrefour-auchy-les-mines-boutiques
+010. 010_carrefour-auterive-boutiques
+    A: 010_carrefour-auterive-boutiques_h2_20260408_164409.txt
+    B: 010_carrefour-auterive-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\010_carrefour-auterive-boutiques
+011. 011_barentin-boutiques
+    A: 011_barentin-boutiques_h2_20260408_164409.txt
+    B: 011_barentin-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\011_barentin-boutiques
+012. 012_carrefour-bassens-boutiques
+    A: 012_carrefour-bassens-boutiques_h2_20260408_164409.txt
+    B: 012_carrefour-bassens-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\012_carrefour-bassens-boutiques
+013. 013_carrefour-bayeux-boutiques
+    A: 013_carrefour-bayeux-boutiques_h2_20260408_164409.txt
+    B: 013_carrefour-bayeux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\013_carrefour-bayeux-boutiques
+014. 014_carrefour-beaucaire-boutiques
+    A: 014_carrefour-beaucaire-boutiques_h2_20260408_164409.txt
+    B: 014_carrefour-beaucaire-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\014_carrefour-beaucaire-boutiques
+015. 015_carrefour-beauvais-boutiques
+    A: 015_carrefour-beauvais-boutiques_h2_20260408_164409.txt
+    B: 015_carrefour-beauvais-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\015_carrefour-beauvais-boutiques
+016. 016_carrefour-berck-boutiques
+    A: 016_carrefour-berck-boutiques_h2_20260408_164409.txt
+    B: 016_carrefour-berck-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\016_carrefour-berck-boutiques
+017. 017_carrefour-chalezeule-boutiques
+    A: 017_carrefour-chalezeule-boutiques_h2_20260408_164409.txt
+    B: 017_carrefour-chalezeule-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\017_carrefour-chalezeule-boutiques
+018. 018_carrefour-brou-boutiques
+    A: 018_carrefour-brou-boutiques_h2_20260408_164409.txt
+    B: 018_carrefour-brou-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\018_carrefour-brou-boutiques
+019. 019_carrefour-bourges-boutiques
+    A: 019_carrefour-bourges-boutiques_h2_20260408_164409.txt
+    B: 019_carrefour-bourges-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\019_carrefour-bourges-boutiques
+020. 020_carrefour-calais-boutiques
+    A: 020_carrefour-calais-boutiques_h2_20260408_164409.txt
+    B: 020_carrefour-calais-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\020_carrefour-calais-boutiques
+021. 021_carrefour-chambourcy-boutiques
+    A: 021_carrefour-chambourcy-boutiques_h2_20260408_164409.txt
+    B: 021_carrefour-chambourcy-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\021_carrefour-chambourcy-boutiques
+022. 022_carrefour-champs-sur-marne-boutiques
+    A: 022_carrefour-champs-sur-marne-boutiques_h2_20260408_164409.txt
+    B: 022_carrefour-champs-sur-marne-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\022_carrefour-champs-sur-marne-boutiques
+023. 023_carrefour-la-croisette-boutiques
+    A: 023_carrefour-la-croisette-boutiques_h2_20260408_164409.txt
+    B: 023_carrefour-la-croisette-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\023_carrefour-la-croisette-boutiques
+024. 024_carrefour-chateauroux-boutiques
+    A: 024_carrefour-chateauroux-boutiques_h2_20260408_164409.txt
+    B: 024_carrefour-chateauroux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\024_carrefour-chateauroux-boutiques
+025. 025_carrefour-cholet-boutiques
+    A: 025_carrefour-cholet-boutiques_h2_20260408_164409.txt
+    B: 025_carrefour-cholet-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\025_carrefour-cholet-boutiques
+026. 026_carrefour-chateau-thierry-boutiques
+    A: 026_carrefour-chateau-thierry-boutiques_h2_20260408_164409.txt
+    B: 026_carrefour-chateau-thierry-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\026_carrefour-chateau-thierry-boutiques
+027. 027_carrefour-chateauneuf-les-martigues-boutiques
+    A: 027_carrefour-chateauneuf-les-martigues-boutiques_h2_20260408_164409.txt
+    B: 027_carrefour-chateauneuf-les-martigues-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\027_carrefour-chateauneuf-les-martigues-boutiques
+028. 028_salanca-boutiques
+    A: 028_salanca-boutiques_h2_20260408_164409.txt
+    B: 028_salanca-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\028_salanca-boutiques
+029. 029_carrefour-clermont-ferrand-lempdes-boutiques
+    A: 029_carrefour-clermont-ferrand-lempdes-boutiques_h2_20260408_164409.txt
+    B: 029_carrefour-clermont-ferrand-lempdes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\029_carrefour-clermont-ferrand-lempdes-boutiques
+030. 030_carrefour-conde-sur-lescaut-boutiques
+    A: 030_carrefour-conde-sur-lescaut-boutiques_h2_20260408_164409.txt
+    B: 030_carrefour-conde-sur-lescaut-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\030_carrefour-conde-sur-lescaut-boutiques
+031. 031_carrefour-creil-saint-maximin-boutiques
+    A: 031_carrefour-creil-saint-maximin-boutiques_h2_20260408_164409.txt
+    B: 031_carrefour-creil-saint-maximin-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\031_carrefour-creil-saint-maximin-boutiques
+032. 032_carrefour-dinan-quevert-boutiques
+    A: 032_carrefour-dinan-quevert-boutiques_h2_20260408_164409.txt
+    B: 032_carrefour-dinan-quevert-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\032_carrefour-dinan-quevert-boutiques
+033. 033_carrefour-douai-flers-boutiques
+    A: 033_carrefour-douai-flers-boutiques_h2_20260408_164409.txt
+    B: 033_carrefour-douai-flers-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\033_carrefour-douai-flers-boutiques
+034. 034_carrefour-salamandrier-boutiques
+    A: 034_carrefour-salamandrier-boutiques_h2_20260408_164409.txt
+    B: 034_carrefour-salamandrier-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\034_carrefour-salamandrier-boutiques
+035. 035_carrefour-epinal-boutiques
+    A: 035_carrefour-epinal-boutiques_h2_20260408_164409.txt
+    B: 035_carrefour-epinal-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\035_carrefour-epinal-boutiques
+036. 036_carrefour-ermont-boutiques
+    A: 036_carrefour-ermont-boutiques_h2_20260408_164409.txt
+    B: 036_carrefour-ermont-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\036_carrefour-ermont-boutiques
+037. 037_carrefour-feurs-boutiques
+    A: 037_carrefour-feurs-boutiques_h2_20260408_164409.txt
+    B: 037_carrefour-feurs-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\037_carrefour-feurs-boutiques
+038. 038_carrefour-flers-boutiques
+    A: 038_carrefour-flers-boutiques_h2_20260408_164409.txt
+    B: 038_carrefour-flers-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\038_carrefour-flers-boutiques
+039. 039_carrefour-flins-boutiques
+    A: 039_carrefour-flins-boutiques_h2_20260408_164409.txt
+    B: 039_carrefour-flins-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\039_carrefour-flins-boutiques
+040. 040_carrefour-fourmies-boutiques
+    A: 040_carrefour-fourmies-boutiques_h2_20260408_164409.txt
+    B: 040_carrefour-fourmies-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\040_carrefour-fourmies-boutiques
+041. 041_carrefour-francheville-boutiques
+    A: 041_carrefour-francheville-boutiques_h2_20260408_164409.txt
+    B: 041_carrefour-francheville-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\041_carrefour-francheville-boutiques
+042. 042_carrefour-gennevilliers-boutiques
+    A: 042_carrefour-gennevilliers-boutiques_h2_20260408_164409.txt
+    B: 042_carrefour-gennevilliers-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\042_carrefour-gennevilliers-boutiques
+043. 043_geric-boutiques
+    A: 043_geric-boutiques_h2_20260408_164409.txt
+    B: 043_geric-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\043_geric-boutiques
+044. 044_carrefour-goussainville-boutiques
+    A: 044_carrefour-goussainville-boutiques_h2_20260408_164409.txt
+    B: 044_carrefour-goussainville-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\044_carrefour-goussainville-boutiques
+045. 045_grand-evreux-boutiques
+    A: 045_grand-evreux-boutiques_h2_20260408_164409.txt
+    B: 045_grand-evreux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\045_grand-evreux-boutiques
+046. 046_grand-vitrolles-boutiques
+    A: 046_grand-vitrolles-boutiques_h2_20260408_164409.txt
+    B: 046_grand-vitrolles-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\046_grand-vitrolles-boutiques
+047. 047_carrefour-st-egreve-boutiques
+    A: 047_carrefour-st-egreve-boutiques_h2_20260408_164409.txt
+    B: 047_carrefour-st-egreve-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\047_carrefour-st-egreve-boutiques
+048. 048_carrefour-echirolles-boutiques
+    A: 048_carrefour-echirolles-boutiques_h2_20260408_164409.txt
+    B: 048_carrefour-echirolles-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\048_carrefour-echirolles-boutiques
+049. 049_carrefour-meylan-boutiques
+    A: 049_carrefour-meylan-boutiques_h2_20260408_164409.txt
+    B: 049_carrefour-meylan-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\049_carrefour-meylan-boutiques
+050. 050_carrefour-gruchet-le-valasse-boutiques
+    A: 050_carrefour-gruchet-le-valasse-boutiques_h2_20260408_164409.txt
+    B: 050_carrefour-gruchet-le-valasse-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\050_carrefour-gruchet-le-valasse-boutiques
+051. 051_carrefour-gueret-boutiques
+    A: 051_carrefour-gueret-boutiques_h2_20260408_164409.txt
+    B: 051_carrefour-gueret-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\051_carrefour-gueret-boutiques
+052. 052_k2-lorient-boutiques
+    A: 052_k2-lorient-boutiques_h2_20260408_164409.txt
+    B: 052_k2-lorient-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\052_k2-lorient-boutiques
+053. 053_carrefour-hay-les-roses-boutiques
+    A: 053_carrefour-hay-les-roses-boutiques_h2_20260408_164409.txt
+    B: 053_carrefour-hay-les-roses-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\053_carrefour-hay-les-roses-boutiques
+054. 054_carrefour-la-ciotat-boutiques
+    A: 054_carrefour-la-ciotat-boutiques_h2_20260408_164409.txt
+    B: 054_carrefour-la-ciotat-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\054_carrefour-la-ciotat-boutiques
+055. 055_carrefour-la-creule-boutiques
+    A: 055_carrefour-la-creule-boutiques_h2_20260408_164409.txt
+    B: 055_carrefour-la-creule-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\055_carrefour-la-creule-boutiques
+056. 056_carrefour-la-roche-sur-yon-boutiques
+    A: 056_carrefour-la-roche-sur-yon-boutiques_h2_20260408_164409.txt
+    B: 056_carrefour-la-roche-sur-yon-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\056_carrefour-la-roche-sur-yon-boutiques
+057. 057_carrefour-langueux-boutiques
+    A: 057_carrefour-langueux-boutiques_h2_20260408_164409.txt
+    B: 057_carrefour-langueux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\057_carrefour-langueux-boutiques
+058. 058_carrefour-laon-boutiques
+    A: 058_carrefour-laon-boutiques_h2_20260408_164409.txt
+    B: 058_carrefour-laon-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\058_carrefour-laon-boutiques
+059. 059_carrefour-laval-boutiques
+    A: 059_carrefour-laval-boutiques_h2_20260408_164409.txt
+    B: 059_carrefour-laval-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\059_carrefour-laval-boutiques
+060. 060_carrefour-le-mans-boutiques
+    A: 060_carrefour-le-mans-boutiques_h2_20260408_164409.txt
+    B: 060_carrefour-le-mans-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\060_carrefour-le-mans-boutiques
+061. 061_carrefour-st-jean-boutiques
+    A: 061_carrefour-st-jean-boutiques_h2_20260408_164409.txt
+    B: 061_carrefour-st-jean-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\061_carrefour-st-jean-boutiques
+062. 062_carrefour-les-bouchardes-boutiques
+    A: 062_carrefour-les-bouchardes-boutiques_h2_20260408_164409.txt
+    B: 062_carrefour-les-bouchardes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\062_carrefour-les-bouchardes-boutiques
+063. 063_carrefour-lescar-boutiques
+    A: 063_carrefour-lescar-boutiques_h2_20260408_164409.txt
+    B: 063_carrefour-lescar-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\063_carrefour-lescar-boutiques
+064. 064_carrefour-libourne-boutiques
+    A: 064_carrefour-libourne-boutiques_h2_20260408_164409.txt
+    B: 064_carrefour-libourne-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\064_carrefour-libourne-boutiques
+065. 065_carrefour-limay-boutiques
+    A: 065_carrefour-limay-boutiques_h2_20260408_164409.txt
+    B: 065_carrefour-limay-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\065_carrefour-limay-boutiques
+066. 066_carrefour-lievin-boutiques
+    A: 066_carrefour-lievin-boutiques_h2_20260408_164409.txt
+    B: 066_carrefour-lievin-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\066_carrefour-lievin-boutiques
+067. 067_carrefour-saint-avold-boutiques
+    A: 067_carrefour-saint-avold-boutiques_h2_20260408_164409.txt
+    B: 067_carrefour-saint-avold-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\067_carrefour-saint-avold-boutiques
+068. 068_carrefour-mably-boutiques
+    A: 068_carrefour-mably-boutiques_h2_20260408_164409.txt
+    B: 068_carrefour-mably-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\068_carrefour-mably-boutiques
+069. 069_carrefour-metz-technopole-boutiques
+    A: 069_carrefour-metz-technopole-boutiques_h2_20260408_164409.txt
+    B: 069_carrefour-metz-technopole-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\069_carrefour-metz-technopole-boutiques
+070. 070_carrefour-la-vatine-boutiques
+    A: 070_carrefour-la-vatine-boutiques_h2_20260408_164409.txt
+    B: 070_carrefour-la-vatine-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\070_carrefour-la-vatine-boutiques
+071. 071_carrefour-montereau-boutiques
+    A: 071_carrefour-montereau-boutiques_h2_20260408_164409.txt
+    B: 071_carrefour-montereau-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\071_carrefour-montereau-boutiques
+072. 072_carrefour-montesson-boutiques
+    A: 072_carrefour-montesson-boutiques_h2_20260408_164409.txt
+    B: 072_carrefour-montesson-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\072_carrefour-montesson-boutiques
+073. 073_nantes-la-beaujoire-boutiques
+    A: 073_nantes-la-beaujoire-boutiques_h2_20260408_164409.txt
+    B: 073_nantes-la-beaujoire-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\073_nantes-la-beaujoire-boutiques
+074. 074_carrefour-nantes-st-herblain-boutiques
+    A: 074_carrefour-nantes-st-herblain-boutiques_h2_20260408_164409.txt
+    B: 074_carrefour-nantes-st-herblain-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\074_carrefour-nantes-st-herblain-boutiques
+075. 075_carrefour-nanteuil-les-meaux-boutiques
+    A: 075_carrefour-nanteuil-les-meaux-boutiques_h2_20260408_164409.txt
+    B: 075_carrefour-nanteuil-les-meaux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\075_carrefour-nanteuil-les-meaux-boutiques
+076. 076_carrefour-nevers-marzy-boutiques
+    A: 076_carrefour-nevers-marzy-boutiques_h2_20260408_164409.txt
+    B: 076_carrefour-nevers-marzy-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\076_carrefour-nevers-marzy-boutiques
+077. 077_lingostiere-boutiques
+    A: 077_lingostiere-boutiques_h2_20260408_164409.txt
+    B: 077_lingostiere-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\077_lingostiere-boutiques
+078. 078_carrefour-nimes-sud-boutiques
+    A: 078_carrefour-nimes-sud-boutiques_h2_20260408_164409.txt
+    B: 078_carrefour-nimes-sud-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\078_carrefour-nimes-sud-boutiques
+079. 079_carrefour-lecoudoulet-boutiques
+    A: 079_carrefour-lecoudoulet-boutiques_h2_20260408_164409.txt
+    B: 079_carrefour-lecoudoulet-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\079_carrefour-lecoudoulet-boutiques
+080. 080_carrefour-paimpol-boutiques
+    A: 080_carrefour-paimpol-boutiques_h2_20260408_164409.txt
+    B: 080_carrefour-paimpol-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\080_carrefour-paimpol-boutiques
+081. 081_carrefour-port-de-bouc-boutiques
+    A: 081_carrefour-port-de-bouc-boutiques_h2_20260408_164409.txt
+    B: 081_carrefour-port-de-bouc-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\081_carrefour-port-de-bouc-boutiques
+082. 082_carrefour-pre-saint-gervais-boutiques
+    A: 082_carrefour-pre-saint-gervais-boutiques_h2_20260408_164409.txt
+    B: 082_carrefour-pre-saint-gervais-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\082_carrefour-pre-saint-gervais-boutiques
+083. 083_carrefour-puget-boutiques
+    A: 083_carrefour-puget-boutiques_h2_20260408_164409.txt
+    B: 083_carrefour-puget-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\083_carrefour-puget-boutiques
+084. 084_carrefour-quimper-boutiques
+    A: 084_carrefour-quimper-boutiques_h2_20260408_164409.txt
+    B: 084_carrefour-quimper-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\084_carrefour-quimper-boutiques
+085. 085_carrefour-reims-cernay-boutiques
+    A: 085_carrefour-reims-cernay-boutiques_h2_20260408_164409.txt
+    B: 085_carrefour-reims-cernay-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\085_carrefour-reims-cernay-boutiques
+086. 086_carrefour-reims-tinqueux-boutiques
+    A: 086_carrefour-reims-tinqueux-boutiques_h2_20260408_164409.txt
+    B: 086_carrefour-reims-tinqueux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\086_carrefour-reims-tinqueux-boutiques
+087. 087_carrefour-rennes-cesson-boutiques
+    A: 087_carrefour-rennes-cesson-boutiques_h2_20260408_164409.txt
+    B: 087_carrefour-rennes-cesson-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\087_carrefour-rennes-cesson-boutiques
+088. 088_carrefour-rethel-boutiques
+    A: 088_carrefour-rethel-boutiques_h2_20260408_164409.txt
+    B: 088_carrefour-rethel-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\088_carrefour-rethel-boutiques
+089. 089_carrefour-saint-jean-de-luz-boutiques
+    A: 089_carrefour-saint-jean-de-luz-boutiques_h2_20260408_164409.txt
+    B: 089_carrefour-saint-jean-de-luz-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\089_carrefour-saint-jean-de-luz-boutiques
+090. 090_carrefour-saint-jouan-des-guerets-boutiques
+    A: 090_carrefour-saint-jouan-des-guerets-boutiques_h2_20260408_164409.txt
+    B: 090_carrefour-saint-jouan-des-guerets-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\090_carrefour-saint-jouan-des-guerets-boutiques
+091. 091_carrefour-saint-lo-boutiques
+    A: 091_carrefour-saint-lo-boutiques_h2_20260408_164409.txt
+    B: 091_carrefour-saint-lo-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\091_carrefour-saint-lo-boutiques
+092. 092_saint-jacques-boutiques
+    A: 092_saint-jacques-boutiques_h2_20260408_164409.txt
+    B: 092_saint-jacques-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\092_saint-jacques-boutiques
+093. 093_carrefour-st-martin-lez-tatinghem-boutiques
+    A: 093_carrefour-st-martin-lez-tatinghem-boutiques_h2_20260408_164409.txt
+    B: 093_carrefour-st-martin-lez-tatinghem-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\093_carrefour-st-martin-lez-tatinghem-boutiques
+094. 094_carrefour-salaise-boutiques
+    A: 094_carrefour-salaise-boutiques_h2_20260408_164409.txt
+    B: 094_carrefour-salaise-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\094_carrefour-salaise-boutiques
+095. 095_carrefour-sallanches-boutiques
+    A: 095_carrefour-sallanches-boutiques_h2_20260408_164409.txt
+    B: 095_carrefour-sallanches-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\095_carrefour-sallanches-boutiques
+096. 096_carrefour-sannois-boutiques
+    A: 096_carrefour-sannois-boutiques_h2_20260408_164409.txt
+    B: 096_carrefour-sannois-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\096_carrefour-sannois-boutiques
+097. 097_carrefour-sartrouville-boutiques
+    A: 097_carrefour-sartrouville-boutiques_h2_20260408_164409.txt
+    B: 097_carrefour-sartrouville-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\097_carrefour-sartrouville-boutiques
+098. 098_carrefour-sens-maillot-boutiques
+    A: 098_carrefour-sens-maillot-boutiques_h2_20260408_164409.txt
+    B: 098_carrefour-sens-maillot-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\098_carrefour-sens-maillot-boutiques
+099. 099_carrefour-sens-voulx-boutiques
+    A: 099_carrefour-sens-voulx-boutiques_h2_20260408_164409.txt
+    B: 099_carrefour-sens-voulx-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\099_carrefour-sens-voulx-boutiques
+100. 100_carrefour-stains-boutiques
+    A: 100_carrefour-stains-boutiques_h2_20260408_164409.txt
+    B: 100_carrefour-stains-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\100_carrefour-stains-boutiques
+101. 101_carrefour-segny-boutiques
+    A: 101_carrefour-segny-boutiques_h2_20260408_164409.txt
+    B: 101_carrefour-segny-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\101_carrefour-segny-boutiques
+102. 102_carrefour-purpan-boutiques
+    A: 102_carrefour-purpan-boutiques_h2_20260408_164409.txt
+    B: 102_carrefour-purpan-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\102_carrefour-purpan-boutiques
+103. 103_carrefour-tournefeuille-boutiques
+    A: 103_carrefour-tournefeuille-boutiques_h2_20260408_164409.txt
+    B: 103_carrefour-tournefeuille-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\103_carrefour-tournefeuille-boutiques
+104. 104_carrefour-trans-en-provence-boutiques
+    A: 104_carrefour-trans-en-provence-boutiques_h2_20260408_164409.txt
+    B: 104_carrefour-trans-en-provence-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\104_carrefour-trans-en-provence-boutiques
+105. 105_carrefour-st-andre-les-vergers-boutiques
+    A: 105_carrefour-st-andre-les-vergers-boutiques_h2_20260408_164409.txt
+    B: 105_carrefour-st-andre-les-vergers-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\105_carrefour-st-andre-les-vergers-boutiques
+106. 106_carrefour-uzes-boutiques
+    A: 106_carrefour-uzes-boutiques_h2_20260408_164409.txt
+    B: 106_carrefour-uzes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\106_carrefour-uzes-boutiques
+107. 107_carrefour-valdyerres-boutiques
+    A: 107_carrefour-valdyerres-boutiques_h2_20260408_164409.txt
+    B: 107_carrefour-valdyerres-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\107_carrefour-valdyerres-boutiques
+108. 108_carrefour-vannes-boutiques
+    A: 108_carrefour-vannes-boutiques_h2_20260408_164409.txt
+    B: 108_carrefour-vannes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\108_carrefour-vannes-boutiques
+109. 109_carrefour-venette-boutiques
+    A: 109_carrefour-venette-boutiques_h2_20260408_164409.txt
+    B: 109_carrefour-venette-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\109_carrefour-venette-boutiques
+110. 110_carrefour-villabe-boutiques
+    A: 110_carrefour-villabe-boutiques_h2_20260408_164409.txt
+    B: 110_carrefour-villabe-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\110_carrefour-villabe-boutiques
+111. 111_carrefour-venissieux-boutiques
+    A: 111_carrefour-venissieux-boutiques_h2_20260408_164409.txt
+    B: 111_carrefour-venissieux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\111_carrefour-venissieux-boutiques
+112. 112_carrefour-wasquehal-boutiques
+    A: 112_carrefour-wasquehal-boutiques_h2_20260408_164409.txt
+    B: 112_carrefour-wasquehal-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\112_carrefour-wasquehal-boutiques
+113. 113_carrefour-lescapade-boutiques
+    A: 113_carrefour-lescapade-boutiques_h2_20260408_164409.txt
+    B: 113_carrefour-lescapade-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\113_carrefour-lescapade-boutiques
+114. 114_carrefour-isle-dabeau-boutiques
+    A: 114_carrefour-isle-dabeau-boutiques_h2_20260408_164409.txt
+    B: 114_carrefour-isle-dabeau-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\114_carrefour-isle-dabeau-boutiques
+115. 115_carrefour-epernay-boutiques
+    A: 115_carrefour-epernay-boutiques_h2_20260408_164409.txt
+    B: 115_carrefour-epernay-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\115_carrefour-epernay-boutiques
+116. 116_carrefour-etampes-boutiques
+    A: 116_carrefour-etampes-boutiques_h2_20260408_164409.txt
+    B: 116_carrefour-etampes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\116_carrefour-etampes-boutiques
+117. 117_carrefour-aix-la-pioline-boutiques
+    A: 117_carrefour-aix-la-pioline-boutiques_h2_20260408_164409.txt
+    B: 117_carrefour-aix-la-pioline-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\117_carrefour-aix-la-pioline-boutiques
+118. 118_carrefour-athis-mons-boutiques
+    A: 118_carrefour-athis-mons-boutiques_h2_20260408_164409.txt
+    B: 118_carrefour-athis-mons-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\118_carrefour-athis-mons-boutiques
+119. 119_carrefour-auxerre-moneteau-boutiques
+    A: 119_carrefour-auxerre-moneteau-boutiques_h2_20260408_164409.txt
+    B: 119_carrefour-auxerre-moneteau-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\119_carrefour-auxerre-moneteau-boutiques
+120. 120_bab2-boutiques
+    A: 120_bab2-boutiques_h2_20260408_164409.txt
+    B: 120_bab2-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\120_bab2-boutiques
+121. 121_bay2-boutiques
+    A: 121_bay2-boutiques_h2_20260408_164409.txt
+    B: 121_bay2-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\121_bay2-boutiques
+122. 122_carrefour-belfort-andelnans-boutiques
+    A: 122_carrefour-belfort-andelnans-boutiques_h2_20260408_164409.txt
+    B: 122_carrefour-belfort-andelnans-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\122_carrefour-belfort-andelnans-boutiques
+123. 123_carrefour-caen-rots-boutiques
+    A: 123_carrefour-caen-rots-boutiques_h2_20260408_164409.txt
+    B: 123_carrefour-caen-rots-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\123_carrefour-caen-rots-boutiques
+124. 124_cap-saran-boutiques
+    A: 124_cap-saran-boutiques_h2_20260408_164409.txt
+    B: 124_cap-saran-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\124_cap-saran-boutiques
+125. 125_cite-europe-boutiques
+    A: 125_cite-europe-boutiques_h2_20260408_164409.txt
+    B: 125_cite-europe-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\125_cite-europe-boutiques
+126. 126_carrefour-courrieres-boutiques
+    A: 126_carrefour-courrieres-boutiques_h2_20260408_164409.txt
+    B: 126_carrefour-courrieres-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\126_carrefour-courrieres-boutiques
+127. 127_carrefour-dijon-perrigny-boutiques
+    A: 127_carrefour-dijon-perrigny-boutiques_h2_20260408_164409.txt
+    B: 127_carrefour-dijon-perrigny-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\127_carrefour-dijon-perrigny-boutiques
+128. 128_carrefour-dole-boutiques
+    A: 128_carrefour-dole-boutiques_h2_20260408_164409.txt
+    B: 128_carrefour-dole-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\128_carrefour-dole-boutiques
+129. 129_carrefour-dorlisheim-boutiques
+    A: 129_carrefour-dorlisheim-boutiques_h2_20260408_164409.txt
+    B: 129_carrefour-dorlisheim-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\129_carrefour-dorlisheim-boutiques
+130. 130_carrefour-dreux-boutiques
+    A: 130_carrefour-dreux-boutiques_h2_20260408_164409.txt
+    B: 130_carrefour-dreux-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\130_carrefour-dreux-boutiques
+131. 131_carrefour-dunkerque-coudekerque-boutiques
+    A: 131_carrefour-dunkerque-coudekerque-boutiques_h2_20260408_164409.txt
+    B: 131_carrefour-dunkerque-coudekerque-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\131_carrefour-dunkerque-coudekerque-boutiques
+132. 132_carrefour-essey-les-nancy-boutiques
+    A: 132_carrefour-essey-les-nancy-boutiques_h2_20260408_164409.txt
+    B: 132_carrefour-essey-les-nancy-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\132_carrefour-essey-les-nancy-boutiques
+133. 133_carrefour-flers-villeneuve-dascq-boutiques
+    A: 133_carrefour-flers-villeneuve-dascq-boutiques_h2_20260408_164409.txt
+    B: 133_carrefour-flers-villeneuve-dascq-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\133_carrefour-flers-villeneuve-dascq-boutiques
+134. 134_carrefour-forbach-boutiques
+    A: 134_carrefour-forbach-boutiques_h2_20260408_164409.txt
+    B: 134_carrefour-forbach-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\134_carrefour-forbach-boutiques
+135. 135_carrefour-garges-les-gonesse-boutiques
+    A: 135_carrefour-garges-les-gonesse-boutiques_h2_20260408_164409.txt
+    B: 135_carrefour-garges-les-gonesse-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\135_carrefour-garges-les-gonesse-boutiques
+136. 136_grand-quetigny-boutiques
+    A: 136_grand-quetigny-boutiques_h2_20260408_164409.txt
+    B: 136_grand-quetigny-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\136_grand-quetigny-boutiques
+137. 137_carrefour-grosbliederstroff-boutiques
+    A: 137_carrefour-grosbliederstroff-boutiques_h2_20260408_164409.txt
+    B: 137_carrefour-grosbliederstroff-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\137_carrefour-grosbliederstroff-boutiques
+138. 138_carrefour-haguenau-boutiques
+    A: 138_carrefour-haguenau-boutiques_h2_20260408_164409.txt
+    B: 138_carrefour-haguenau-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\138_carrefour-haguenau-boutiques
+139. 139_hyperu-herouville-boutiques
+    A: 139_hyperu-herouville-boutiques_h2_20260408_164409.txt
+    B: 139_hyperu-herouville-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\139_hyperu-herouville-boutiques
+140. 140_labege2-boutiques
+    A: 140_labege2-boutiques_h2_20260408_164409.txt
+    B: 140_labege2-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\140_labege2-boutiques
+141. 141_sept-chemins-boutiques
+    A: 141_sept-chemins-boutiques_h2_20260408_164409.txt
+    B: 141_sept-chemins-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\141_sept-chemins-boutiques
+142. 142_carrefour-livry-gargan-boutiques
+    A: 142_carrefour-livry-gargan-boutiques_h2_20260408_164409.txt
+    B: 142_carrefour-livry-gargan-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\142_carrefour-livry-gargan-boutiques
+143. 143_carrefour-luneville-boutiques
+    A: 143_carrefour-luneville-boutiques_h2_20260408_164409.txt
+    B: 143_carrefour-luneville-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\143_carrefour-luneville-boutiques
+144. 144_carrefour-mondelange-boutiques
+    A: 144_carrefour-mondelange-boutiques_h2_20260408_164409.txt
+    B: 144_carrefour-mondelange-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\144_carrefour-mondelange-boutiques
+145. 145_mondevillage-boutiques
+    A: 145_mondevillage-boutiques_h2_20260408_164409.txt
+    B: 145_mondevillage-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\145_mondevillage-boutiques
+146. 146_carrefour-montbeliard-boutiques
+    A: 146_carrefour-montbeliard-boutiques_h2_20260408_164409.txt
+    B: 146_carrefour-montbeliard-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\146_carrefour-montbeliard-boutiques
+147. 147_carrefour-moulins-les-metz-boutiques
+    A: 147_carrefour-moulins-les-metz-boutiques_h2_20260408_164409.txt
+    B: 147_carrefour-moulins-les-metz-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\147_carrefour-moulins-les-metz-boutiques
+148. 148_carrefour-mulhouse-dornach-boutiques
+    A: 148_carrefour-mulhouse-dornach-boutiques_h2_20260408_164409.txt
+    B: 148_carrefour-mulhouse-dornach-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\148_carrefour-mulhouse-dornach-boutiques
+149. 149_place-darc-boutiques
+    A: 149_place-darc-boutiques_h2_20260408_164409.txt
+    B: 149_place-darc-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\149_place-darc-boutiques
+150. 150_pince-vent-boutiques
+    A: 150_pince-vent-boutiques_h2_20260408_164409.txt
+    B: 150_pince-vent-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\150_pince-vent-boutiques
+151. 151_carrefour-reims-neuvillete-boutiques
+    A: 151_carrefour-reims-neuvillete-boutiques_h2_20260408_164409.txt
+    B: 151_carrefour-reims-neuvillete-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\151_carrefour-reims-neuvillete-boutiques
+152. 152_carrefour-remiremont-boutiques
+    A: 152_carrefour-remiremont-boutiques_h2_20260408_164409.txt
+    B: 152_carrefour-remiremont-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\152_carrefour-remiremont-boutiques
+153. 153_carrefour-saint-dizier-boutiques
+    A: 153_carrefour-saint-dizier-boutiques_h2_20260408_164409.txt
+    B: 153_carrefour-saint-dizier-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\153_carrefour-saint-dizier-boutiques
+154. 154_carrefour-saint-die-boutiques
+    A: 154_carrefour-saint-die-boutiques_h2_20260408_164409.txt
+    B: 154_carrefour-saint-die-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\154_carrefour-saint-die-boutiques
+155. 155_carrefour-saint-quentin-boutiques
+    A: 155_carrefour-saint-quentin-boutiques_h2_20260408_164409.txt
+    B: 155_carrefour-saint-quentin-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\155_carrefour-saint-quentin-boutiques
+156. 156_carrefour-sainte-marie-aux-chenes-boutiques
+    A: 156_carrefour-sainte-marie-aux-chenes-boutiques_h2_20260408_164409.txt
+    B: 156_carrefour-sainte-marie-aux-chenes-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\156_carrefour-sainte-marie-aux-chenes-boutiques
+157. 157_carrefour-sarrebourg-boutiques
+    A: 157_carrefour-sarrebourg-boutiques_h2_20260408_164409.txt
+    B: 157_carrefour-sarrebourg-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\157_carrefour-sarrebourg-boutiques
+158. 158_carrefour-sarreguemines-boutiques
+    A: 158_carrefour-sarreguemines-boutiques_h2_20260408_164409.txt
+    B: 158_carrefour-sarreguemines-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\158_carrefour-sarreguemines-boutiques
+159. 159_shopin-amphion-publier-boutiques
+    A: 159_shopin-amphion-publier-boutiques_h2_20260408_164409.txt
+    B: 159_shopin-amphion-publier-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\159_shopin-amphion-publier-boutiques
+160. 160_shopin-cambrai-boutiques
+    A: 160_shopin-cambrai-boutiques_h2_20260408_164409.txt
+    B: 160_shopin-cambrai-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\160_shopin-cambrai-boutiques
+161. 161_shopin-houdemont-boutiques
+    A: 161_shopin-houdemont-boutiques_h2_20260408_164409.txt
+    B: 161_shopin-houdemont-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\161_shopin-houdemont-boutiques
+162. 162_shopin-houssen-boutiques
+    A: 162_shopin-houssen-boutiques_h2_20260408_164409.txt
+    B: 162_shopin-houssen-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\162_shopin-houssen-boutiques
+163. 163_shopin-mundo-boutiques
+    A: 163_shopin-mundo-boutiques_h2_20260408_164409.txt
+    B: 163_shopin-mundo-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\163_shopin-mundo-boutiques
+164. 164_shopin-pace-boutiques
+    A: 164_shopin-pace-boutiques_h2_20260408_164409.txt
+    B: 164_shopin-pace-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\164_shopin-pace-boutiques
+165. 165_shopin-witty-boutiques
+    A: 165_shopin-witty-boutiques_h2_20260408_164409.txt
+    B: 165_shopin-witty-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\165_shopin-witty-boutiques
+166. 166_carrefour-soissons-boutiques
+    A: 166_carrefour-soissons-boutiques_h2_20260408_164409.txt
+    B: 166_carrefour-soissons-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\166_carrefour-soissons-boutiques
+167. 167_carrefour-toul-boutiques
+    A: 167_carrefour-toul-boutiques_h2_20260408_164409.txt
+    B: 167_carrefour-toul-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\167_carrefour-toul-boutiques
+168. 168_carrefour-verdun-boutiques
+    A: 168_carrefour-verdun-boutiques_h2_20260408_164409.txt
+    B: 168_carrefour-verdun-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\168_carrefour-verdun-boutiques
+169. 169_carrefour-vesoul-boutiques
+    A: 169_carrefour-vesoul-boutiques_h2_20260408_164409.txt
+    B: 169_carrefour-vesoul-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\169_carrefour-vesoul-boutiques
+170. 170_carrefour-vichy-boutiques
+    A: 170_carrefour-vichy-boutiques_h2_20260408_164409.txt
+    B: 170_carrefour-vichy-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\170_carrefour-vichy-boutiques
+171. 171_carrefour-villejuif7-boutiques
+    A: 171_carrefour-villejuif7-boutiques_h2_20260408_164409.txt
+    B: 171_carrefour-villejuif7-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\171_carrefour-villejuif7-boutiques
+172. 172_carrefour-wattignies-boutiques
+    A: 172_carrefour-wattignies-boutiques_h2_20260408_164409.txt
+    B: 172_carrefour-wattignies-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\172_carrefour-wattignies-boutiques
+173. 173_ile-napoleon-boutiques
+    A: 173_ile-napoleon-boutiques_h2_20260408_164409.txt
+    B: 173_ile-napoleon-boutiques_h2_20260427_204756.txt
+    Résultat: C:\Users\FA506\Downloads\Code\Collecte data\results\compare_runs\run_20260427_214453\173_ile-napoleon-boutiques

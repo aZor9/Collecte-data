@@ -1,0 +1,28 @@
+001. Carrefour
+002. Basic Fit
+003. Beauty Success
+004. Bouygues Telecom
+005. Brasserie du Valasse
+006. Carrefour Banque
+007. Chausséa
+008. Chocolats De Neuville
+009. Cigusto – Cigarettes électroniques
+010. Cleor
+011. Coiff&co
+012. Collectif des lunetiers
+013. DAB Carrefour
+014. Fleurs en Scène
+015. GiFi
+016. Krys
+017. La Bouquinerie
+018. La Cordonnerie
+019. Scooter
+020. SFR
+021. Shampoo
+022. TEDi
+023. Wok Sun
+024. Yves Rocher
+025. Zeeman
+Collecte des titres boutiques
+Nombre de titres: 25
+Source: https://www.centre-commercial.fr/carrefour-gruchet-le-valasse/boutiques/

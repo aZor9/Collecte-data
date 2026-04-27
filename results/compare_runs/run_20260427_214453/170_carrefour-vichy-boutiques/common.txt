@@ -1,0 +1,8 @@
+001. CARREFOUR
+002. ATOL
+003. CORDONNERIE DES AILES
+004. FRANCK PROVOST
+005. PRESSING
+Collecte des titres boutiques
+Nombre de titres: 5
+Source: https://www.centre-commercial.fr/carrefour-vichy/boutiques/

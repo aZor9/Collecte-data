@@ -1,0 +1,18 @@
+001. Carrefour
+002. Action
+003. Boulangerie Louise
+004. Cigusto
+005. Générale D’Optique
+006. Kaynmod
+007. Medzo Coiffure
+008. Mister Minit
+009. Optic 2000
+010. Pharmacie
+011. Photomaton
+012. Place Dentaire
+013. Pressing Press 9
+014. Speedy
+015. Station De Lavage
+Collecte des titres boutiques
+Nombre de titres: 15
+Source: https://www.centre-commercial.fr/carrefour-reims-cernay/boutiques/

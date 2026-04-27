@@ -1,0 +1,48 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/sept-chemins/boutiques/
+Date: 20260427_204756
+Nombre de titres: 43
+
+001. Carrefour
+002. Action
+003. Adopt’
+004. Alain Afflelou
+005. Arcade Flipper
+006. ATOL AUDITION
+007. Banette
+008. Basic Fit
+009. Bouygues Telecom
+010. Carador
+011. Carrefour Services Financiers
+012. Carrefour Spectacles
+013. Carrefour Voyages
+014. Chamas Tacos® n’a pas fini de vous régaler
+015. Chicken Street Naan et Fried Chicken
+016. CINKO
+017. Crédit Agricole
+018. Dalery
+019. Franck Provost
+020. Générale d’Optique
+021. Happy Cash
+022. HAPPY REPAIR
+023. Histoire d’Or
+024. Krys
+025. La Boutique du Coiffeur
+026. Le Lunch Lib’
+027. Le Manège
+028. Le Petit Kiosque
+029. M2/ Au p’tit creux
+030. Marionnaud
+031. Multiservices, des artisans dans un monde contemporain
+032. Normal
+033. Pharmacie
+034. Photomaton
+035. Pil’vite
+036. Point B Sans aucun doute les meilleurs burgers!
+037. Pressing Kokliko
+038. Promod
+039. SFR
+040. Tamaris Outlet
+041. Vertuo
+042. Vitton Clop
+043. Yves Rocher

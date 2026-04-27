@@ -1,0 +1,9 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-remiremont/boutiques/
+Date: 20260427_204756
+Nombre de titres: 4
+
+001. Carrefour
+002. Direct Optical
+003. QIPAO
+004. Cordonnerie

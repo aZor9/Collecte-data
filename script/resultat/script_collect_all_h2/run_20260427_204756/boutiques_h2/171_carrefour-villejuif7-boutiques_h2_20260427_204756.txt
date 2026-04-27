@@ -1,0 +1,27 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-villejuif7/boutiques/
+Date: 20260427_204756
+Nombre de titres: 22
+
+001. Carrefour
+002. Access Solution
+003. ALAIN AFFLELOU
+004. Boucherie La feuille des Aures
+005. Carrefour Banque
+006. Carrefour Spectacles
+007. Centre d'Ophtalmologie
+008. Fitness Park
+009. Générale d’Optique
+010. Hair City
+011. JEFF DE BRUGES
+012. KFC
+013. Krys
+014. La Grèce
+015. Maaf
+016. Mister Burger
+017. Mister Minit
+018. O'Style Paris Parfumerie
+019. Pharmacie du Centre
+020. Photomaton
+021. SAGA DES MARQUES
+022. Vinted Go

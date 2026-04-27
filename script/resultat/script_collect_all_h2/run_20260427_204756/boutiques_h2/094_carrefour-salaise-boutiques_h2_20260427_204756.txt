@@ -1,0 +1,48 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-salaise/boutiques/
+Date: 20260427_204756
+Nombre de titres: 43
+
+001. Carrefour
+002. L’atelier de Flora
+003. La Boutique des artisans
+004. Mode & Prix
+005. Adopt’
+006. Akses
+007. Alain Afflelou
+008. Ambiance et Styles
+009. Bouygues Telecom
+010. Calzedonia
+011. Carador
+012. CARDQUEST TCG
+013. Carrefour Banque
+014. Carrefour Voyages
+015. Cb'dé
+016. Cigusto
+017. Cleor
+018. Clip Story
+019. Courir
+020. Crescendo
+021. Dalery
+022. Darjeeling
+023. Darty
+024. Franck Provost
+025. Histoire d'Or
+026. Jeff de Bruges
+027. Kiko Milano
+028. La boutique du coiffeur
+029. La Casa de las Carcasas
+030. M3S
+031. Mango
+032. Marionnaud
+033. Mc Donald’s
+034. MS Mode
+035. Okaïdi
+036. Orange
+037. Passion beauté
+038. Patrice Vial
+039. Photomaton
+040. Pressing n°1
+041. SFR
+042. Tanguy Parapharmacie
+043. Zone H lifestyle

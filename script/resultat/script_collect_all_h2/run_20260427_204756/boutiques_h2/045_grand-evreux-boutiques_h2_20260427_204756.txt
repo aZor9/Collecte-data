@@ -1,0 +1,76 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/grand-evreux/boutiques/
+Date: 20260427_204756
+Nombre de titres: 71
+
+001. Carrefour
+002. 5àsec
+003. Acuitis
+004. Adopt’
+005. Alain Afflelou
+006. Ambiance et Styles
+007. Armand Thiery
+008. Arome Shop
+009. B&M
+010. BAB Bar à Beauté
+011. Body Minute
+012. Boulanger
+013. BUT
+014. BZB
+015. Carrefour Banque
+016. Carrefour Spectacles
+017. Carrefour Voyages
+018. Claire’s
+019. Cleor
+020. COME RIZ
+021. Crêp’eat
+022. Cultura
+023. Distri Center
+024. EASY CASH
+025. Fitness Park
+026. Foot Locker
+027. Free
+028. Gifi
+029. Glass Express
+030. Grain De Malice
+031. Holly’s Diner
+032. INFORmatos
+033. Jack & Jones
+034. JD Sports
+035. JULES
+036. KFC
+037. Kodak
+038. La boutique du Coiffeur
+039. La Casa de las Carcasas
+040. La Chaise Longue
+041. La compagnie du lit
+042. La Croissanterie
+043. Le Comptoir de Mathilde
+044. Léon de Bruxelles
+045. Leonidas
+046. Maisons du monde
+047. Mango
+048. Maxi Zoo
+049. Micromania
+050. Mister Minit
+051. Model’s
+052. Nocibé
+053. Noélie
+054. Odel’Or
+055. OFFREZ-VOUS UN MOMENT DE BIEN-ÊTRE
+056. OKAIDI +
+057. Optic 2000
+058. Orange
+059. Peau d’âne
+060. Pharmacie
+061. PikaPlay
+062. PIMKIE
+063. Poltronesofa
+064. Promod
+065. Saint Algue
+066. TEDI
+067. Tempka
+068. The Barber Company
+069. Toscane
+070. Undiz
+071. Vertbaudet

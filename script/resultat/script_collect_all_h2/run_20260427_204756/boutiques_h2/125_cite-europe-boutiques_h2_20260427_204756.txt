@@ -1,0 +1,143 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/cite-europe/boutiques/
+Date: 20260427_204756
+Nombre de titres: 138
+
+001. Carrefour
+002. 123 Parebrise
+003. 5ème avenue
+004. Abyss
+005. Adopt’
+006. Armand Thiery Femme
+007. Armand Thiery Homme
+008. Autour du Comptoir
+009. Barber Men
+010. Beauty Phone
+011. Beauty Phone
+012. Belle & Bio
+013. Benson&Cherry
+014. Bershka
+015. Bleu Libellule
+016. Bluebberry
+017. Body Minute
+018. Bohebon
+019. Bouygues Telecom
+020. Bowling Quai 121
+021. Calzedonia
+022. Carrefour Banque
+023. Carrefour Drive
+024. Carrefour Spectacles
+025. Carrefour Voyages
+026. Celio
+027. Chaussea
+028. Chocolatier DeNeuville
+029. Chuck’s
+030. Cigusto
+031. Cinéma Pathé
+032. Columbus Café & Co
+033. Columbus Café Kiosque
+034. Courir
+035. Crêpe Touch
+036. DANIA BIJOUX
+037. Darty
+038. Devred 1902
+039. Donuts&Donuts
+040. Edisac
+041. EDJI
+042. Equivalenza
+043. Etam Lingerie
+044. Fitness Park – Salle de sport denière génération
+045. Flunch
+046. Foot Locker
+047. Free
+048. Fresh
+049. Furet du Nord
+050. G LA DALLE
+051. Grand Optical
+052. H&M
+053. Happy Cash
+054. Happy Yummy
+055. Histoire d’Or
+056. Interactif
+057. IT Trattoria
+058. Jack & Jones
+059. Japan Geek Shop
+060. JD Sports
+061. Jean-Claude Biguine
+062. JEF Chaussures
+063. Jeff de Bruges
+064. JOTT
+065. Jules
+066. Juste Elles
+067. KALI GROUP
+068. Kiko Milano
+069. King Jouet
+070. Krys
+071. L’Antre des Merveilles
+072. La Boutique des Artisans
+073. La Cafetoria
+074. La Casa de las Carcasas
+075. La Chaise Longue
+076. La Petite Pause
+077. Lacoste
+078. Laser Game 121
+079. Lazeo
+080. Le Comptoir de Mathilde
+081. Le Comptoir du Malt
+082. Le Dragon
+083. Le Petit Souk
+084. LEGAMI
+085. Les 3 Brasseurs
+086. Levi’s Store
+087. Louis Pion
+088. Lovisa
+089. Maison 1.2.3
+090. Maisons du Monde
+091. Mango
+092. Maroquinerie Cote d’Opale
+093. Marquette
+094. Micromania
+095. Miniso
+096. Morgan
+097. Muy Mucho
+098. Nature & Découvertes
+099. New Yorker
+100. Nocibé
+101. Nolim by Carrefour
+102. Normal
+103. O’Tacos
+104. Obaïbi
+105. Okaïdi
+106. Only
+107. Orange
+108. Pandora
+109. Parapharmacie Carrefour
+110. Pitaya
+111. Primark
+112. Project X Paris
+113. Project X Paris Outlet
+114. Promod
+115. Proovstation
+116. Quiksilver
+117. Rituals
+118. RougeGorge Lingerie
+119. Sephora
+120. Sergent Major
+121. SFR
+122. So Or
+123. Sports Direct
+124. Steak’n Shake
+125. Subway
+126. Tape à l’œil
+127. Terre de Boissons
+128. The Black Bull Pub
+129. Toscane
+130. TrésOr
+131. Undiz
+132. Venizi
+133. Vib’s
+134. We Audition
+135. WeFix
+136. Yogurt Factory
+137. Yves Rocher
+138. Zara

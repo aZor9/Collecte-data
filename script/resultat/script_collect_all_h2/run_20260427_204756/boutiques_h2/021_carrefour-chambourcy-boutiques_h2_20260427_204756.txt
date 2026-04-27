@@ -1,0 +1,80 @@
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/carrefour-chambourcy/boutiques/
+Date: 20260427_204756
+Nombre de titres: 75
+
+001. Carrefour
+002. Starbucks
+003. 5àsec
+004. Alain Afflelou
+005. Atol
+006. ATS Cordonnerie
+007. Audio pour tous
+008. AutoClean Express
+009. Bagorama
+010. Bijou Brigitte
+011. Bleu Libellule
+012. Body Minute
+013. BOHEBON
+014. BONOBO
+015. Bouygues Telecom
+016. Cache Cache
+017. Carrefour Banque
+018. Carrefour Drive
+019. Carrefour SAV
+020. Carrefour Spectacles
+021. Cash & Services
+022. Celio
+023. Chaussea
+024. Cigusto
+025. Cleor
+026. Crêp’eat
+027. Darjeeling
+028. Etam Lingerie
+029. Foot Locker
+030. FRAM
+031. Franck Provost
+032. Free
+033. H&M
+034. HAPIK
+035. Histoire d'Or
+036. Hong Kong "Restaurant Asiatique"
+037. Jacqueline Riu
+038. Jean Louis David
+039. Jeff de Bruges
+040. Kiko Milano
+041. La Casa de las Carcasas
+042. La Table Italienne
+043. Lave Auto IMO
+044. Laverie automatique
+045. Le Comptoir de Mathilde
+046. LE RELAIS
+047. Maison 123
+048. Maison Pradier
+049. MAISONS DU MONDE
+050. Mc Donald's
+051. Micromania
+052. Montre Service
+053. Nature & Découvertes
+054. New Yorker
+055. Nicolas
+056. Nocibé
+057. Normal
+058. NTop
+059. Optical Factory
+060. Orange
+061. Pharmacie
+062. Photomaton
+063. Prize
+064. Promod
+065. Sephora
+066. Sergent Major
+067. Service Vinted Go
+068. Shopping Phone
+069. Subway
+070. Tabac – Le Calumet
+071. The Barber Company
+072. Ultra Premium Direct
+073. Undiz
+074. WeFix
+075. Yves Rocher

@@ -1,0 +1,29 @@
+001. Carrefour
+002. Jack & Jones
+003. Kodak Express
+004. Adopt’
+005. Autour du Comptoir
+006. Bagels Coffee
+007. Bar à Beauté
+008. BioTech USA
+009. Bonobo
+010. BZB
+011. Cache Cache
+012. Calzedonia
+013. Claire’s
+014. Cleor
+015. Courir
+016. Darjeeling
+017. Etam Lingerie
+018. Fitness Park Orléans
+019. Générale d’Optique
+020. H&M
+021. Histoire d’Or
+022. Jules
+023. Kiko Milano
+027. Levi’s Store
+028. Louis Pion
+029. Lovisa
+030. Ludivine Passion
+Collecte des titres boutiques
+Source: https://www.centre-commercial.fr/place-darc/boutiques/
