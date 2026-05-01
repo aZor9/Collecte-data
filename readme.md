@@ -1,52 +1,93 @@
 # Projet scolaire - Collecte de donnees
 
-Objectif:
-Comparer des centres commerciaux concurrents en recuperant des informations depuis leurs pages boutiques.
+Objectif: construire un pipeline de scraping modulaire, robuste et extensible, avec plusieurs sources de collecte.
 
-Technologie utilisee:
+Technologies utilisees:
 - Python
 - Selenium
+- Pandas
+- BeautifulSoup
 
-## Sites cibles
-- https://www.centre-commercial.fr/labege2/boutiques/
-- https://www.centre-commercial.fr/carrefour-st-jean/boutiques/
+## Vision du pipeline
 
-## Structure actuelle
-- `main.py` : lance les scripts dans l'ordre
-- `script/script_title.py` : recupere le titre de la page
-- `script/script_html.py` : recupere tout le HTML de la page
-- `script/script_h2.py` : recupere les titres `h2.custom-h2` d'une page boutiques
-- `script/script_collect_all_h2.py` : collecte toutes les URLs centres depuis la home, ajoute `/boutiques/`, puis scrape les titres H2 pour chaque centre
-- `script/resultat/` : dossier des fichiers generes
+```text
+[SELENIUM SCRAPER] → [HTML SAVE] → [PARSE → CSV] → [TRANSFORM] → [DATASET FINAL]
+```
+
+L'objectif est de separer clairement chaque etape:
+- scraping Selenium avec comportement humain
+- sauvegarde du HTML brut
+- parsing HTML vers donnees structurees
+- nettoyage et normalisation
+- enrichissement metier et export final
+
+## Structure du projet
+
+- `config/settings.py` : URLs, options Selenium, mapping de categories, sources
+- `scraper/driver.py` : creation du driver Chrome
+- `scraper/navigator.py` : navigation, scroll, hover, cookies
+- `scraper/saver.py` : sauvegarde HTML et JSON bruts
+- `scraper/collector.py` : orchestration du scraping par source
+- `parser/html_parser.py` : parsing HTML generic et specialise
+- `transformer/cleaner.py` : nettoyage des champs
+- `transformer/normalizer.py` : normalisation, validation, deduplication
+- `transformer/enricher.py` : metriques metier et champs calcules
+- `loader/csv_loader.py` : export et lecture CSV
+- `utils/` : logger, retry, helpers
+- `main.py` : pipeline complet
 
 ## Installation (Windows / PowerShell)
+
 1. Creer le venv:
 	`python -m venv .venv`
 2. Activer le venv:
-	`.\.venv\Scripts\Activate.ps1`
-3. Installer Selenium:
-	`pip install selenium`
+	`\.\.venv\Scripts\Activate.ps1`
+3. Installer les dependances:
+	`pip install -r requirements.txt`
 
 Si PowerShell bloque l'activation, executer une fois:
 `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
 
 ## Execution
-Lancer toute la chaine:
-`python .\main.py`
 
-## Arret du venv
-`deactivate`
+Lancer tout le pipeline:
 
-## Fichiers générés
-- `script/resultat/script_title/title_YYYYMMDD_HHMMSS.txt`
-- `script/resultat/script_html/html_YYYYMMDD_HHMMSS.html`
-- `script/resultat/script_h2/h2_titles_YYYYMMDD_HHMMSS.txt`
-- `script/resultat/script_collect_all_h2/run_YYYYMMDD_HHMMSS/`
+```bash
+python main.py
+```
 
-## Comparer des listes (nouveau)
-Tu peux comparer deux fichiers texte (une valeur par ligne) avec le script `compare_lists.py`.
+## Sorties
 
-Exemples :
+Les resultats sont ecrits dans:
+- `data/raw/` : HTML brut par source
+- `data/interim/` : donnees extraites en JSON
+- `data/processed/` : CSV final, resume texte, metriques JSON
+- `logs/` : logs d'execution
+
+## Donnees ciblees
+
+Champs vises dans le dataset final:
+- nom
+- categorie normalisee
+- taille / superficie
+- date d'ouverture
+- date de fermeture
+- description
+- groupe proprietaire
+- source
+- date de scraping
+
+## Ajouter une nouvelle source
+
+1. Ajouter sa configuration dans `config/settings.py`
+2. Brancher son parser dans `parser/html_parser.py`
+3. Lancer `python main.py`
+
+## Notes
+
+- Le projet est pense pour supporter plusieurs sources de scraping.
+- La categorie `fashion` est normalisee en `mode`.
+- La logique de retry et de logs est centralisee dans `utils/`.
 
 - Comparer deux fichiers manuellement :
 ```bash

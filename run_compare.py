@@ -1,19 +1,10 @@
 #!/usr/bin/env python
-"""
-run_compare.py
+"""Compatibilité: exemples de comparaison, désormais pilotés par main.py."""
 
-Script helper qui appelle `compare_lists.compare_files` ou `compare_runs.compare_runs`.
-Contient trois modes d'usage (décommenter l'un et commenter les autres pour basculer):
- - comparer deux fichiers boutique à deux dates différentes
- - (option commentée) comparer deux listes de centres
- - (option commentée) comparer deux runs complets (auto-boucle sur tous les H2)
-
-Usage:
-    python run_compare.py
-"""
 from pathlib import Path
-from compare_lists import compare_files
-from compare_runs import compare_runs
+
+from tools.compare_lists import compare_files
+from tools.compare_runs import compare_runs, get_latest_runs
 
 
 def mode_boutiques():
@@ -36,8 +27,7 @@ def mode_centres():
 
 def mode_compare_runs():
     # Comparer deux runs entiers: auto-détecte les deux derniers runs
-    from compare_runs import get_latest_runs, compare_runs
-    base_dir = Path("script") / "resultat" / "script_collect_all_h2"
+    base_dir = Path("results") / "compare_runs"
     runs = get_latest_runs(base_dir, count=2)
     if len(runs) < 2:
         print(f"Erreur: impossible de trouver 2 runs dans {base_dir}")

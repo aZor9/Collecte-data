@@ -1,0 +1,218 @@
+2026-04-28 15:21:45 - DataPipeline - INFO - 
+================================================================================
+2026-04-28 15:21:45 - DataPipeline - INFO - 🚀 DÉMARRAGE DU PIPELINE DE SCRAPING
+2026-04-28 15:21:45 - DataPipeline - INFO - ================================================================================
+
+2026-04-28 15:21:45 - DataPipeline - INFO - 
+[1/5] SCRAPING SELENIUM
+2026-04-28 15:21:45 - DataPipeline - INFO - --------------------------------------------------------------------------------
+2026-04-28 15:21:45 - DataPipeline - INFO - 
+============================================================
+2026-04-28 15:21:45 - DataPipeline - INFO - COLLECTION: Centre Commercial France
+2026-04-28 15:21:45 - DataPipeline - INFO - ============================================================
+2026-04-28 15:21:45 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2026-04-28 15:21:47 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 45s)
+2026-04-28 15:21:47 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/
+2026-04-28 15:21:53 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/
+2026-04-28 15:21:54 - DataPipeline - DEBUG - ✓ Cookie banner fermée (#onetrust-accept-btn-handler)
+2026-04-28 15:21:54 - DataPipeline - DEBUG - ✓ Bouton 'voir plus' cliqué
+2026-04-28 15:21:56 - DataPipeline - INFO - ✓ 173 centres trouvés pour Centre Commercial France
+2026-04-28 15:21:58 - DataPipeline - INFO - ✓ Driver Selenium fermé
+2026-04-28 15:21:58 - DataPipeline - INFO - → Scraping 173 centres...
+2026-04-28 15:21:58 - DataPipeline - INFO - 
+[1/173] https://www.centre-commercial.fr/carrefour-iroise/
+2026-04-28 15:21:58 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2026-04-28 15:22:00 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 45s)
+2026-04-28 15:22:00 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/carrefour-iroise/
+2026-04-28 15:22:08 - DataPipeline - DEBUG - ✓ Scroll humain complété
+2026-04-28 15:22:08 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/carrefour-iroise/
+2026-04-28 15:22:08 - DataPipeline - DEBUG - ✓ Cookie banner fermée (#onetrust-accept-btn-handler)
+2026-04-28 15:22:08 - DataPipeline - INFO - ✓ HTML sauvegardé: carrefour-iroise_20260428_152208.html
+2026-04-28 15:22:09 - DataPipeline - INFO - ✓ 0 boutiques extraites de https://www.centre-commercial.fr/carrefour-iroise/
+2026-04-28 15:22:09 - DataPipeline - INFO - ✓ Données brutes sauvegardées: carrefour-iroise_20260428_152209.json
+2026-04-28 15:22:11 - DataPipeline - INFO - ✓ Driver Selenium fermé
+2026-04-28 15:22:11 - DataPipeline - INFO - 
+[2/173] https://www.centre-commercial.fr/carrefour-alencon/
+2026-04-28 15:22:11 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2026-04-28 15:22:13 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 45s)
+2026-04-28 15:22:13 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/carrefour-alencon/
+2026-04-28 15:22:17 - DataPipeline - WARNING - Erreur lors du scroll: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=147.0.7727.103)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d6ed]
+	chromedriver!(No symbol) [0x7ff684068762]
+	chromedriver!(No symbol) [0x7ff68408f00c]
+	chromedriver!(No symbol) [0x7ff684107170]
+	chromedriver!(No symbol) [0x7ff684124122]
+	chromedriver!(No symbol) [0x7ff6840c90e8]
+	chromedriver!(No symbol) [0x7ff6840c9fc3]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6843140e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff684314296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6842f8737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:17 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/carrefour-alencon/
+2026-04-28 15:22:17 - DataPipeline - DEBUG - Erreur cookie banner: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:17 - DataPipeline - DEBUG - Erreur cookie banner: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-04-28 15:22:17 - DataPipeline - ERROR - ✗ Erreur scraping https://www.centre-commercial.fr/carrefour-alencon/: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:19 - DataPipeline - INFO - ✓ Driver Selenium fermé
+2026-04-28 15:22:19 - DataPipeline - WARNING - scrape_center failed (attempt 1/2). Retry in 1.3s... Error: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chro
+2026-04-28 15:22:20 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2026-04-28 15:22:22 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 45s)
+2026-04-28 15:22:22 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/carrefour-alencon/
+2026-04-28 15:22:26 - DataPipeline - WARNING - Erreur lors du scroll: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=147.0.7727.103)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d6ed]
+	chromedriver!(No symbol) [0x7ff684068762]
+	chromedriver!(No symbol) [0x7ff68408f00c]
+	chromedriver!(No symbol) [0x7ff684107170]
+	chromedriver!(No symbol) [0x7ff684124122]
+	chromedriver!(No symbol) [0x7ff6840c90e8]
+	chromedriver!(No symbol) [0x7ff6840c9fc3]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6843140e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff684314296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6842f8737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:26 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/carrefour-alencon/
+2026-04-28 15:22:26 - DataPipeline - DEBUG - Erreur cookie banner: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:26 - DataPipeline - DEBUG - Erreur cookie banner: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
+2026-04-28 15:22:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-04-28 15:22:26 - DataPipeline - ERROR - ✗ Erreur scraping https://www.centre-commercial.fr/carrefour-alencon/: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff68430a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff68430a950+14eb0]
+	chromedriver!(No symbol) [0x7ff68407d4d6]
+	chromedriver!(No symbol) [0x7ff6840c8166]
+	chromedriver!(No symbol) [0x7ff6840fff32]
+	chromedriver!(No symbol) [0x7ff6840fa191]
+	chromedriver!(No symbol) [0x7ff6840f9433]
+	chromedriver!(No symbol) [0x7ff684046005]
+	chromedriver!GetHandleVerifier [0x7ff684620149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff68461a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff68463c012+346572]
+	chromedriver!GetHandleVerifier [0x7ff684327cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff68433087c+3addc]
+	chromedriver!(No symbol) [0x7ff684044d9a]
+	chromedriver!GetHandleVerifier [0x7ff6847860a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ffe7a90e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b62c3fc+2c]
+
