@@ -14,13 +14,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from config.settings import HUMAN_DELAYS
+from config.settings import FAST_NAVIGATION
 from utils.logger import get_logger
 
 logger = get_logger()
 
 
-def human_scroll(driver: webdriver.Chrome, pause_min: float = 1.0, pause_max: float = 3.0):
+def human_scroll(driver: webdriver.Chrome, pause_min: float = 0.2, pause_max: float = 0.6):
     """
     Scroll humain:
     - Scroll au milieu de la page
@@ -38,7 +38,7 @@ def human_scroll(driver: webdriver.Chrome, pause_min: float = 1.0, pause_max: fl
         
         # Retour au top
         driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(random.uniform(0.5, 1.0))
+        time.sleep(random.uniform(0.1, 0.4))
         
         logger.debug("✓ Scroll humain complété")
     
@@ -62,7 +62,7 @@ def human_hover(driver: webdriver.Chrome, selector: str, by: By = By.CSS_SELECTO
 def load_page(
     driver: webdriver.Chrome,
     url: str,
-    timeout: int = 15,
+    timeout: int = 8,
     scroll: bool = True
 ):
     """
@@ -86,16 +86,16 @@ def load_page(
         
         # Pause avant interaction
         time.sleep(random.uniform(
-            HUMAN_DELAYS["min_pause"],
-            HUMAN_DELAYS["max_pause"]
+            FAST_NAVIGATION["page_pause_min"],
+            FAST_NAVIGATION["page_pause_max"]
         ))
         
         # Scroll humain
         if scroll:
             human_scroll(
                 driver,
-                HUMAN_DELAYS["min_scroll"],
-                HUMAN_DELAYS["max_scroll"]
+                FAST_NAVIGATION["scroll_pause_min"],
+                FAST_NAVIGATION["scroll_pause_max"]
             )
         
         logger.info(f"✓ Page chargée: {url}")
@@ -112,7 +112,7 @@ def close_cookie_banner(
     driver: webdriver.Chrome,
     accept_selector: str,
     reject_selector: str,
-    timeout: int = 5
+    timeout: int = 3
 ):
     """
     Fermer la banneau de cookies.
@@ -141,7 +141,7 @@ def wait_for_element(
     driver: webdriver.Chrome,
     selector: str,
     by: By = By.CSS_SELECTOR,
-    timeout: int = 10
+    timeout: int = 6
 ):
     """
     Attendre qu'un élément soit présent et visible.
@@ -163,7 +163,7 @@ def click_element(driver: webdriver.Chrome, selector: str, by: By = By.CSS_SELEC
     try:
         element = driver.find_element(by, selector)
         driver.execute_script("arguments[0].scrollIntoView(true);", element)
-        time.sleep(random.uniform(0.5, 1.0))
+        time.sleep(random.uniform(0.1, 0.3))
         driver.execute_script("arguments[0].click();", element)
         logger.debug(f"✓ Click sur {selector}")
     except Exception as e:

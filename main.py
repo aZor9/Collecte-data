@@ -1,153 +1,103 @@
-"""
-main.py
+"""Point d'entree principal du projet.
 
-Point d'entree principal du projet.
-
-Commandes:
-- `python main.py` ou `python main.py pipeline`
-- `python main.py compare-files A B`
-- `python main.py compare-runs --auto`
+Stages disponibles:
+- extract: extraction HTML specifique a la source
+- transform: transformation HTML -> CSV specifique a la source
+- compare: comparaison des CSV finaux
+- all: extraction + transformation
 """
+
+from __future__ import annotations
 
 from argparse import ArgumentParser
 from datetime import datetime
 from pathlib import Path
 
-from loader.csv_loader import export_summary, save_csv
-from scraper.collector import collect_from_all_sources
-from tools.compare_lists import compare_files
-from tools.compare_runs import compare_runs, get_latest_runs
-from transformer.cleaner import clean_dataframe
-from transformer.enricher import add_business_fields, compute_business_metrics, save_metrics
-from transformer.normalizer import normalize_dataframe, remove_duplicates, remove_invalid_rows
-from utils.helpers import get_timestamp
+from config.settings import PROCESSED_DIR
+from sources.carrefour.extract_html import extract_html as extract_carrefour_html
+from sources.carrefour.transform_csv import transform_csv as transform_carrefour_csv
+from sources.grandfrais.extract_html import extract_html as extract_grandfrais_html
+from sources.grandfrais.transform_csv import transform_csv as transform_grandfrais_csv
+from tools.compare_results import compare_final_csvs
+from utils.exceptions import SiteBlockedError
 from utils.logger import get_logger
 
 logger = get_logger()
 
+DEFAULT_SOURCE = "carrefour"
+DEFAULT_STAGE = "all"
+RUN_EXTRACTION_BY_DEFAULT = True
+RUN_TRANSFORMATION_BY_DEFAULT = True
+RUN_COMPARISON_BY_DEFAULT = False
+ALLOW_TRANSFORM_IF_BLOCKED = True
 
-def run_pipeline():
-    """
-    Exécuter le pipeline complet.
-    
-    [SELENIUM SCRAPER] → [HTML SAVE] → [PARSE → CSV] → [TRANSFORM] → [DATASET FINAL]
-    """
-    
-    logger.info("\n" + "="*80)
-    logger.info("🚀 DÉMARRAGE DU PIPELINE DE SCRAPING")
-    logger.info("="*80 + "\n")
-    
-    start_time = datetime.now()
-    
-    try:
-        # =====================================================================
-        # 1. SCRAPING SELENIUM
-        # =====================================================================
-        logger.info("\n[1/5] SCRAPING SELENIUM")
-        logger.info("-" * 80)
-        
-        df_raw = collect_from_all_sources()
-        
-        if df_raw.empty:
-            logger.error("✗ Aucune donnée collectée!")
-            return False
-        
-        logger.info(f"✓ {len(df_raw)} records collectés")
-        
-        # =====================================================================
-        # 2. NETTOYAGE
-        # =====================================================================
-        logger.info("\n[2/5] NETTOYAGE DES DONNÉES")
-        logger.info("-" * 80)
-        
-        df_clean = clean_dataframe(df_raw)
-        logger.info(f"✓ Nettoyage: {len(df_clean)} lignes valides")
-        
-        # =====================================================================
-        # 3. NORMALISATION & DÉDUPLICATION
-        # =====================================================================
-        logger.info("\n[3/5] NORMALISATION")
-        logger.info("-" * 80)
-        
-        df_norm = normalize_dataframe(df_clean)
-        df_dedup = remove_duplicates(df_norm)
-        df_valid = remove_invalid_rows(df_dedup)
-        
-        logger.info(f"✓ Normalisation: {len(df_valid)} lignes finales")
-        
-        # =====================================================================
-        # 4. ENRICHISSEMENT
-        # =====================================================================
-        logger.info("\n[4/5] ENRICHISSEMENT")
-        logger.info("-" * 80)
-        
-        df_enriched = add_business_fields(df_valid)
-        metrics = compute_business_metrics(df_enriched)
-        
-        logger.info(f"✓ Enrichissement avec métriques métier")
-        
-        # =====================================================================
-        # 5. EXPORT & SAUVEGARDE
-        # =====================================================================
-        logger.info("\n[5/5] EXPORT & SAUVEGARDE")
-        logger.info("-" * 80)
-        
-        timestamp = get_timestamp()
-        
-        # CSV final
-        csv_file = PROCESSED_DIR / f"final_dataset_{timestamp}.csv"
-        save_csv(df_enriched, csv_file)
-        
-        # Résumé texte
-        summary_file = PROCESSED_DIR / f"summary_{timestamp}.txt"
-        export_summary(df_enriched, summary_file)
-        
-        # Métriques JSON
-        metrics_file = PROCESSED_DIR / f"metrics_{timestamp}.json"
-        save_metrics(metrics, metrics_file)
-        
-        # =====================================================================
-        # RÉSUMÉ FINAL
-        # =====================================================================
-        elapsed = datetime.now() - start_time
-        
-        logger.info("\n" + "="*80)
-        logger.info("✅ PIPELINE TERMINÉ AVEC SUCCÈS")
-        logger.info("="*80)
-        logger.info(f"Durée: {elapsed}")
-        logger.info(f"Records: {len(df_enriched)}")
-        logger.info(f"Sources: {df_enriched['source'].nunique() if 'source' in df_enriched.columns else 0}")
-        logger.info(f"Catégories: {df_enriched['category'].nunique() if 'category' in df_enriched.columns else 0}")
-        logger.info(f"\nFichiers générés:")
-        logger.info(f"  - {csv_file}")
-        logger.info(f"  - {summary_file}")
-        logger.info(f"  - {metrics_file}")
-        logger.info("="*80 + "\n")
-        
-        return True
-    
-    except Exception as e:
-        logger.critical(f"\n✗ ERREUR PIPELINE: {e}\n", exc_info=True)
-        return False
+
+def run_extraction(source: str) -> list[Path]:
+    logger.info(f"Extraction HTML: {source}")
+    if source == "carrefour":
+        return extract_carrefour_html()
+    if source == "grandfrais":
+        return extract_grandfrais_html()
+    raise ValueError(f"Source inconnue: {source}")
+
+
+def run_transformation(source: str) -> Path:
+    logger.info(f"Transformation CSV: {source}")
+    if source == "carrefour":
+        return transform_carrefour_csv()
+    if source == "grandfrais":
+        return transform_grandfrais_csv()
+    raise ValueError(f"Source inconnue: {source}")
+
+
+def latest_source_csv(source: str) -> Path:
+    folder = PROCESSED_DIR / source
+    candidates = sorted(folder.glob("*.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
+    if not candidates:
+        raise FileNotFoundError(f"Aucun CSV final trouve pour {source} dans {folder}")
+    return candidates[0]
+
+
+def run_comparison() -> Path:
+    carrefour_csv = latest_source_csv("carrefour")
+    grandfrais_csv = latest_source_csv("grandfrais")
+    logger.info("Comparaison des resultats finaux entre Carrefour et Grand Frais")
+    return compare_final_csvs(carrefour_csv, grandfrais_csv)
+
+
+def run_pipeline(source: str, stage: str) -> int:
+    start = datetime.now()
+
+    if stage in ("extract", "all"):
+        try:
+            run_extraction(source)
+        except SiteBlockedError as exc:
+            logger.error(str(exc))
+            if stage == "extract":
+                return 2
+            if stage == "all" and ALLOW_TRANSFORM_IF_BLOCKED:
+                logger.warning(
+                    "Extraction bloquee. Passage en mode fallback: "
+                    "transformation depuis les HTML deja collectes."
+                )
+            else:
+                return 2
+
+    if stage in ("transform", "all"):
+        run_transformation(source)
+
+    if stage == "compare":
+        run_comparison()
+
+    elapsed = datetime.now() - start
+    logger.info(f"Pipeline termine en {elapsed}")
+    return 0
 
 
 def build_parser() -> ArgumentParser:
-    parser = ArgumentParser(description="Pipeline principal du projet de scraping")
-    subparsers = parser.add_subparsers(dest="command")
-
-    subparsers.add_parser("pipeline", help="Lancer le pipeline Selenium complet")
-
-    compare_files_parser = subparsers.add_parser("compare-files", help="Comparer deux fichiers liste")
-    compare_files_parser.add_argument("file_a", help="Premier fichier")
-    compare_files_parser.add_argument("file_b", help="Second fichier")
-    compare_files_parser.add_argument("--out", help="Dossier de sortie optionnel")
-
-    compare_runs_parser = subparsers.add_parser("compare-runs", help="Comparer deux runs complets")
-    compare_runs_parser.add_argument("run_a", nargs="?", help="Premier run")
-    compare_runs_parser.add_argument("run_b", nargs="?", help="Second run")
-    compare_runs_parser.add_argument("--auto", action="store_true", help="Auto-detecter les deux derniers runs")
-    compare_runs_parser.add_argument("--out", help="Dossier de sortie optionnel")
-
+    parser = ArgumentParser(description="Pipeline principal de scraping Carrefour / Grand Frais")
+    parser.add_argument("--source", choices=["carrefour", "grandfrais"], default=DEFAULT_SOURCE)
+    parser.add_argument("--stage", choices=["extract", "transform", "compare", "all"], default=DEFAULT_STAGE)
     return parser
 
 
@@ -155,32 +105,16 @@ def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
 
-    if args.command in (None, "pipeline"):
-        return 0 if run_pipeline() else 1
-
-    if args.command == "compare-files":
-        out = compare_files(args.file_a, args.file_b, args.out)
-        print(f"Résultats écrits dans: {out}")
+    if not RUN_EXTRACTION_BY_DEFAULT and args.stage in ("extract", "all"):
+        logger.info("Extraction desactivee par configuration")
         return 0
-
-    if args.command == "compare-runs":
-        if args.auto:
-            base_dir = Path.cwd() / "results" / "compare_runs"
-            latest = get_latest_runs(base_dir, count=2)
-            if len(latest) < 2:
-                raise ValueError(f"Impossible de trouver 2 runs dans {base_dir}")
-            run_a, run_b = latest
-        else:
-            if not args.run_a or not args.run_b:
-                parser.error("Fournir deux chemins de run ou utiliser --auto")
-            run_a, run_b = args.run_a, args.run_b
-
-        out = compare_runs(run_a, run_b, args.out)
-        print(f"Résultats écrits dans: {out}")
+    if not RUN_TRANSFORMATION_BY_DEFAULT and args.stage in ("transform", "all"):
+        logger.info("Transformation desactivee par configuration")
         return 0
+    if RUN_COMPARISON_BY_DEFAULT and args.stage == "compare":
+        return run_pipeline(args.source, args.stage)
 
-    parser.print_help()
-    return 1
+    return run_pipeline(args.source, args.stage)
 
 
 if __name__ == "__main__":

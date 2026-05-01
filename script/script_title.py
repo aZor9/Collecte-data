@@ -1,38 +1,4 @@
-from datetime import datetime
-from pathlib import Path
-import os
-import time
+"""Ancien script conservé uniquement comme stub de compatibilité.
 
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-
-
-def build_driver() -> webdriver.Chrome:
-	options = Options()
-	options.add_argument(f"--user-agent={USER_AGENT}")
-	# Headless control via env var SELENIUM_HEADLESS=1 or true
-	headless = os.getenv("SELENIUM_HEADLESS", "").lower() in ("1", "true", "yes")
-	if headless:
-		options.add_argument("--headless")
-		options.add_argument("--disable-gpu")
-	return webdriver.Chrome(options=options)
-
-driver = build_driver()
-driver.get("https://www.centre-commercial.fr/carrefour-st-jean/boutiques/")
-time.sleep(3)
-
-title = driver.title
-timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-output_dir = Path(__file__).resolve().parent / "resultat" / "script_title"
-output_dir.mkdir(parents=True, exist_ok=True)
-output_file = output_dir / f"title_{timestamp}.txt"
-
-with open(output_file, "w", encoding="utf-8") as file:
-	file.write(f"Titre de la page: {title}\n")
-
-print(f"Titre récupéré: {title}")
-print(f"Résultat enregistré dans: {output_file}")
-
-driver.quit()
+Utilise maintenant `launchers/run_carrefour_pipeline.py` ou `main.py`.
+"""
