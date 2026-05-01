@@ -1,0 +1,1046 @@
+2026-05-01 13:25:22 - DataPipeline - INFO - Extraction HTML: grandfrais
+2026-05-01 13:25:22 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap...
+2026-05-01 13:25:23 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 18s)
+2026-05-01 13:25:23 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins
+2026-05-01 13:25:26 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins
+2026-05-01 13:25:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:32 - DataPipeline - INFO - Grand Frais: 345 magasins detectes
+2026-05-01 13:25:32 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/orange
+2026-05-01 13:25:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/orange
+2026-05-01 13:25:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bourg-les-valence
+2026-05-01 13:25:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bourg-les-valence
+2026-05-01 13:25:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/romans-sur-isere
+2026-05-01 13:25:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/romans-sur-isere
+2026-05-01 13:25:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montfavet-avignon
+2026-05-01 13:25:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montfavet-avignon
+2026-05-01 13:25:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-marcel-les-valence
+2026-05-01 13:25:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-marcel-les-valence
+2026-05-01 13:25:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/limoges-nord
+2026-05-01 13:25:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/limoges-nord
+2026-05-01 13:25:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/metz-borny
+2026-05-01 13:25:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/metz-borny
+2026-05-01 13:26:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vierzon
+2026-05-01 13:26:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vierzon
+2026-05-01 13:26:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/jouy-aux-arches
+2026-05-01 13:26:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/jouy-aux-arches
+2026-05-01 13:26:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sarreguemines
+2026-05-01 13:26:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sarreguemines
+2026-05-01 13:26:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marly
+2026-05-01 13:26:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marly
+2026-05-01 13:26:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/carbon-blanc
+2026-05-01 13:26:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/carbon-blanc
+2026-05-01 13:26:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/essey-les-nancy
+2026-05-01 13:26:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/essey-les-nancy
+2026-05-01 13:26:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/brive-la-gaillarde
+2026-05-01 13:26:28 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/brive-la-gaillarde
+2026-05-01 13:26:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/malemort-sur-correze
+2026-05-01 13:26:32 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/malemort-sur-correze
+2026-05-01 13:26:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/trelissac
+2026-05-01 13:26:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/trelissac
+2026-05-01 13:26:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mougins
+2026-05-01 13:26:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mougins
+2026-05-01 13:26:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/yzeure-moulins
+2026-05-01 13:26:44 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/yzeure-moulins
+2026-05-01 13:26:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/quetigny
+2026-05-01 13:26:48 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/quetigny
+2026-05-01 13:26:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/combs-la-ville
+2026-05-01 13:26:52 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/combs-la-ville
+2026-05-01 13:26:54 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:54 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marsannay-la-cote
+2026-05-01 13:26:56 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marsannay-la-cote
+2026-05-01 13:26:58 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:26:58 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bron-rebufer
+2026-05-01 13:27:00 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bron-rebufer
+2026-05-01 13:27:02 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:02 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/decines
+2026-05-01 13:27:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/decines
+2026-05-01 13:27:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:06 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vaulx-en-velin
+2026-05-01 13:27:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vaulx-en-velin
+2026-05-01 13:27:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/pierre-benite
+2026-05-01 13:27:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/pierre-benite
+2026-05-01 13:27:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villefranche-sur-saone
+2026-05-01 13:27:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villefranche-sur-saone
+2026-05-01 13:27:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chasse-sur-rhone
+2026-05-01 13:27:20 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chasse-sur-rhone
+2026-05-01 13:27:22 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/firminy
+2026-05-01 13:27:24 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/firminy
+2026-05-01 13:27:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montceau-les-mines
+2026-05-01 13:27:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montceau-les-mines
+2026-05-01 13:27:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-creusot
+2026-05-01 13:27:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-creusot
+2026-05-01 13:27:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bessoncourt
+2026-05-01 13:27:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bessoncourt
+2026-05-01 13:27:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/voujeaucourt
+2026-05-01 13:27:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/voujeaucourt
+2026-05-01 13:27:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/fegersheim
+2026-05-01 13:27:44 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/fegersheim
+2026-05-01 13:27:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sausheim
+2026-05-01 13:27:48 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sausheim
+2026-05-01 13:27:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/colmar-nord
+2026-05-01 13:27:52 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/colmar-nord
+2026-05-01 13:27:54 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:54 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/kingersheim
+2026-05-01 13:27:56 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/kingersheim
+2026-05-01 13:27:58 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:27:58 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sainte-foy-les-lyon
+2026-05-01 13:28:00 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sainte-foy-les-lyon
+2026-05-01 13:28:02 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:02 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/morschwiller-le-bas
+2026-05-01 13:28:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/morschwiller-le-bas
+2026-05-01 13:28:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:07 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/schweighouse-sur-moder
+2026-05-01 13:28:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/schweighouse-sur-moder
+2026-05-01 13:28:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/nimes
+2026-05-01 13:28:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/nimes
+2026-05-01 13:28:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/beziers
+2026-05-01 13:28:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/beziers
+2026-05-01 13:28:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/contern
+2026-05-01 13:28:20 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/contern
+2026-05-01 13:28:22 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/balaruc
+2026-05-01 13:28:24 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/balaruc
+2026-05-01 13:28:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-mitre-les-remparts
+2026-05-01 13:28:28 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-mitre-les-remparts
+2026-05-01 13:28:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/narbonne
+2026-05-01 13:28:32 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/narbonne
+2026-05-01 13:28:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cannes-la-bocca-le-cannet
+2026-05-01 13:28:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cannes-la-bocca-le-cannet
+2026-05-01 13:28:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/echirolles
+2026-05-01 13:28:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/echirolles
+2026-05-01 13:28:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/groslay
+2026-05-01 13:28:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/groslay
+2026-05-01 13:28:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/creil-st-maximin
+2026-05-01 13:28:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/creil-st-maximin
+2026-05-01 13:28:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tignieu-jameyzieu
+2026-05-01 13:28:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tignieu-jameyzieu
+2026-05-01 13:28:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/meaux
+2026-05-01 13:28:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/meaux
+2026-05-01 13:28:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:28:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/varennes-sur-seine
+2026-05-01 13:28:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/varennes-sur-seine
+2026-05-01 13:29:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chambry
+2026-05-01 13:29:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chambry
+2026-05-01 13:29:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bourgoin-jallieu
+2026-05-01 13:29:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bourgoin-jallieu
+2026-05-01 13:29:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/clermont-ferrand-nord
+2026-05-01 13:29:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/clermont-ferrand-nord
+2026-05-01 13:29:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montlucon
+2026-05-01 13:29:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montlucon
+2026-05-01 13:29:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-priest-en-jarez
+2026-05-01 13:29:20 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-priest-en-jarez
+2026-05-01 13:29:22 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/seyssins
+2026-05-01 13:29:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/seyssins
+2026-05-01 13:29:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saulx-les-chartreux
+2026-05-01 13:29:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saulx-les-chartreux
+2026-05-01 13:29:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bretigny-sur-orge
+2026-05-01 13:29:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bretigny-sur-orge
+2026-05-01 13:29:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vert-saint-denis
+2026-05-01 13:29:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vert-saint-denis
+2026-05-01 13:29:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/forbach
+2026-05-01 13:29:38 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/forbach
+2026-05-01 13:29:40 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/semecourt-feves
+2026-05-01 13:29:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/semecourt-feves
+2026-05-01 13:29:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/seynod
+2026-05-01 13:29:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/seynod
+2026-05-01 13:29:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cluses
+2026-05-01 13:29:50 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cluses
+2026-05-01 13:29:52 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:52 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/allonnes
+2026-05-01 13:29:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/allonnes
+2026-05-01 13:29:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:29:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/beaune
+2026-05-01 13:29:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/beaune
+2026-05-01 13:30:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/varennes-vauzelles
+2026-05-01 13:30:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/varennes-vauzelles
+2026-05-01 13:30:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-poinconnet
+2026-05-01 13:30:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-poinconnet
+2026-05-01 13:30:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-parres-aux-tertres
+2026-05-01 13:30:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-parres-aux-tertres
+2026-05-01 13:30:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/verdun
+2026-05-01 13:30:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/verdun
+2026-05-01 13:30:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/perrigny
+2026-05-01 13:30:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/perrigny
+2026-05-01 13:30:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bergerac
+2026-05-01 13:30:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bergerac
+2026-05-01 13:30:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/soyaux
+2026-05-01 13:30:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/soyaux
+2026-05-01 13:30:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/dommartin-les-toul
+2026-05-01 13:30:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/dommartin-les-toul
+2026-05-01 13:30:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/limoges-centre
+2026-05-01 13:30:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/limoges-centre
+2026-05-01 13:30:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sarrebourg
+2026-05-01 13:30:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sarrebourg
+2026-05-01 13:30:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/oyonnax
+2026-05-01 13:30:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/oyonnax
+2026-05-01 13:30:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/thiers
+2026-05-01 13:30:48 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/thiers
+2026-05-01 13:30:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chatenoy-le-royal
+2026-05-01 13:30:52 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chatenoy-le-royal
+2026-05-01 13:30:54 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:54 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/crolles
+2026-05-01 13:30:56 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/crolles
+2026-05-01 13:30:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:30:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/civrieux-dazergues-lozanne
+2026-05-01 13:30:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/civrieux-dazergues-lozanne
+2026-05-01 13:31:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/allonne-beauvais
+2026-05-01 13:31:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/allonne-beauvais
+2026-05-01 13:31:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/choisey
+2026-05-01 13:31:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/choisey
+2026-05-01 13:31:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/claye-souilly
+2026-05-01 13:31:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/claye-souilly
+2026-05-01 13:31:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/brives-charensac
+2026-05-01 13:31:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/brives-charensac
+2026-05-01 13:31:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/davezieux
+2026-05-01 13:31:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/davezieux
+2026-05-01 13:31:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lisle-dabeau
+2026-05-01 13:31:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lisle-dabeau
+2026-05-01 13:31:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/nevers
+2026-05-01 13:31:32 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/nevers
+2026-05-01 13:31:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/clermont-ferrand-le-brezet
+2026-05-01 13:31:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/clermont-ferrand-le-brezet
+2026-05-01 13:31:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:39 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/hyeres
+2026-05-01 13:31:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/hyeres
+2026-05-01 13:31:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/clermont-ferrand-pardieu
+2026-05-01 13:31:44 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/clermont-ferrand-pardieu
+2026-05-01 13:31:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vichy
+2026-05-01 13:31:48 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vichy
+2026-05-01 13:31:50 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:51 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/paray-le-monial
+2026-05-01 13:31:52 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/paray-le-monial
+2026-05-01 13:31:55 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:55 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/andrezieux-boutheon
+2026-05-01 13:31:56 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/andrezieux-boutheon
+2026-05-01 13:31:58 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:31:59 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montelimar
+2026-05-01 13:32:00 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montelimar
+2026-05-01 13:32:02 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:02 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chalons-en-champagne-fagnieres
+2026-05-01 13:32:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chalons-en-champagne-fagnieres
+2026-05-01 13:32:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:07 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/reims-la-neuvillette
+2026-05-01 13:32:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/reims-la-neuvillette
+2026-05-01 13:32:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/toulouse
+2026-05-01 13:32:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/toulouse
+2026-05-01 13:32:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montauban
+2026-05-01 13:32:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montauban
+2026-05-01 13:32:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:19 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lagny-le-sec
+2026-05-01 13:32:21 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lagny-le-sec
+2026-05-01 13:32:23 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:23 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/etampes
+2026-05-01 13:32:24 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/etampes
+2026-05-01 13:32:27 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:27 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/viriat
+2026-05-01 13:32:28 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/viriat
+2026-05-01 13:32:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montpellier
+2026-05-01 13:32:32 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montpellier
+2026-05-01 13:32:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/voiron
+2026-05-01 13:32:37 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/voiron
+2026-05-01 13:32:39 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:39 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/epagny
+2026-05-01 13:32:41 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/epagny
+2026-05-01 13:32:43 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:43 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-gervais-la-foret
+2026-05-01 13:32:45 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-gervais-la-foret
+2026-05-01 13:32:47 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/argenteuil
+2026-05-01 13:32:49 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/argenteuil
+2026-05-01 13:32:52 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:52 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/domerat-premilhat
+2026-05-01 13:32:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/domerat-premilhat
+2026-05-01 13:32:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:32:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mions
+2026-05-01 13:32:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mions
+2026-05-01 13:33:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cholet-nord
+2026-05-01 13:33:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cholet-nord
+2026-05-01 13:33:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/ales
+2026-05-01 13:33:05 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/ales
+2026-05-01 13:33:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/fameck
+2026-05-01 13:33:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/fameck
+2026-05-01 13:33:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:12 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/selestat
+2026-05-01 13:33:14 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/selestat
+2026-05-01 13:33:16 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:16 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/malauzat
+2026-05-01 13:33:18 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/malauzat
+2026-05-01 13:33:20 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:20 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villepinte
+2026-05-01 13:33:22 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villepinte
+2026-05-01 13:33:24 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:24 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/castres
+2026-05-01 13:33:26 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/castres
+2026-05-01 13:33:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-pontet
+2026-05-01 13:33:30 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-pontet
+2026-05-01 13:33:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/thonon-les-bains
+2026-05-01 13:33:34 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/thonon-les-bains
+2026-05-01 13:33:36 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/brie-comte-robert
+2026-05-01 13:33:38 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/brie-comte-robert
+2026-05-01 13:33:40 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/soissons
+2026-05-01 13:33:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/soissons
+2026-05-01 13:33:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/ecole-valentin
+2026-05-01 13:33:46 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/ecole-valentin
+2026-05-01 13:33:48 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/luisant
+2026-05-01 13:33:50 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/luisant
+2026-05-01 13:33:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lempdes
+2026-05-01 13:33:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lempdes
+2026-05-01 13:33:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:33:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cormontreuil
+2026-05-01 13:33:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cormontreuil
+2026-05-01 13:34:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sarge-les-le-mans
+2026-05-01 13:34:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sarge-les-le-mans
+2026-05-01 13:34:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/nice
+2026-05-01 13:34:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/nice
+2026-05-01 13:34:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-garde
+2026-05-01 13:34:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-garde
+2026-05-01 13:34:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/alencon
+2026-05-01 13:34:14 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/alencon
+2026-05-01 13:34:16 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-seyne-sur-mer
+2026-05-01 13:34:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-seyne-sur-mer
+2026-05-01 13:34:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cogolin
+2026-05-01 13:34:22 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cogolin
+2026-05-01 13:34:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saran
+2026-05-01 13:34:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saran
+2026-05-01 13:34:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/toulouse-sud
+2026-05-01 13:34:30 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/toulouse-sud
+2026-05-01 13:34:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-denis-les-sens
+2026-05-01 13:34:34 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-denis-les-sens
+2026-05-01 13:34:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/taverny
+2026-05-01 13:34:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/taverny
+2026-05-01 13:34:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/puget-sur-argens
+2026-05-01 13:34:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/puget-sur-argens
+2026-05-01 13:34:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-germain-du-puy
+2026-05-01 13:34:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-germain-du-puy
+2026-05-01 13:34:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/domancy
+2026-05-01 13:34:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/domancy
+2026-05-01 13:34:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/messancy
+2026-05-01 13:34:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/messancy
+2026-05-01 13:34:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:34:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/laval
+2026-05-01 13:34:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/laval
+2026-05-01 13:35:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bruay-la-buissiere
+2026-05-01 13:35:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bruay-la-buissiere
+2026-05-01 13:35:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:06 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/limoges-sud
+2026-05-01 13:35:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/limoges-sud
+2026-05-01 13:35:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/boe
+2026-05-01 13:35:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/boe
+2026-05-01 13:35:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/perpignan
+2026-05-01 13:35:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/perpignan
+2026-05-01 13:35:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/meyzieu
+2026-05-01 13:35:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/meyzieu
+2026-05-01 13:35:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/rambouillet
+2026-05-01 13:35:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/rambouillet
+2026-05-01 13:35:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/merignac
+2026-05-01 13:35:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/merignac
+2026-05-01 13:35:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-teste-de-buch
+2026-05-01 13:35:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-teste-de-buch
+2026-05-01 13:35:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tourcoing
+2026-05-01 13:35:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tourcoing
+2026-05-01 13:35:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-quentin
+2026-05-01 13:35:38 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-quentin
+2026-05-01 13:35:40 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/laxou
+2026-05-01 13:35:42 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/laxou
+2026-05-01 13:35:44 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:44 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lievin
+2026-05-01 13:35:46 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lievin
+2026-05-01 13:35:48 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:48 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/terville
+2026-05-01 13:35:50 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/terville
+2026-05-01 13:35:52 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:52 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-benoit
+2026-05-01 13:35:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-benoit
+2026-05-01 13:35:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:35:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/guyancourt
+2026-05-01 13:35:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/guyancourt
+2026-05-01 13:36:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/salaise-sur-sanne
+2026-05-01 13:36:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/salaise-sur-sanne
+2026-05-01 13:36:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tours
+2026-05-01 13:36:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tours
+2026-05-01 13:36:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/niort
+2026-05-01 13:36:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/niort
+2026-05-01 13:36:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cesson-sevigne
+2026-05-01 13:36:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cesson-sevigne
+2026-05-01 13:36:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chasseneuil-du-poitou
+2026-05-01 13:36:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chasseneuil-du-poitou
+2026-05-01 13:36:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/coignieres
+2026-05-01 13:36:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/coignieres
+2026-05-01 13:36:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/roncq
+2026-05-01 13:36:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/roncq
+2026-05-01 13:36:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/henin-beaumont
+2026-05-01 13:36:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/henin-beaumont
+2026-05-01 13:36:35 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:35 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lomme
+2026-05-01 13:36:37 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lomme
+2026-05-01 13:36:39 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:40 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/venette
+2026-05-01 13:36:42 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/venette
+2026-05-01 13:36:44 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:44 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/monswiller
+2026-05-01 13:36:45 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/monswiller
+2026-05-01 13:36:48 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:48 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/argonay
+2026-05-01 13:36:49 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/argonay
+2026-05-01 13:36:52 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:52 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mondeville
+2026-05-01 13:36:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mondeville
+2026-05-01 13:36:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:36:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/danjoutin-belfort
+2026-05-01 13:36:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/danjoutin-belfort
+2026-05-01 13:37:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/coudekerque-branche
+2026-05-01 13:37:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/coudekerque-branche
+2026-05-01 13:37:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lescar-pau
+2026-05-01 13:37:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lescar-pau
+2026-05-01 13:37:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/drumettaz
+2026-05-01 13:37:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/drumettaz
+2026-05-01 13:37:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:12 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/orsay
+2026-05-01 13:37:14 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/orsay
+2026-05-01 13:37:16 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:16 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chancelade
+2026-05-01 13:37:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chancelade
+2026-05-01 13:37:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/ferney-voltaire
+2026-05-01 13:37:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/ferney-voltaire
+2026-05-01 13:37:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/colmar-sud
+2026-05-01 13:37:26 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/colmar-sud
+2026-05-01 13:37:28 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montigny-le-bretonneux
+2026-05-01 13:37:30 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montigny-le-bretonneux
+2026-05-01 13:37:32 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/strasbourg-hautepierre
+2026-05-01 13:37:34 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/strasbourg-hautepierre
+2026-05-01 13:37:36 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:36 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/ferin-douai
+2026-05-01 13:37:38 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/ferin-douai
+2026-05-01 13:37:40 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:40 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-pierre-du-mont
+2026-05-01 13:37:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-pierre-du-mont
+2026-05-01 13:37:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chambray-les-tours
+2026-05-01 13:37:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chambray-les-tours
+2026-05-01 13:37:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/les-clayes-sous-bois
+2026-05-01 13:37:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/les-clayes-sous-bois
+2026-05-01 13:37:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lescure-dalbigeois
+2026-05-01 13:37:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lescure-dalbigeois
+2026-05-01 13:37:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:37:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/goussainville
+2026-05-01 13:37:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/goussainville
+2026-05-01 13:38:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/salon-de-provence
+2026-05-01 13:38:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/salon-de-provence
+2026-05-01 13:38:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/coulommiers
+2026-05-01 13:38:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/coulommiers
+2026-05-01 13:38:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/fresnes
+2026-05-01 13:38:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/fresnes
+2026-05-01 13:38:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/croissy-beaubourg
+2026-05-01 13:38:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/croissy-beaubourg
+2026-05-01 13:38:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/begles
+2026-05-01 13:38:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/begles
+2026-05-01 13:38:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/biarritz
+2026-05-01 13:38:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/biarritz
+2026-05-01 13:38:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-julien-en-genevois
+2026-05-01 13:38:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-julien-en-genevois
+2026-05-01 13:38:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bizanos-pau
+2026-05-01 13:38:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bizanos-pau
+2026-05-01 13:38:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/semeac
+2026-05-01 13:38:42 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/semeac
+2026-05-01 13:38:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/moisselles
+2026-05-01 13:38:50 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/moisselles
+2026-05-01 13:38:52 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:52 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/grand-quevilly
+2026-05-01 13:38:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/grand-quevilly
+2026-05-01 13:38:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:38:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/herblay
+2026-05-01 13:38:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/herblay
+2026-05-01 13:39:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villeneuve-dascq
+2026-05-01 13:39:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villeneuve-dascq
+2026-05-01 13:39:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/arras
+2026-05-01 13:39:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/arras
+2026-05-01 13:39:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/servon
+2026-05-01 13:39:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/servon
+2026-05-01 13:39:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-paul-les-dax
+2026-05-01 13:39:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-paul-les-dax
+2026-05-01 13:39:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/noisiel
+2026-05-01 13:39:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/noisiel
+2026-05-01 13:39:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/boissise-le-roi
+2026-05-01 13:39:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/boissise-le-roi
+2026-05-01 13:39:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-cyr-sur-loire
+2026-05-01 13:39:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-cyr-sur-loire
+2026-05-01 13:39:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/wasquehal
+2026-05-01 13:39:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/wasquehal
+2026-05-01 13:39:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/ahuy-dijon
+2026-05-01 13:39:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/ahuy-dijon
+2026-05-01 13:39:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/carcassonne
+2026-05-01 13:39:41 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/carcassonne
+2026-05-01 13:39:43 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:43 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/colomiers
+2026-05-01 13:39:45 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/colomiers
+2026-05-01 13:39:47 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/balma
+2026-05-01 13:39:49 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/balma
+2026-05-01 13:39:51 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:51 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marseille-einstein-13eme
+2026-05-01 13:39:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marseille-einstein-13eme
+2026-05-01 13:39:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:39:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-richardais-dinard
+2026-05-01 13:39:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-richardais-dinard
+2026-05-01 13:40:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/quimper
+2026-05-01 13:40:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/quimper
+2026-05-01 13:40:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/eragny
+2026-05-01 13:40:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/eragny
+2026-05-01 13:40:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/frouard
+2026-05-01 13:40:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/frouard
+2026-05-01 13:40:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:12 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chambly
+2026-05-01 13:40:14 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chambly
+2026-05-01 13:40:16 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:16 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/les-pennes-mirabeau
+2026-05-01 13:40:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/les-pennes-mirabeau
+2026-05-01 13:40:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/longvic
+2026-05-01 13:40:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/longvic
+2026-05-01 13:40:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sochaux
+2026-05-01 13:40:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sochaux
+2026-05-01 13:40:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-vieil-evreux
+2026-05-01 13:40:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-vieil-evreux
+2026-05-01 13:40:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vitrolles
+2026-05-01 13:40:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vitrolles
+2026-05-01 13:40:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/carpiquet
+2026-05-01 13:40:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/carpiquet
+2026-05-01 13:40:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tinqueux
+2026-05-01 13:40:44 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tinqueux
+2026-05-01 13:40:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-louis
+2026-05-01 13:40:48 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-louis
+2026-05-01 13:40:51 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:51 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-andre-les-vergers
+2026-05-01 13:40:53 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-andre-les-vergers
+2026-05-01 13:40:55 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:55 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/athis-mons
+2026-05-01 13:40:57 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/athis-mons
+2026-05-01 13:40:59 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:40:59 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cherbourg-la-glacerie
+2026-05-01 13:41:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cherbourg-la-glacerie
+2026-05-01 13:41:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-quay-perros
+2026-05-01 13:41:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-quay-perros
+2026-05-01 13:41:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/avrainville
+2026-05-01 13:41:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/avrainville
+2026-05-01 13:41:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:12 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/hazebrouck
+2026-05-01 13:41:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/hazebrouck
+2026-05-01 13:41:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marseille-la-valentine-11eme
+2026-05-01 13:41:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marseille-la-valentine-11eme
+2026-05-01 13:41:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/carpentras
+2026-05-01 13:41:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/carpentras
+2026-05-01 13:41:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/perpignan-polygone
+2026-05-01 13:41:28 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/perpignan-polygone
+2026-05-01 13:41:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chilly-mazarin
+2026-05-01 13:41:32 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chilly-mazarin
+2026-05-01 13:41:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/aurillac
+2026-05-01 13:41:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/aurillac
+2026-05-01 13:41:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/blanquefort
+2026-05-01 13:41:40 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/blanquefort
+2026-05-01 13:41:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:43 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vaux-sur-mer
+2026-05-01 13:41:45 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vaux-sur-mer
+2026-05-01 13:41:47 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/seclin
+2026-05-01 13:41:49 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/seclin
+2026-05-01 13:41:51 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:51 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/aulnoy-lez-valenciennes
+2026-05-01 13:41:53 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/aulnoy-lez-valenciennes
+2026-05-01 13:41:55 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:41:55 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mantes-la-ville
+2026-05-01 13:41:57 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mantes-la-ville
+2026-05-01 13:42:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lexy
+2026-05-01 13:42:01 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lexy
+2026-05-01 13:42:03 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-herblain
+2026-05-01 13:42:06 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-herblain
+2026-05-01 13:42:08 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:08 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/laval-saint-nicolas
+2026-05-01 13:42:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/laval-saint-nicolas
+2026-05-01 13:42:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:12 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/barentin
+2026-05-01 13:42:14 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/barentin
+2026-05-01 13:42:16 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:16 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/haute-goulaine
+2026-05-01 13:42:18 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/haute-goulaine
+2026-05-01 13:42:20 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:20 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montmorot
+2026-05-01 13:42:22 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montmorot
+2026-05-01 13:42:24 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-mans
+2026-05-01 13:42:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-mans
+2026-05-01 13:42:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chateaubernard
+2026-05-01 13:42:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chateaubernard
+2026-05-01 13:42:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/livry-gargan
+2026-05-01 13:42:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/livry-gargan
+2026-05-01 13:42:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mably
+2026-05-01 13:42:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mably
+2026-05-01 13:42:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/biganos
+2026-05-01 13:42:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/biganos
+2026-05-01 13:42:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/osny
+2026-05-01 13:42:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/osny
+2026-05-01 13:42:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bry-sur-marne
+2026-05-01 13:42:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bry-sur-marne
+2026-05-01 13:42:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/hem
+2026-05-01 13:42:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/hem
+2026-05-01 13:42:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:42:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/onet-le-chateau
+2026-05-01 13:42:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/onet-le-chateau
+2026-05-01 13:43:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/limonest
+2026-05-01 13:43:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/limonest
+2026-05-01 13:43:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:06 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-malo
+2026-05-01 13:43:09 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-malo
+2026-05-01 13:43:11 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:11 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/rouen-darnetal
+2026-05-01 13:43:13 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/rouen-darnetal
+2026-05-01 13:43:15 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:15 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/nanteuil-les-meaux
+2026-05-01 13:43:17 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/nanteuil-les-meaux
+2026-05-01 13:43:19 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:19 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/grabels
+2026-05-01 13:43:21 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/grabels
+2026-05-01 13:43:24 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:24 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/blois
+2026-05-01 13:43:26 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/blois
+2026-05-01 13:43:28 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:28 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/aubergenville
+2026-05-01 13:43:30 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/aubergenville
+2026-05-01 13:43:32 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:32 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sainte-genevieve-des-bois
+2026-05-01 13:43:34 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sainte-genevieve-des-bois
+2026-05-01 13:43:36 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:36 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/rennes
+2026-05-01 13:43:38 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/rennes
+2026-05-01 13:43:40 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:40 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/pierry
+2026-05-01 13:43:42 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/pierry
+2026-05-01 13:43:44 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:44 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/hoenheim
+2026-05-01 13:43:46 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/hoenheim
+2026-05-01 13:43:48 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:48 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/gonfreville-lorcher
+2026-05-01 13:43:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/gonfreville-lorcher
+2026-05-01 13:43:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bron-decathlon-village
+2026-05-01 13:43:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bron-decathlon-village
+2026-05-01 13:43:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:43:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/dreux
+2026-05-01 13:43:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/dreux
+2026-05-01 13:44:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/amilly
+2026-05-01 13:44:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/amilly
+2026-05-01 13:44:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-raphael
+2026-05-01 13:44:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-raphael
+2026-05-01 13:44:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chalons-en-champagne-saint-memmie
+2026-05-01 13:44:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chalons-en-champagne-saint-memmie
+2026-05-01 13:44:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/dury
+2026-05-01 13:44:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/dury
+2026-05-01 13:44:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/epinal
+2026-05-01 13:44:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/epinal
+2026-05-01 13:44:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vannes
+2026-05-01 13:44:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vannes
+2026-05-01 13:44:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/esbly
+2026-05-01 13:44:28 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/esbly
+2026-05-01 13:44:30 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cormeilles-en-parisis
+2026-05-01 13:44:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cormeilles-en-parisis
+2026-05-01 13:44:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/besancon
+2026-05-01 13:44:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/besancon
+2026-05-01 13:44:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/sainte-marie-des-champs
+2026-05-01 13:44:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/sainte-marie-des-champs
+2026-05-01 13:44:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/gonesse
+2026-05-01 13:44:44 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/gonesse
+2026-05-01 13:44:46 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/quevert
+2026-05-01 13:44:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/quevert
+2026-05-01 13:44:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:50 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/beynost
+2026-05-01 13:44:52 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/beynost
+2026-05-01 13:44:54 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:54 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mersch
+2026-05-01 13:44:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mersch
+2026-05-01 13:44:58 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:44:58 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-martin-des-champs
+2026-05-01 13:45:00 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-martin-des-champs
+2026-05-01 13:45:02 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:02 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marguerittes
+2026-05-01 13:45:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marguerittes
+2026-05-01 13:45:06 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:06 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tarbes
+2026-05-01 13:45:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tarbes
+2026-05-01 13:45:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/wickrange
+2026-05-01 13:45:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/wickrange
+2026-05-01 13:45:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/bourges
+2026-05-01 13:45:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/bourges
+2026-05-01 13:45:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-havre
+2026-05-01 13:45:20 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-havre
+2026-05-01 13:45:22 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:23 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/fleury-sur-orne
+2026-05-01 13:45:24 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/fleury-sur-orne
+2026-05-01 13:45:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:27 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/castelnau-le-lez
+2026-05-01 13:45:29 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/castelnau-le-lez
+2026-05-01 13:45:31 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:31 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/le-muy
+2026-05-01 13:45:33 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/le-muy
+2026-05-01 13:45:35 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:35 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chalon-sur-saone
+2026-05-01 13:45:36 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chalon-sur-saone
+2026-05-01 13:45:38 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:39 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villabe
+2026-05-01 13:45:41 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villabe
+2026-05-01 13:45:43 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:43 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/mennecy
+2026-05-01 13:45:45 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/mennecy
+2026-05-01 13:45:47 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:47 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/aytre
+2026-05-01 13:45:49 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/aytre
+2026-05-01 13:45:51 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:51 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-queue-en-brie
+2026-05-01 13:45:53 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-queue-en-brie
+2026-05-01 13:45:55 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:55 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/agen
+2026-05-01 13:45:57 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/agen
+2026-05-01 13:45:59 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:45:59 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chateau-thierry
+2026-05-01 13:46:00 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chateau-thierry
+2026-05-01 13:46:03 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:03 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/pontivy
+2026-05-01 13:46:04 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/pontivy
+2026-05-01 13:46:07 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:07 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cagnes-sur-mer
+2026-05-01 13:46:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cagnes-sur-mer
+2026-05-01 13:46:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-sentinelle
+2026-05-01 13:46:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-sentinelle
+2026-05-01 13:46:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/pontault-combault
+2026-05-01 13:46:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/pontault-combault
+2026-05-01 13:46:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/albertville
+2026-05-01 13:46:20 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/albertville
+2026-05-01 13:46:22 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/evry-courcouronnes
+2026-05-01 13:46:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/evry-courcouronnes
+2026-05-01 13:46:26 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/reims-witry
+2026-05-01 13:46:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/reims-witry
+2026-05-01 13:46:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/petit-quevilly
+2026-05-01 13:46:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/petit-quevilly
+2026-05-01 13:46:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/clermont-ferrand-cristal
+2026-05-01 13:46:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/clermont-ferrand-cristal
+2026-05-01 13:46:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/varennes-les-macon
+2026-05-01 13:46:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/varennes-les-macon
+2026-05-01 13:46:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/frejus
+2026-05-01 13:46:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/frejus
+2026-05-01 13:46:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/pessac
+2026-05-01 13:46:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/pessac
+2026-05-01 13:46:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/chatellerault
+2026-05-01 13:46:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/chatellerault
+2026-05-01 13:46:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/les-sables-dolonne
+2026-05-01 13:46:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/les-sables-dolonne
+2026-05-01 13:46:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:46:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/hautmont
+2026-05-01 13:46:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/hautmont
+2026-05-01 13:47:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/portes-les-valence
+2026-05-01 13:47:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/portes-les-valence
+2026-05-01 13:47:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/gaillac
+2026-05-01 13:47:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/gaillac
+2026-05-01 13:47:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-germain-les-corbeil
+2026-05-01 13:47:11 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-germain-les-corbeil
+2026-05-01 13:47:13 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:13 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/perpignan-carre-dor
+2026-05-01 13:47:15 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/perpignan-carre-dor
+2026-05-01 13:47:17 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:17 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/velizy
+2026-05-01 13:47:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/velizy
+2026-05-01 13:47:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:21 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lorient
+2026-05-01 13:47:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lorient
+2026-05-01 13:47:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:25 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/marseille-prado
+2026-05-01 13:47:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/marseille-prado
+2026-05-01 13:47:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:29 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-orens-de-gameville
+2026-05-01 13:47:30 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-orens-de-gameville
+2026-05-01 13:47:33 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:33 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/beaucouze
+2026-05-01 13:47:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/beaucouze
+2026-05-01 13:47:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:37 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-alban-leysse
+2026-05-01 13:47:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-alban-leysse
+2026-05-01 13:47:41 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:41 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/dieppe
+2026-05-01 13:47:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/dieppe
+2026-05-01 13:47:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:45 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/tregueux
+2026-05-01 13:47:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/tregueux
+2026-05-01 13:47:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-nabord
+2026-05-01 13:47:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-nabord
+2026-05-01 13:47:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/treillieres
+2026-05-01 13:47:54 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/treillieres
+2026-05-01 13:47:56 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:47:56 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villeneuve-loubet
+2026-05-01 13:47:58 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villeneuve-loubet
+2026-05-01 13:48:00 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:00 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/gap
+2026-05-01 13:48:02 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/gap
+2026-05-01 13:48:04 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:04 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/carvin
+2026-05-01 13:48:08 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/carvin
+2026-05-01 13:48:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:10 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-queue-en-brie-hippodrome
+2026-05-01 13:48:12 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-queue-en-brie-hippodrome
+2026-05-01 13:48:14 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:14 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/monchy-saint-eloi
+2026-05-01 13:48:16 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/monchy-saint-eloi
+2026-05-01 13:48:18 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:18 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/la-trinite
+2026-05-01 13:48:19 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/la-trinite
+2026-05-01 13:48:21 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:22 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/andilly
+2026-05-01 13:48:23 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/andilly
+2026-05-01 13:48:25 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:26 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/villejust
+2026-05-01 13:48:27 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/villejust
+2026-05-01 13:48:29 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:30 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lavau
+2026-05-01 13:48:31 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lavau
+2026-05-01 13:48:34 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:34 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vallauris
+2026-05-01 13:48:35 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vallauris
+2026-05-01 13:48:37 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:38 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/cholet-sud
+2026-05-01 13:48:39 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/cholet-sud
+2026-05-01 13:48:42 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:42 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/rivesaltes-1
+2026-05-01 13:48:43 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/rivesaltes-1
+2026-05-01 13:48:45 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:46 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/montussan
+2026-05-01 13:48:47 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/montussan
+2026-05-01 13:48:49 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:49 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/lieusaint
+2026-05-01 13:48:51 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/lieusaint
+2026-05-01 13:48:53 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:53 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/survilliers
+2026-05-01 13:48:55 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/survilliers
+2026-05-01 13:48:57 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:48:57 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/saint-laurent-de-mure
+2026-05-01 13:48:59 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/saint-laurent-de-mure
+2026-05-01 13:49:01 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:49:01 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/gardanne
+2026-05-01 13:49:03 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/gardanne
+2026-05-01 13:49:05 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:49:05 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/divonne-les-bains
+2026-05-01 13:49:07 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/divonne-les-bains
+2026-05-01 13:49:09 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:49:09 - DataPipeline - INFO - → Chargement: https://www.grandfrais.com/magasins/vesoul
+2026-05-01 13:49:10 - DataPipeline - INFO - ✓ Page chargée: https://www.grandfrais.com/magasins/vesoul
+2026-05-01 13:49:12 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:49:16 - DataPipeline - INFO - ✓ Driver Selenium fermé
+2026-05-01 13:49:16 - DataPipeline - INFO - Transformation CSV: grandfrais
+2026-05-01 13:50:53 - DataPipeline - INFO - ✓ CSV sauvegardé: grandfrais_final_20260501_135053.csv (345 lignes)
+2026-05-01 13:50:53 - DataPipeline - INFO - Pipeline termine en 0:25:31.017992

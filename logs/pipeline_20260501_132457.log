@@ -1,0 +1,12 @@
+2026-05-01 13:24:58 - DataPipeline - INFO - Extraction HTML: carrefour
+2026-05-01 13:24:58 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb...
+2026-05-01 13:25:00 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 18s)
+2026-05-01 13:25:00 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/
+2026-05-01 13:25:03 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/
+2026-05-01 13:25:03 - DataPipeline - DEBUG - ✓ Cookie banner fermée (#onetrust-accept-btn-handler)
+2026-05-01 13:25:04 - DataPipeline - DEBUG - ✓ Click sur button.see-more-centers
+2026-05-01 13:25:05 - DataPipeline - INFO - Carrefour: 173 centres detectes
+2026-05-01 13:25:05 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/carrefour-iroise/
+2026-05-01 13:25:06 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/carrefour-iroise/
+2026-05-01 13:25:10 - DataPipeline - DEBUG - ⚠ Pas de cookie banner trouvée
+2026-05-01 13:25:13 - DataPipeline - INFO - ✓ Driver Selenium fermé
