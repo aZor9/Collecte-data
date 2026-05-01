@@ -27,6 +27,30 @@ La comparaison est une étape séparée, branchée sur les CSV finaux.
 - `scraper/` : driver Selenium et navigation rapide
 - `loader/` et `utils/` : export CSV, logs, helpers
 
+## Installation (Windows / PowerShell)
+
+- Creer le venv: `python -m venv .venv`
+- Activer le venv: `.\.venv\Scripts\Activate.ps1`
+- Installer Selenium: `pip install selenium`
+
+Si PowerShell bloque l'activation, executer une fois:
+- `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+Note:
+- Pour executer tout le pipeline (extraction + transformation + comparaison), installer aussi les dependances du projet avec `pip install -r requirements.txt`.
+
+## Execution
+
+- Lancer toute la chaine: `python .\main.py`
+
+Comportement actuel de cette commande:
+- Elle lance le pipeline par defaut sur Carrefour avec les etapes extraction + transformation.
+- La comparaison se lance ensuite via `python .\launchers\run_compare_results.py` ou `python .\main.py --stage compare`.
+
+## Arret du venv
+
+- `deactivate`
+
 ## Lancer le projet
 
 ### Carrefour
