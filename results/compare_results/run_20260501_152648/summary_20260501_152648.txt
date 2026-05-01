@@ -1,0 +1,6 @@
+Compare resultats: 20260501_152648
+A: C:\Users\FA506\Downloads\Code\Collecte data\data\processed\grandfrais\grandfrais_final_20260501_135625.csv
+B: C:\Users\FA506\Downloads\Code\Collecte data\data\processed\grandfrais\grandfrais_final_20260501_135624.csv
+Commun: 345
+Seulement dans A: 0
+Seulement dans B: 0

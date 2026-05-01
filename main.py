@@ -52,17 +52,42 @@ def run_transformation(source: str) -> Path:
 
 def latest_source_csv(source: str) -> Path:
     folder = PROCESSED_DIR / source
+    if not folder.exists():
+        raise FileNotFoundError(
+            f"Aucun dossier de CSV final trouve pour {source} dans {folder}. "
+            f"Lancez d'abord la transformation pour cette source."
+        )
     candidates = sorted(folder.glob("*.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
     if not candidates:
-        raise FileNotFoundError(f"Aucun CSV final trouve pour {source} dans {folder}")
+        raise FileNotFoundError(
+            f"Aucun CSV final trouve pour {source} dans {folder}. "
+            f"Lancez d'abord la transformation pour cette source."
+        )
     return candidates[0]
 
 
-def run_comparison() -> Path:
-    carrefour_csv = latest_source_csv("carrefour")
-    grandfrais_csv = latest_source_csv("grandfrais")
-    logger.info("Comparaison des resultats finaux entre Carrefour et Grand Frais")
-    return compare_final_csvs(carrefour_csv, grandfrais_csv)
+def latest_two_source_csvs(source: str) -> tuple[Path, Path]:
+    folder = PROCESSED_DIR / source
+    if not folder.exists():
+        raise FileNotFoundError(
+            f"Aucun dossier de CSV final trouve pour {source} dans {folder}. "
+            f"Lancez d'abord la transformation pour cette source."
+        )
+
+    candidates = sorted(folder.glob("*.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
+    if len(candidates) < 2:
+        raise FileNotFoundError(
+            f"Au moins deux CSV finaux sont necessaires pour comparer {source} dans {folder}. "
+            f"Lancez la transformation deux fois avant la comparaison."
+        )
+
+    return candidates[0], candidates[1]
+
+
+def run_comparison(source: str) -> Path:
+    latest_csv, previous_csv = latest_two_source_csvs(source)
+    logger.info(f"Comparaison des resultats finaux pour {source}")
+    return compare_final_csvs(previous_csv, latest_csv)
 
 
 def run_pipeline(source: str, stage: str) -> int:
@@ -87,7 +112,11 @@ def run_pipeline(source: str, stage: str) -> int:
         run_transformation(source)
 
     if stage == "compare":
-        run_comparison()
+        try:
+            run_comparison(source)
+        except FileNotFoundError as exc:
+            logger.error(str(exc))
+            return 2
 
     elapsed = datetime.now() - start
     logger.info(f"Pipeline termine en {elapsed}")
