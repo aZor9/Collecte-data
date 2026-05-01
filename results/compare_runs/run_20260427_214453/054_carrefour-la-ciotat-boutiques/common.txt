@@ -1,5 +1,0 @@
-001. Carrefour
-002. Alain Afflelou
-010. Jcr Services
-Collecte des titres boutiques
-Source: https://www.centre-commercial.fr/carrefour-la-ciotat/boutiques/

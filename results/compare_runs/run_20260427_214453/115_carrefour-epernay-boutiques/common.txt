@@ -1,9 +1,0 @@
-001. Carrefour
-002. L'Orange Bleue
-003. M&A
-004. Photomaton
-005. Tendance déco
-006. Tendance Florale
-Collecte des titres boutiques
-Nombre de titres: 6
-Source: https://www.centre-commercial.fr/carrefour-epernay/boutiques/

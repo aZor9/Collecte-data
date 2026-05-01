@@ -1,5 +1,0 @@
-001. Carrefour
-002. Mister Minit
-Collecte des titres boutiques
-Nombre de titres: 2
-Source: https://www.centre-commercial.fr/carrefour-etampes/boutiques/
