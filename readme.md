@@ -1,109 +1,95 @@
-# Projet scolaire - Collecte de donnees
+# Projet de collecte de données
 
-Objectif:
-Comparer des centres commerciaux concurrents en recuperant des informations depuis leurs pages boutiques.
+Pipeline de scraping modulaire pour deux sources:
+- Carrefour
+- Grand Frais
 
-Technologie utilisee:
-- Python
-- Selenium
+## Vision
 
-## Sites cibles
-- https://www.centre-commercial.fr/labege2/boutiques/
-- https://www.centre-commercial.fr/carrefour-st-jean/boutiques/
+```text
+[1. EXTRACTION HTML] → [2. TRANSFORMATION CSV] → [3. COMPARAISON]
+```
 
-## Structure actuelle
-- `main.py` : lance les scripts dans l'ordre
-- `script/script_title.py` : recupere le titre de la page
-- `script/script_html.py` : recupere tout le HTML de la page
-- `script/script_h2.py` : recupere les titres `h2.custom-h2` d'une page boutiques
-- `script/script_collect_all_h2.py` : collecte toutes les URLs centres depuis la home, ajoute `/boutiques/`, puis scrape les titres H2 pour chaque centre
-- `script/resultat/` : dossier des fichiers generes
+Chaque source a ses deux premières étapes dédiées:
+- Carrefour: extraction HTML + transformation CSV
+- Grand Frais: extraction HTML + transformation CSV
+
+La comparaison est une étape séparée, branchée sur les CSV finaux.
+
+## Arborescence utile
+
+- `main.py` : orchestrateur principal
+- `sources/carrefour/` : extraction + transformation Carrefour
+- `sources/grandfrais/` : extraction + transformation Grand Frais
+- `tools/compare_results.py` : comparaison finale des CSV
+- `launchers/` : scripts de lancement dédiés
+- `config/settings.py` : URLs, timeouts, user-agent, sources
+- `scraper/` : driver Selenium et navigation rapide
+- `loader/` et `utils/` : export CSV, logs, helpers
 
 ## Installation (Windows / PowerShell)
-1. Creer le venv:
-	`python -m venv .venv`
-2. Activer le venv:
-	`.\.venv\Scripts\Activate.ps1`
-3. Installer Selenium:
-	`pip install selenium`
+
+- Creer le venv: `python -m venv .venv`
+- Activer le venv: `.\.venv\Scripts\Activate.ps1`
+- Installer Selenium: `pip install selenium`
 
 Si PowerShell bloque l'activation, executer une fois:
-`Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+- `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+Note:
+- Pour executer tout le pipeline (extraction + transformation + comparaison), installer aussi les dependances du projet avec `pip install -r requirements.txt`.
 
 ## Execution
-Lancer toute la chaine:
-`python .\main.py`
+
+- Lancer toute la chaine: `python .\main.py`
+
+Comportement actuel de cette commande:
+- Elle lance le pipeline par defaut sur Carrefour avec les etapes extraction + transformation.
+- La comparaison se lance ensuite via `python .\launchers\run_compare_results.py` ou `python .\main.py --stage compare`.
 
 ## Arret du venv
-`deactivate`
 
-## Fichiers générés
-- `script/resultat/script_title/title_YYYYMMDD_HHMMSS.txt`
-- `script/resultat/script_html/html_YYYYMMDD_HHMMSS.html`
-- `script/resultat/script_h2/h2_titles_YYYYMMDD_HHMMSS.txt`
-- `script/resultat/script_collect_all_h2/run_YYYYMMDD_HHMMSS/`
+- `deactivate`
 
-## Comparer des listes (nouveau)
-Tu peux comparer deux fichiers texte (une valeur par ligne) avec le script `compare_lists.py`.
+## Lancer le projet
 
-Exemples :
+### Carrefour
+- Extraction HTML seule: `python .\launchers\run_carrefour_extract_html.py`
+- Transformation CSV seule: `python .\launchers\run_carrefour_transform_csv.py`
+- Extraction + transformation: `python .\launchers\run_carrefour_pipeline.py`
 
-- Comparer deux fichiers manuellement :
-```bash
-python compare_lists.py path/to/a.txt path/to/b.txt
-```
+### Grand Frais
+- Extraction HTML seule: `python .\launchers\run_grandfrais_extract_html.py`
+- Transformation CSV seule: `python .\launchers\run_grandfrais_transform_csv.py`
+- Extraction + transformation: `python .\launchers\run_grandfrais_pipeline.py`
 
-- Utiliser le helper `run_compare.py` (exemples prêts à modifier) :
-```bash
-python run_compare.py
-```
+### Comparaison
+- Comparaison des CSV finaux: `python .\launchers\run_compare_results.py`
 
-Résultats :
-- Les résultats sont écrits dans `results/compare/run_YYYYMMDD_HHMMSS/` (summary + `only_in_a.txt`, `only_in_b.txt`, `common.txt`).
+### Point d'entrée principal
+- `python .\main.py --source carrefour --stage all`
+- `python .\main.py --source grandfrais --stage all`
+- `python .\main.py --stage compare`
 
-Remarque : modifie les chemins d'exemple dans `run_compare.py` pour pointer vers tes fichiers réels. Le helper contient deux modes (boutiques vs listes de centres) ; commente/décommente pour changer de mode.
+## Données extraites
 
-## Comparer deux runs complets (collecte à deux dates différentes)
-Utilise `compare_runs.py` pour comparer automatiquement deux exécutions complètes du script de collecte.
-Le script boucle sur tous les fichiers H2 appairés et génère un résumé global.
+Champs visés:
+- nom
+- horaires
+- description
+- catégorie
+- taille / superficie quand disponible
+- propriétaire quand disponible
+- URL source
+- date de scraping
 
-### Auto-détect (deux derniers runs) :
-```bash
-python compare_runs.py --auto
-```
+## Notes techniques
 
-### Manuel (chemins spécifiques) :
-```bash
-python compare_runs.py script/resultat/script_collect_all_h2/run_20260427_100000 script/resultat/script_collect_all_h2/run_20260427_110000
-```
-
-### Via le helper `run_compare.py` :
-Décommente la fonction `mode_compare_runs()` dans `run_compare.py` et exécute :
-```bash
-python run_compare.py
-```
-
-Résultats :
-- Chaque centre comparé a son sous-dossier dans `results/compare_runs/run_YYYYMMDD_HHMMSS/`
-- Résumé global dans `global_summary_YYYYMMDD_HHMMSS.txt`
-- Fichiers absents d'un run sont listés séparément
-
-## Option Selenium headless
-Tu peux exécuter les scripts Selenium en mode headless (sans interface graphique) en définissant la variable d'environnement `SELENIUM_HEADLESS` à `1` ou `true`.
-
-PowerShell (temporaire pour la session) :
-```powershell
-$env:SELENIUM_HEADLESS=1
-python .\main.py
-```
-
-Commande Windows (cmd.exe) :
-```cmd
-set SELENIUM_HEADLESS=1
-python .\main.py
-```
-
-Pour revenir en mode normal, ferme le terminal ou réinitialise la variable (PowerShell) :
-```powershell
-Remove-Item Env:\SELENIUM_HEADLESS
-```
+- User-agent activé côté Selenium.
+- Navigation raccourcie pour passer moins de temps sur les pages.
+- Les noms sont normalisés pour gérer les variantes majuscules / minuscules.
+- Le pipeline est séparé par source et par étape pour rester lisible et testable.
+- Si Carrefour renvoie une page de blocage (`Sorry, you have been blocked`), le pipeline:
+	- arrête proprement l'extraction,
+	- loggue clairement le blocage,
+	- et peut continuer sur la transformation en utilisant les HTML déjà présents (fallback configurable dans `main.py`, variable `ALLOW_TRANSFORM_IF_BLOCKED`).

@@ -1,0 +1,12 @@
+2026-05-01 14:04:29 - DataPipeline - INFO - Extraction HTML: carrefour
+2026-05-01 14:04:29 - DataPipeline - DEBUG - User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36...
+2026-05-01 14:04:31 - DataPipeline - INFO - ✓ Driver Selenium créé (timeout: 18s)
+2026-05-01 14:04:31 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/
+2026-05-01 14:04:33 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/
+2026-05-01 14:04:34 - DataPipeline - DEBUG - ✓ Cookie banner fermée (#onetrust-accept-btn-handler)
+2026-05-01 14:04:35 - DataPipeline - DEBUG - ✓ Click sur button.see-more-centers
+2026-05-01 14:04:36 - DataPipeline - INFO - Carrefour: 173 centres detectes
+2026-05-01 14:04:36 - DataPipeline - INFO - → Chargement: https://www.centre-commercial.fr/carrefour-iroise/
+2026-05-01 14:04:37 - DataPipeline - INFO - ✓ Page chargée: https://www.centre-commercial.fr/carrefour-iroise/
+2026-05-01 14:04:39 - DataPipeline - INFO - ✓ Driver Selenium fermé
+2026-05-01 14:04:39 - DataPipeline - ERROR - Blocage detecte sur Carrefour (https://www.centre-commercial.fr/carrefour-iroise/). Le site a refuse l'acces au navigateur automatise.

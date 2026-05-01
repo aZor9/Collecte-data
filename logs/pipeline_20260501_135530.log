@@ -1,0 +1,3 @@
+2026-05-01 13:55:31 - DataPipeline - INFO - Transformation CSV: grandfrais
+2026-05-01 13:56:24 - DataPipeline - INFO - ✓ CSV sauvegardé: grandfrais_final_20260501_135624.csv (345 lignes)
+2026-05-01 13:56:24 - DataPipeline - INFO - Pipeline termine en 0:00:53.368186
