@@ -15,6 +15,7 @@ Chaque source a ses deux premières étapes dédiées:
 - Grand Frais: extraction HTML + transformation CSV
 
 La comparaison est une étape séparée, branchée sur les CSV finaux.
+Elle compare les deux derniers CSV finaux d'une meme source.
 
 ## Arborescence utile
 
@@ -70,6 +71,10 @@ Comportement actuel de cette commande:
 - `python .\main.py --source carrefour --stage all`
 - `python .\main.py --source grandfrais --stage all`
 - `python .\main.py --stage compare`
+
+Note:
+- `--stage compare` utilise la source passee avec `--source` et compare ses deux derniers CSV finaux.
+- Exemple: `python .\main.py --source grandfrais --stage compare`
 
 ## Données extraites
 
